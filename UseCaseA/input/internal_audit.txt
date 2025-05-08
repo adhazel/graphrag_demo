@@ -1,0 +1,147 @@
+Internal auditing is an independent, objective assurance and consulting activity designed to add value and improve an organization's operations. It helps an organization accomplish its objectives by bringing a systematic, disciplined approach to evaluate and improve the effectiveness of risk management, control and governance processes. Internal auditing might achieve this goal by providing insight and recommendations based on analyses and assessments of data and business processes. With    commitment to integrity and accountability, internal auditing provides value to governing bodies and senior management as an objective source of independent advice. Professionals called internal auditors are employed by organizations to perform the internal auditing activity.
+The scope of internal auditing within an organization may be broad and may involve topics such as an organization's governance, risk management and management controls over: efficiency/effectiveness of operations (including safeguarding of assets), the reliability of financial and management reporting, and compliance with laws and regulations. Internal auditing may also involve conducting proactive fraud audits to identify potentially fraudulent acts; participating in fraud investigations under the direction of fraud investigation professionals, and conducting post investigation fraud audits to identify control breakdowns and establish financial loss.
+Internal auditors are not responsible for the execution of company activities; they advise management and the board of directors (or similar oversight body) regarding how to better execute their responsibilities. As a result of their broad scope of involvement, internal auditors may have a variety of higher educational and professional backgrounds.
+The Institute of Internal Auditors (IIA) is the recognized international standard setting body for the internal audit profession and awards the Certified Internal Auditor designation internationally through rigorous written examination. Other designations are available in certain countries. In the United States the professional standards of the Institute of Internal Auditors have been codified in several states' statutes  pertaining to the practice of internal auditing in government (New York State, Texas, and Florida being three examples). There are also a number of other international standard setting bodies.
+Internal auditors work for government agencies (federal, state and local); for publicly traded companies; and for non-profit companies across all industries. Internal auditing departments are led by a chief audit executive (CAE) who generally reports to the audit committee of the board of directors, with administrative reporting to the chief executive officer (In the United States this reporting relationship is required by law for publicly traded companies).
+
+
+== History of internal auditing ==
+The internal auditing profession evolved steadily with the progress of management science after World War II.  It is conceptually similar in many ways to financial auditing by public accounting firms, quality assurance and banking compliance activities.  While some of the audit technique underlying internal auditing is derived from management consulting and public accounting professions, the theory of internal auditing was conceived primarily by Lawrence Sawyer (1911–2002), often referred to as "the father of modern internal auditing"; and the current philosophy, theory and practice of modern internal auditing as defined by the International Professional Practices Framework (IPPF) of the Institute of Internal Auditors owes much to Sawyer's vision.
+With the implementation in the United States of the Sarbanes–Oxley Act of 2002, the profession's exposure and value was enhanced, as many internal auditors possessed the skills required to help companies meet the requirements of the law . However, the focus by internal audit departments of publicly traded companies on SOX related financial policy and procedures derailed progress made by the profession in the late 20th century toward Larry Sawyer's vision for internal audit. Beginning in about 2010, the IIA once again began advocating for the broader role internal auditing should play in the corporate arena, in keeping with the IPPF's philosophy.
+
+
+== Organizational independence ==
+While internal auditors are hired directly by their company, they can achieve independence through their reporting relationships. Independence and objectivity are a cornerstone of the IIA professional standards; and are discussed at length in the standards and the supporting practice guides and practice advisories. Professional internal auditors are mandated by the IIA standards to be independent of the business activities they audit. This independence and objectivity are achieved through the organizational placement and reporting lines of the internal audit department. Internal auditors of publicly traded companies in the United States are required to report functionally to the board of directors directly, or a sub-committee of the board of directors (typically the audit committee), and not to management except for administrative purposes.
+The required organizational independence from management enables unrestricted evaluation of management activities and personnel and allows internal auditors to perform their role effectively.  Although internal auditors are part of company management and paid by the company, the primary customer of internal audit activity is the entity charged with oversight of management's activities.  This is typically the audit committee, a committee of the board of directors.  
+Organizational independence is effectively achieved when the chief audit executive reports functionally to the board. Examples of functional reporting to the board involve the board:
+Approving the internal audit charter; Approving the risk based internal audit plan; Approving the internal audit budget and resource plan; Receiving communications from the chief audit executive on the internal audit activity's performance relative to its plan and other matters; Approving decisions regarding the appointment and removal of the chief audit executive; Approving the remuneration of the chief audit executive; and Making appropriate inquiries of management and the chief audit executive to determine whether there are inappropriate scope or resource limitations.
+
+
+== Role in internal control ==
+Internal auditing activity is primarily directed at evaluating internal control. Under the COSO Internal Control Framework, internal control is broadly defined as a process, effected by an entity's board of directors, management, and other personnel, designed to provide reasonable assurance regarding the achievement of the following core objectives for which all businesses strive:
+
+Effectiveness and efficiency of operations.
+Reliability of financial and management reporting.
+Compliance with laws and regulations.
+Safeguarding of Assets
+Management is responsible for internal control, which comprises five critical components: the control environment; risk assessment; risk focused control activities; information and communication; and monitoring activities.  Managers establish policies, processes, and practices in these five components of management control to help the organization achieve the four specific objectives listed above.  Internal auditors perform audits to evaluate whether the five components of management control are present and operating effectively, and if not, provide recommendations for improvement.
+In the United States, the internal audit function independently assesses management's system of internal control and reports its results to top management and the company's audit committee of the board of directors.
+
+
+== Role in risk management ==
+Internal auditing professional standards require the function to evaluate the effectiveness of the organization's Risk management activities.  Risk management is the process by which an organization identifies, analyses, responds, gathers information about, and monitors strategic risks that could actually or potentially impact the organization's ability to achieve its mission and objectives.
+Under the COSO enterprise risk management (ERM) Framework, an organization's strategy, operations, reporting, and compliance objectives all have associated strategic business risks – the negative outcomes resulting from internal and external events that inhibit the organization's ability to achieve its objectives. Management assesses risk as part of the ordinary course of business activities such as strategic planning, marketing planning, capital planning, budgeting, hedging, incentive payout structure, credit/lending practices, mergers and acquisitions, strategic partnerships, legislative changes, conducting business abroad, etc.  Sarbanes–Oxley regulations require extensive risk assessment of financial reporting processes.  Corporate legal counsel often prepares comprehensive assessments of the current and potential litigation a company faces.  Internal auditors may evaluate each of these activities, or focus on the overarching process used to manage risks entity-wide.  For example, internal auditors can advise management regarding the reporting of forward-looking operating measures to the board, to help identify emerging risks; or internal auditors can evaluate and report on whether the board and other stakeholders can have reasonable assurance the organization's management team has implemented an effective enterprise risk management program.
+In larger organizations, major strategic initiatives are implemented to achieve objectives and drive changes.  As a member of senior management, the chief audit executive (CAE) may participate in status updates on these major initiatives.  This places the CAE in the position to report on many of the major risks the organization faces to the audit committee, or ensure management's reporting is effective for that purpose.
+The internal audit function may help the organization address its risk of fraud via a fraud risk assessment, using principles of fraud deterrence. Internal auditors may help companies establish and maintain Enterprise Risk Management processes. This process is highly valued by many businesses for establishing and implementing effective management systems and ensuring quality is maintained & professional standards are met  Internal auditors also play an important role in helping companies execute a SOX 404 top-down risk assessment.  In these latter two areas, internal auditors typically are part of the risk assessment team in an advisory role.
+
+
+== Role in corporate governance ==
+Internal auditing activity as it relates to corporate governance has in the past been generally informal, accomplished primarily through participation in meetings and discussions with members of the board of directors.   According to COSO's ERM framework, governance is the policies, processes and structures used by the organization's leadership to direct activities, achieve objectives, and protect the interests of diverse stakeholder groups in a manner consistent with ethical standards. The internal auditor is often considered one of the "four pillars" of corporate governance, the other pillars being the board of directors, management, and the external auditor.
+A primary focus area of internal auditing as it relates to corporate governance is helping the audit committee of the board of directors (or equivalent) perform its responsibilities effectively.  This may include reporting critical management control issues, suggesting questions or topics for the audit committee's meeting agendas, and coordinating with the external auditor and management to ensure the committee receives effective information. In recent years, the IIA has advocated more formal evaluation of corporate governance, particularly in the areas of board oversight of enterprise risk, corporate ethics, and fraud.
+See also § Three lines of defence below.
+
+
+== Audit project selection or "annual audit plan" ==
+Based on the risk assessment of the organization, internal auditors, management and oversight boards determine where to focus internal auditing efforts. This focus or prioritization is part of the annual/ multi-year annual audit plan. The audit plan is typically proposed by the CAE (sometimes with several options or alternatives) for the review and approval of the audit committee or the board of directors. Internal auditing activity is generally conducted as one or more discrete assignments.
+It should be adapted to the specific purpose of audit, and the selection of audit method must be adapted to its specific purpose. Otherwise, it will deviate from the purpose of the audit.
+
+
+== Internal audit execution ==
+A typical internal audit assignment involves the following steps:
+
+Establishing and communicating the scope and objectives of the audit to appropriate members of management.
+Developing an understanding of the business area under review – this includes objectives, measurements & key transaction types and involves interviews and a review of documents – flowcharts and narratives may be created, if necessary.
+Describing the key risks facing the business activities within the scope of the audit.
+Identifying management practices in the five components of control used to ensure that each key risk is properly controlled and monitored. An internal audit checklist can be a helpful tool to identify common risks and desired controls in the specific process or specific industry being audited.
+Developing and executing a risk-based sampling and testing approach to determine whether the most important management controls are operating as intended.
+Reporting issues and challenges identified and negotiating action plans with the management to address these problems.
+Following-up on reported findings at appropriate intervals. Internal audit departments maintain a follow-up database for this purpose.
+Audit assignment length varies based on the complexity of the activity being audited and internal audit resources available. Many of the above steps are iterative and may not all occur in the sequence indicated.
+In addition to assessing business processes, specialists called information technology (IT) auditors review information technology controls.
+
+
+== Internal audit reports ==
+Internal auditors typically issue reports at the end of each audit that summarize their findings, recommendations, and any responses or action plans from management. An audit report may have an executive summary – a body that includes the specific issues or findings identified and related recommendations or action plans, and appendix information such as detailed graphs and charts or process information. Each audit finding within the body of the report may contain five elements, sometimes called the "5 C's":
+
+Condition: What is the particular problem identified?
+Criteria: What is the standard that was not met? The standard may be a company policy or other benchmark.
+Cause: Why did the problem occur?
+Consequence: What is the risk/negative outcome (or opportunity foregone) because of the finding?
+Corrective action: What should management do about the finding? What have they agreed to do and by when?
+The recommendations in an internal audit report are designed to help the organization achieve effective and  efficient governance, risk and control processes associated with operations objectives, financial and management reporting objectives; and legal/regulatory compliance objectives.
+Audit findings and recommendations may also relate to particular assertions about transactions, such as whether the transactions audited were valid or authorized, completely processed, accurately valued, processed in the correct time period, and properly disclosed in financial or operational reporting, among other elements. 
+Following are the steps about how continuous improvement can be achieved through audit findings.
+
+Develop CAPAs to address quality issues.
+Train users or employees to develop effective audit processes or procedures.
+Maintain steady and healthy relation with suppliers, vendors, users, auditors and audit bodies.
+Under the IIA standards, a critical component of the audit process is the preparation of a balanced report that provides executives and the board with the opportunity to evaluate and weigh the issues being reported in the proper context and perspective. In providing perspective, analysis and workable recommendations for business improvements in critical areas, auditors help the organization meet its objectives.
+
+
+=== Quality of internal audit report ===
+Source:
+
+Objectivity –  The comments and opinions expressed in the report should be objective and unbiased.
+Clarity – The language used should be simple and straightforward.
+Accuracy – The information contained in the report should be accurate.
+Brevity – The report should be concise.
+Timeliness – The report should be released promptly immediately after the audit is concluded, within a month.
+
+
+== Strategy ==
+Internal audit functions may also develop functional strategies described in multi-year strategic plans.  Professional guidance on building an Internal Audit strategic plan was issued by the Institute of Internal Auditors in July 2012 via a Practice Guide called Developing the Internal Audit Strategic Plan.  A key aspect of developing IA strategy is understanding the expectations of stakeholders, such as the audit committee and top management. This helps guide the IA function in its mission of helping the organization address the risks it faces. Specific topics considered in IA strategic planning include:
+
+Scope and emphasis: An IA function may be involved in addressing risks related to financial reporting, operations, legal and regulatory compliance, and the company strategy. There may also be special topics of interest to stakeholders that change considerably year-to-year.
+Portfolio of services: IA functions may provide traditional audit assurance across the risk spectrum as well as consulting project support in a variety of areas such as project management, data analysis, and monitoring of major company initiatives. Larger audit functions may establish specialty areas to handle their service portfolio.
+Competency development: The stakeholder expectations around scope and service portfolio determine what competencies the function needs, which drives decisions regarding hiring of specific skills and training programs. The internal audit function is often used as a "management training ground" to provide employees with a deeper knowledge of the company's operations before they are rotated into a management position.
+Technology: IA functions use a variety of technology tools/software to support audit process workflow, statistical analysis, and obtaining data from systems.
+Building the IA strategy may involve a variety of strategic management concepts and frameworks, such as strategic planning, strategic thinking, and SWOT analysis.
+
+
+== Other topics ==
+
+
+=== Measuring the internal audit function ===
+The measurement of the internal audit function can involve a balanced scorecard approach. Internal audit functions are primarily evaluated based on the quality of counsel and information provided to the audit committee and top management.  However, this is primarily qualitative and therefore difficult to measure.  "Customer surveys" sent to key managers after each audit engagement or report can be used to measure performance, with an annual survey to the audit committee.  Scoring on dimensions such as professionalism, quality of counsel, timeliness of work product, utility of meetings, and quality of status updates are typical with such surveys. Understanding the expectations of senior management and the audit committee represent important steps in developing a performance measurement process, as well as how such measures help align the audit function with organizational priorities. 
+Independent peer reviews are part of the quality assurance process for many internal audit groups as they are often required by standards. The resulting peer review report is made available to the audit committee.
+
+
+=== Reporting of critical findings ===
+The chief audit executive (CAE) typically reports the most critical issues to the audit committee quarterly, along with management's progress towards resolving them.  Critical issues typically have a reasonable likelihood of causing substantial financial or reputational damage to the company.  For particularly complex issues, the responsible manager may participate in the discussion. Such reporting is critical to ensure the function is respected, that the proper "tone at the top" exists in the organization, and to expedite resolution of such issues.  It is a matter of considerable judgment to select appropriate issues for the audit committee's attention and to describe them in the proper context.
+
+
+=== Audit philosophy ===
+Some of the philosophy and approach of internal auditing is derived from the work of Lawrence Sawyer. His philosophy and guidance on the role of internal audit was a forerunner of the current definition of internal auditing. It emphasized assisting management and the board in achieving the organization's objectives through well-reasoned audits, evaluations, and analyses of operational areas. He encouraged the modern internal auditor to act as a counsellor to management rather than as an adversary. Sawyer saw auditors as active players influencing events in the business rather than criticizing all degrees of errors and mistakes. He also foresaw a more desirable auditor future involving a stronger relationship with members of audit committee and the board and a divorce from direct reporting to the chief financial officer.
+Sawyer often talked about "catching a manager doing something right" and providing recognition and positive reinforcement. Writing about positive observations in audit reports was rarely done until Sawyer started talking about the idea. He understood and forecast the benefits of providing more balanced reporting while simultaneously building better relationships. Sawyer understood the psychology of interpersonal dynamics and the need for all people to receive acknowledgment and validation for relationships to prosper.
+Sawyer helped make internal auditing more relevant and more interesting through a sharp focus on operational or performance auditing. He strongly encouraged looking beyond financial statements and financial-related auditing into areas such as purchasing, warehousing and distribution, human resources, information technology, facilities management, customer service, field operations, and program management. This approach helped catapult the chief audit executive into the role of a respected and knowledgeable adviser who was thought to be reasonable, objective, and concerned about helping the organization achieve the stated goals.
+
+
+=== Three lines of defence ===
+The "Three Lines of Defence Model" 
+
+is a framework outlining the relationship between business functions, risk management, and internal audit, delineating how responsibilities should be divided. It is designed "to assure the effective and transparent management of risk", by making accountabilities clear. The terminology is analogized from the military  "Line of defence" (and the concept of defence in depth).
+
+Under the first line of defence, risks are managed and controlled day-to-day. Here customer-facing operational management has "ownership, responsibility and accountability for directly assessing, controlling and mitigating risks".  Its value  is that it comes "from those who know the business, culture and day-to-day challenges" (see also Internal control § Operating staff); at the same time, however, this Line may lack independence.
+The second line of defence consists of the independent functions of Risk Management, Compliance, and Operational Risk. This line of defence monitors and facilitates the implementation of effective risk management practices by the first line, providing "oversight and challenge"; and also assists the "risk owners" in producing and interpreting risk-related reporting. Although separate from those responsible for delivery, it is not independent of the management chain. (See, re banking, Middle office.)
+The third line of defence is internal audit, reporting directly to the Board of directors. Internal audit reviews and reports on both the first and the second lines of defence, providing objective and independent assurance,  per § Role in corporate governance above.
+Under later iterations of the model, assurance from "external independent bodies"  is seen as a fourth line of defence; here the external auditor, and others, provide assurance and insights to the Board and are "clearly seen to be independent".
+The "last line of defence"  against risk is that of capital, as a sufficient quantum "ensures that a firm can continue as a going concern even if substantial and unexpected losses are incurred"; see Risk capital, Regulatory capital, Financial risk management, and Going concern § Management's plans.
+
+
+=== Disruptive innovation ===
+Internal audit plays a critical role maintaining effective control mitigating emerging risks. Businesses will increase risk or bypass opportunity if auditors do not address disruption-related risks.  Michael G. Alles has discussed that Big Data is a disruptive innovation that auditors must  incorporate in practice. A 2019 study, Internal Auditors' Response to Disruptive Innovation, reports on the  evolution of internal audit to react to changes. Disruptions examined include data analytics, agile processes, cloud computing, robotic process automation, continuous auditing, regulatory change, and artificial intelligence.
+
+
+== See also ==
+Certified Information Systems Auditor
+Chartered Institute of Internal Auditors
+Committee of Sponsoring Organizations of the Treadway Commission (COSO)
+Fraud deterrence
+Institute of Internal Auditors
+International Auditing and Assurance Standards Board
+IS audit
+Operational auditing
+Risk-based internal audit
+
+
+== References ==

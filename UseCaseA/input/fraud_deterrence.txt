@@ -1,0 +1,77 @@
+Fraud deterrence has gained public recognition and spotlight since the 2002 inception of the Sarbanes-Oxley Act. Of the many reforms enacted through Sarbanes-Oxley, one major goal was to regain public confidence in the reliability of financial markets in the wake of corporate scandals such as Enron, WorldCom and Waste Management. Section 404 of Sarbanes Oxley mandated that public companies have an independent Audit of internal controls over financial reporting. In essence, the intent of the U.S. Congress in passing the Sarbanes Oxley Act was attempting to proactively deter financial misrepresentation (Fraud) in order to ensure more accurate financial reporting to increase investor confidence. This same concept is applied in the discussion of fraud deterrence.
+Until recently, fraud deterrence has not been specifically identified under one common definition. While it has been discussed by many authoritative sources such as the American Institute of Certified Public Accountants (AICPA) Practice Aid Series, "Fraud Detection in a GAAS Audit: SAS No. 99 Implementation Guide," (explicitly) The Committee of Sponsoring Organizations of the Treadway Commission (COSO), "Internal Control – Integrated Framework," (implicitly) and the National Association of Certified Valuation Analysts Certified Fraud Deterrence Analyst (CFD) designation (recently merged into the Certified Forensic Financial Analyst (CFFA) designation), an actual definition of the term "fraud deterrence" has been difficult to find.
+
+
+== Concept ==
+Fraud deterrence is based on the premise that fraud is not a random occurrence; fraud occurs where the conditions are right for it to occur. Fraud deterrence attacks the root causes and enablers of fraud; this analysis could reveal potential fraud opportunities in the process, but is performed on the premise that improving organizational procedures to reduce or eliminate the causal factors of fraud is the single best defense against fraud. Fraud deterrence involves both short-term (procedural) and long-term (cultural) initiatives.
+Fraud deterrence is not earlier fraud detection, and this is often a confusing point. Fraud detection involves a review of historical transactions to identify indicators of a non-conforming transaction. Deterrence involves an analysis of the conditions and procedures that affect fraud enablers, in essence, looking at what could happen in the future given the process definitions in place, and the people operating that process. Deterrence is a preventive measure – reducing input factors"
+
+
+=== Analogy ===
+Deterrence is distinct from remediation and detection. An analogy can be drawn in considering unhealthy weight gain and the actions undertaken in response. Identifying the action(s) that deter unhealthy weight gain is the key to understanding fraud deterrence in this analogy.
+
+Working Out = Remediation
+A person has already gained weight
+Lessen the amount of weight gain by working out immediately after noticed gain
+The longer the weight gain goes unnoticed, the more overweight they will become
+Scale = Early Detection
+Scale is used to detect weight gain, before it is visibly noticeable
+Detects nothing unless weight is increasing
+When the scale reads a higher number, the weight has already been gained
+Removal of Causal Factors = Deterrence
+Removal of unhealthy food in diet
+Removal of habits that perpetuate obesity (e.g. inactivity)
+Increasing awareness of obesity risks (e.g. health classes in primary education)
+
+
+=== Deterrence vs. Prevention ===
+Deterrence involves eliminating factors that may cause fraud, whereas prevention involves identifying and stopping existing fraud.
+
+
+== Fraud Triangle ==
+
+The causal factors that should be removed to deter fraud (as described above) are best described in the Fraud or Compromise Triangle. This idea was first put forward in an article by Donald R. Cressey and Edwin Sutherland. The term was later coined by Steve Albrecht. The Fraud Triangle describes three factors that are present in every situation of fraud:
+
+Motive (or pressure) – the need for committing fraud (need for money, etc.);
+Rationalization – the mindset of the fraudster that justifies them to commit fraud; and
+Opportunity – the situation that enables fraud to occur (often when internal controls are weak or nonexistent).
+
+
+=== Breaking the Fraud Triangle ===
+Breaking the Fraud Triangle is the key to fraud deterrence. Breaking the Fraud Triangle implies that an organization must remove one of the elements in the fraud triangle in order to reduce the likelihood of fraudulent activities. "Of the three elements, removal of Opportunity is most directly affected by the system of internal controls and generally provides the most actionable route to deterrence of fraud" (Cendrowski, Martin, Petro, The Handbook of Fraud Deterrence).
+
+
+== SAS 99 ==
+Statement on Auditing Standards No. 99 (SAS 99), Consideration of Fraud in a Financial Statement Audit, was "the first major audit standard to be released since the passage of Sarbanes-Oxley" (AICPA, Detection in a GAAS Audit: SAS No. 99 Implementation Guide). While the standard was intended to assist auditors in detecting fraud during a financial statement audit, its application was more pervasive. "SAS No. 99 has the potential to significantly improve audit quality, not just in detecting fraud, but in detecting all material misstatements and improving the quality of the financial reporting process" (AICPA, Fraud Detection in a GAAS Audit: SAS No. 99 Implementation Guide).
+The SAS 99 Practice Aid discusses fraud deterrence in addition to its primary focus of fraud detection, "Because fraud prevention, detection, deterrence are management’s responsibility, the new fraud SAS now requires you to determine whether management has designed programs and controls that address identified risks of material misstatement due to fraud and whether those programs and controls have been placed in operation" (AICPA, Detection in a GAAS Audit: SAS No. 99 Implementation Guide). In essence, the AICPA has identified that fraud deterrence can be achieved through the implementation of controls and procedures that mitigate (Mitigating Controls) against areas already identified as risk areas.
+
+
+== The COSO Model ==
+The COSO "Internal Control – Integrated Framework," (COSO Model) describes five interrelated components of internal control that provide the foundation for fraud deterrence. These elements of internal control are the means for which the ‘Opportunity’ factors in the Fraud Triangle can be removed to most effectively limit instances of fraud. In fact, The Association of Certified Fraud Examiners (ACFE) 2002 Report to the Nation on Occupational Fraud and Abuse reveals that 46.2% of frauds occur because the victim lacked sufficient controls to prevent the fraud. The five COSO components are:
+
+
+=== 1. Control Environment ===
+The Control environment consists of the actions, policies, and procedures that reflect the overall attitudes of top management, directors and owners of an entity about internal control and its importance to the entity." Some subcomponents of the Control environment include: integrity and ethical values; commitment to competence; board of directors or Audit committee participation; management’s philosophy and operating style; organizational structure; assignment of authority and responsibility; and human resource policies and practices (Arens, Elder, Beasley, Auditing and Assurance Services).
+
+
+=== 2. Risk Assessment ===
+"Risk Assessment is a forward looking survey of the business environment to identify anything that could prevent the accomplishment of organizational objectives. As it relates to fraud deterrence, risk assessment involves the identification of internal and external means that could potentially defeat the organization’s internal control structure, compromise an asset, and conceal the actions from management. Risk assessment is a creative process; it involves identifying as many potential threats as possible, and evaluating them in a way to determine which require action, and the priority for that action" (Cendrowski, Martin, Petro, The Handbook of Fraud Deterrence).
+
+
+=== 3. Control Activities ===
+"Policies and procedures, in addition to those included in the other four components, that help ensure that necessary actions are taken to address risks in the achievement of the entity’s objectives" (Arens, Elder, Beasley, Auditing and Assurance Services). "Control procedures are also a prime focus area for fraud deterrence engagements; if control procedures are not adequately defined and consistently enforced within the organization, the opportunity for fraud is introduced" (Cendrowski, Martin, Petro, The Handbook of Fraud Deterrence). "For asset protection, this typically involves identifying assets within the organization that would be susceptible to fraud, and defining control procedures such that the assets cannot be removed and the removal concealed. Fraud deterrence involves proactively examining these control procedures to verify they are adequately designed and actually functioning within the organization" (Cendrowski, Martin, Petro, The Handbook of Fraud Deterrence). Control activities generally fall into the five following specific control activities: 1) adequate separation of duties; 2) proper authorization of transactions and activities; 3) adequate documents and records; 4) physical control over assets and records; and 5) independent checks on performance (Arens, Elder, Beasley, Auditing and Assurance Services).
+
+
+=== 4. Information & Communication ===
+"Information and Communication relates to the flow of information in two directions within the organization. First, information should flow downward to the line functions and provide the best, most accurate information as needed to allow the function to produce the best results possible. Second, information about performance should flow upwards through management, through both formal and informal communication channels, providing objective feedback. Both communication channels must function effectively to safeguard the organization" (Cendrowski, Martin, Petro, The Handbook of Fraud Deterrence).
+
+
+=== 5. Monitoring ===
+"Monitoring activities deal with ongoing or periodic assessment of the quality of internal control performance by management to determine that controls are operating as intended and that they are modified as appropriate for changes in conditions" (Arens, Elder, Beasley, Auditing and Assurance Services). "Monitoring involves both fraud deterrence and fraud detection activities. First, management(what if some in the management are the perpetrators of fraud- JUDGE -MIDLANDS STATE UNIVERSITY) must ensure that all control processes are performed as designed and approved. Control compliance analysis to verify correct performance of procedures could reveal a control that has been inappropriately modified or one that is not performed as approved; this control weakness could present the opportunity for fraud. Proactively identifying these weaknesses and correcting the weakness is this is the fraud deterrence aspect of the monitoring process" (Cendrowski, Martin, Petro, The Handbook of Fraud Deterrence).
+
+
+== Further reading ==
+2009 IT Audit Benchmarking Study (The Institute of Internal Auditors)
+
+
+== References ==
