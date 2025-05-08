@@ -1,123 +1,243 @@
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
   <key id="d0" for="edge" attr.name="weight" attr.type="double" />
   <graph edgedefault="undirected">
-    <node id="US GENERALLY ACCEPTED ACCOUNTING PRINCIPLES (US GAAP)" />
-    <node id="INTERNATIONAL STANDARDS ON AUDITING (ISA)" />
-    <node id="INTERNATIONAL AUDITING AND ASSURANCE STANDARDS BOARD (IAASB)" />
+    <node id="INTERNATIONAL STANDARDS ON AUDITING" />
+    <node id="INTERNATIONAL AUDITING AND ASSURANCE STANDARDS BOARD" />
+    <node id="US GENERALLY ACCEPTED ACCOUNTING PRINCIPLES" />
     <node id="THE BIG FOUR" />
     <node id="FTSE 100" />
     <node id="FTSE 250 INDEX" />
-    <node id="GREENWOOD ET AL." />
-    <node id="AUDIT FIRM" />
-    <node id="LONDON STOCK EXCHANGE" />
     <node id="BADER" />
+    <node id="AUDITOR" />
     <node id="FINANCIAL AUDIT" />
-    <node id="EU-MEMBER STATES" />
+    <node id="ACCOUNTING FIRMS" />
     <node id="INTERNAL AUDITORS" />
     <node id="EXTERNAL AUDITORS" />
+    <node id="AUDIT OPINION" />
+    <node id="UNQUALIFIED AUDITOR'S OPINION" />
+    <node id="QUALIFIED OPINION" />
+    <node id="DISCLAIMER" />
+    <node id="ADVERSE AUDIT OPINION" />
+    <node id="INTERNATIONAL ACCOUNTING STANDARDS" />
+    <node id="MANAGEMENT" />
+    <node id="SHAREHOLDERS" />
+    <node id="TAX AUTHORITIES" />
+    <node id="BANKS" />
+    <node id="REGULATORS" />
+    <node id="SUPPLIERS" />
+    <node id="CUSTOMERS" />
+    <node id="EMPLOYEES" />
+    <node id="MATERIAL MISSTATEMENT" />
+    <node id="ISA 450" />
+    <node id="AUDIT EVIDENCE" />
+    <node id="POSTING CHECKING" />
+    <node id="TESTING MANAGEMENT CONTROLS" />
+    <node id="CASTING CHECKING" />
+    <node id="PHYSICAL EXAMINATION AND COUNT" />
+    <node id="CONFIRMATION" />
+    <node id="INQUIRY" />
+    <node id="OBSERVATION" />
+    <node id="INSPECTION" />
+    <node id="YEAR-END SCRUTINY" />
+    <node id="RE-COMPUTATION" />
+    <node id="TRACING IN SUBSEQUENT PERIOD" />
+    <node id="BANK RECONCILIATION" />
+    <node id="VOUCHING" />
+    <node id="VERIFICATION OF ASSETS AND LIABILITIES" />
+    <node id="INFORMATION ASYMMETRY" />
+    <node id="INFORMATION RISK" />
+    <node id="REASONABLE ASSURANCE" />
+    <node id="AUDIT PROCESS" />
+    <node id="ACCOUNTING STANDARDS" />
+    <node id="ORGANIZATION" />
+    <node id="FINANCIAL STATEMENTS" />
+    <node id="PUBLIC STOCK EXCHANGES" />
+    <node id="AUDITORS" />
+    <node id="EU-MEMBER STATES" />
     <node id="BIG FOUR" />
     <node id="KPMG" />
-    <node id="DELOITTE TOUCH&#201; TOHMATSU" />
+    <node id="DELOITTE TOUCHE TOHMATSU" />
     <node id="PRICEWATERHOUSECOOPERS" />
     <node id="ERNST &amp; YOUNG" />
-    <node id="UNITED KINGDOM" />
+    <node id="BIG FIVE" />
     <node id="GERMANY" />
+    <node id="UNITED KINGDOM" />
     <node id="SWITZERLAND" />
     <node id="LIECHTENSTEIN" />
+    <node id="CPA FIRM" />
+    <node id="AI TOOLS" />
+    <node id="AMERICAS" />
+    <node id="EMEIA" />
+    <node id="ASIA-PACIFIC" />
     <node id="JAPAN" />
     <node id="ARTHUR ANDERSEN" />
     <node id="ENRON SCANDAL" />
-    <node id="NATIONAL AUDIT OFFICE" />
-    <node id="WILLIAM EWART GLADSTONE" />
-    <node id="BANK OF ENGLAND" />
+    <node id="QUEEN ELIZABETH I" />
+    <node id="AUDITORS OF THE IMPRESA" />
     <node id="COMPTROLLER OF THE EXCHEQUER" />
     <node id="COMMISSIONERS FOR AUDITING THE PUBLIC ACCOUNTS" />
+    <node id="WILLIAM EWART GLADSTONE" />
     <node id="COMPTROLLER AND AUDITOR GENERAL" />
     <node id="EXCHEQUER AND AUDIT DEPARTMENT" />
-    <node id="AUDITOR OF THE EXCHEQUER" />
-    <node id="AUDITORS OF THE IMPRESA" />
+    <node id="NATIONAL AUDIT OFFICE" />
+    <node id="BANK OF ENGLAND" />
+    <node id="PARLIAMENT" />
+    <node id="AUDIT OF GOVERNMENT EXPENDITURE" />
+    <node id="AUSTRALIAN NATIONAL AUDIT OFFICE" />
+    <node id="AUSTRALIAN GOVERNMENT" />
+    <node id="CERTIFIED PUBLIC ACCOUNTANT" />
+    <node id="UNITED STATES" />
+    <node id="BRITISH INVESTORS" />
+    <node id="SCOTTISH INVESTORS" />
+    <node id="CHARTERED ACCOUNTANT" />
+    <node id="BIG SIX" />
+    <node id="BIG EIGHT" />
+    <node id="ENGLAND" />
+    <node id="CORPORATION FORMATION 1845" />
+    <node id="AUDITOR PROFESSION STANDARDIZATION" />
+    <node id="EXCHEQUER" />
+    <node id="AUDIT COMMITTEE" />
+    <node id="AUDIT FEES" />
+    <node id="ORIGINS OF FINANCIAL AUDIT" />
+    <node id="AUDIT QUALITY" />
     <node id="ARTHUR YOUNG" />
     <node id="EDWIN GUTHRIE" />
     <node id="JAMES T. ANYON" />
-    <node id="FEDERAL TRADE COMMISSION" />
-    <node id="FEDERAL RESERVE BOARD" />
+    <node id="NEW YORK STOCK EXCHANGE" />
     <node id="SECURITIES AND EXCHANGE COMMISSION" />
-    <node id="FRANKLIN D. ROOSEVELT" />
-    <node id="CERTIFIED PUBLIC ACCOUNTANT" />
+    <node id="CPA" />
     <node id="ENRON" />
     <node id="WORLDCOM" />
-    <node id="PUBLIC COMPANY ACCOUNTING OVERSIGHT BOARD" />
-    <node id="SARBANES&#8211;OXLEY ACT" />
-    <node id="BRITAIN" />
-    <node id="UNITED STATES" />
-    <node id="SCOTLAND" />
+    <node id="ACCOUNTING PRACTICES" />
+    <node id="CERTIFIED PUBLIC ACCOUNTANT (CPA) LICENSE" />
+    <node id="ALEXANDER SMITH" />
+    <node id="FEDERAL TRADE COMMISSION" />
+    <node id="INSTITUTE" />
+    <node id="TECHNICAL MEMORANDUM" />
+    <node id="FEDERAL RESERVE BOARD" />
+    <node id="AUDITING STANDARDS" />
+    <node id="FINANCIAL AUDITS" />
     <node id="SECURITIES ACT OF 1933" />
+    <node id="FRANKLIN D. ROOSEVELT" />
     <node id="SECURITIES EXCHANGE ACT OF 1934" />
-    <node id="INSTITUTE OF CHARTERED ACCOUNTANTS AUSTRALIA" />
-    <node id="CPA AUSTRALIA" />
-    <node id="NATIONAL INSTITUTE OF ACCOUNTANTS" />
+    <node id="U.S. CONGRESS" />
+    <node id="ACCOUNTING INDUSTRY" />
+    <node id="SARBANES&#8211;OXLEY ACT" />
+    <node id="PUBLIC COMPANY ACCOUNTING OVERSIGHT BOARD" />
+    <node id="INTERNAL CONTROL PROCEDURES" />
     <node id="ACCA" />
+    <node id="AUDITING GUIDELINES" />
     <node id="ICAEW" />
     <node id="ICAS" />
     <node id="ICAI" />
-    <node id="INSTITUTE OF CHARTERED ACCOUNTANTS IN ENGLAND AND WALES" />
-    <node id="INSTITUTE OF CHARTERED ACCOUNTANTS OF SCOTLAND" />
-    <node id="INSTITUTE OF CHARTERED ACCOUNTANTS IN IRELAND" />
+    <node id="SEC LISTED COMPANIES" />
+    <node id="INSTITUTE OF CHARTERED ACCOUNTANTS AUSTRALIA" />
+    <node id="AUSTRALIA" />
+    <node id="CPA AUSTRALIA" />
+    <node id="NATIONAL INSTITUTE OF ACCOUNTANTS" />
+    <node id="GENERALLY ACCEPTED AUDITING STANDARDS (GAAS)" />
+    <node id="AUDITING FAILURES" />
+    <node id="THIRD-PARTY QUALITY REVIEW" />
+    <node id="PHASE I: PLANNING OF AUDIT AND DESIGN AN AUDIT APPROACH" />
+    <node id="AUDIT" />
+    <node id="PHASE II: PERFORM TEST OF CONTROLS AND SUBSTANTIVE TEST OF TRANSACTIONS" />
+    <node id="AUDITING PROCEDURES" />
+    <node id="PROFIT AND LOSS STATEMENT" />
+    <node id="BALANCE SHEET" />
+    <node id="AUDITING FIRMS" />
     <node id="CORPORATIONS ACT 2001" />
+    <node id="AUDITING FIRM" />
     <node id="ASIC" />
+    <node id="INFORMATION SYSTEMS" />
+    <node id="ARTIFICIAL INTELLIGENCE" />
+    <node id="BLOCKCHAIN" />
+    <node id="DATA ANALYTICS" />
+    <node id="CLOUD COMPUTING" />
+    <node id="CLOUD STORAGE" />
     <node id="CERTIFIED INTERNAL AUDITOR" />
     <node id="CERTIFIED GENERAL ACCOUNTANT" />
     <node id="CHARTERED CERTIFIED ACCOUNTANT" />
-    <node id="CHARTERED ACCOUNTANT" />
+    <node id="AUDIT REPORT" />
+    <node id="AUDIT PLAN" />
+    <node id="TEST OF CONTROL" />
+    <node id="SUBSTANTIVE TEST OF TRANSACTIONS" />
+    <node id="SUBSTANTIVE ANALYTICAL PROCEDURES" />
+    <node id="SUBSTANTIVE TESTS OF DETAIL OF BALANCES" />
+    <node id="HARD CLOSE" />
+    <node id="ROLLFORWARD PROCEDURES" />
+    <node id="INDEPENDENCE DECLARATION" />
+    <node id="ECONOMIC INCENTIVES" />
     <node id="INCENTIVE SYSTEMS TO PROMOTE CAPITAL MARKET GATEKEEPER EFFECTIVENESS" />
     <node id="FINANCIAL STATEMENT INSURANCE" />
-    <node id="AUDITOR" />
-    <node id="AUDIT" />
+    <node id="INHERENT RISK" />
+    <node id="CONTROL RISK" />
+    <node id="ACCEPTED AUDIT RISK (AAR)" />
+    <node id="OVERALL AUDIT PLAN" />
+    <node id="ACCOUNT RECONCILIATIONS" />
+    <node id="SEGREGATION OF DUTIES" />
+    <node id="IT GENERAL CONTROLS" />
+    <node id="SUBSTANTIVE TESTING" />
+    <node id="AUDIT EVIDENCES" />
+    <node id="AUDIT METHODOLOGY" />
+    <node id="PROFESSIONAL BODIES" />
     <node id="CLIENT" />
-    <node id="CPA" />
-    <node id="AUDITING STANDARDS" />
-    <node id="INDEPENDENCE DECLARATION" />
+    <node id="COMMERCIAL RELATIONSHIP" />
     <node id="INTERNAL CONTROL" />
-    <node id="SUBSTANTIVE TEST" />
-    <node id="PHASE I" />
-    <node id="PHASE II" />
-    <node id="PHASE III" />
-    <node id="PHASE IV" />
-    <node id="AUDIT REPORT" />
-    <node id="FINANCIAL STATEMENTS" />
-    <node id="AUDITING FIRM" />
+    <node id="UNIT SELLING PRICE" />
+    <node id="DUPLICATE SALES INVOICES" />
+    <node id="ELECTRONIC FILE OF APPROVED PRICES" />
+    <node id="AUDIT OBJECTIVES" />
+    <node id="AUDIT PROGRAM" />
     <node id="DELOITTE" />
     <node id="ARGUS" />
-    <node id="BLOCKCHAIN" />
-    <node id="CLOUD COMPUTING" />
-    <node id="CLOUD STORAGE" />
+    <node id="FINANCIAL AUDITING" />
     <node id="HALO" />
     <node id="CYBER SECURITY" />
+    <node id="FINANCIAL ORGANIZATIONS" />
     <node id="MACHINE LEARNING" />
-    <node id="ARTIFICIAL INTELLIGENCE" />
+    <node id="DEEP LEARNING" />
+    <node id="BUSINESSES" />
+    <node id="TECHNOLOGY" />
+    <node id="DATA MANAGEMENT" />
+    <node id="AUDITING INDUSTRY" />
+    <node id="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" />
     <node id="FRAUD" />
-    <node id="MORTGAGE FRAUD" />
-    <node id="FORGERY" />
-    <node id="INTERNET FRAUD" />
+    <node id="CHINA" />
     <node id="INTERNAL FRAUD" />
     <node id="COMMODITIES FRAUD" />
-    <node id="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" />
+    <node id="COURT OF LAW" />
+    <node id="JURISDICTIONS" />
+    <node id="COMMON LAW JURISDICTIONS" />
+    <node id="BANKING INDUSTRY" />
+    <node id="MANUFACTURING INDUSTRY" />
+    <node id="GOVERNMENT" />
+    <node id="MORTGAGE FRAUD" />
+    <node id="THEFT BY FALSE PRETENSE" />
     <node id="BANK FRAUD" />
     <node id="INSURANCE FRAUD" />
-    <node id="TAX FRAUD" />
+    <node id="FORGERY" />
+    <node id="COUNTERFEITING" />
+    <node id="INTERNET FRAUD" />
+    <node id="MAIL FRAUD" />
+    <node id="WIRE FRAUD" />
+    <node id="HOAX" />
+    <node id="VICTIM" />
+    <node id="FRAUD PERPETRATOR" />
+    <node id="GOVERNMENTAL AUTHORITIES" />
+    <node id="BENFORD'S LAW" />
+    <node id="FORENSIC ANALYTICS" />
+    <node id="PREDICTIVE ANALYTICS" />
+    <node id="BANKING" />
+    <node id="MANUFACTURING" />
+    <node id="PEOPLE'S REPUBLIC OF CHINA" />
     <node id="CRIMINAL LAW OF THE PEOPLE'S REPUBLIC OF CHINA" />
-    <node id="CHINA" />
-    <node id="ASIA" />
-    <node id="2010 FRAUD SURVEY" />
-    <node id="CRIME OF FRAUD" />
     <node id="SUPREME PEOPLE'S COURT" />
     <node id="SUPREME PEOPLE'S PROCURATORATE" />
+    <node id="CRIME OF FRAUD" />
     <node id="INDIA" />
     <node id="INDIAN PENAL CODE" />
     <node id="CRIMINAL PROCEDURE CODE" />
     <node id="INDIAN EVIDENCE ACT" />
-    <node id="UNITED KINGDOM FRAUD STUDY 2017" />
-    <node id="NATIONAL CRIME AGENCY" />
     <node id="FINANCIAL TIMES" />
     <node id="BDO" />
     <node id="CROWE CLARK WHITEHILL" />
@@ -126,94 +246,190 @@
     <node id="FRAUD ADVISORY PANEL" />
     <node id="ACTION FRAUD" />
     <node id="CITY OF LONDON POLICE" />
+    <node id="NATIONAL CRIME AGENCY" />
+    <node id="CRIME SURVEY OF ENGLAND AND WALES" />
+    <node id="OFFICE FOR NATIONAL STATISTICS" />
+    <node id="ROMANIA" />
+    <node id="QATAR" />
+    <node id="HUNGARY" />
+    <node id="HM TREASURY" />
+    <node id="ANNUAL FRAUD INDICATOR 2017" />
+    <node id="ENGLAND AND WALES" />
+    <node id="UK ANTI-FRAUD CHARITY" />
+    <node id="NATIONAL FRAUD AND CYBERCRIME REPORTING CENTRE" />
     <node id="ADRIAN LEPPARD" />
     <node id="DONALD TOON" />
-    <node id="SIR ANYAS MORSE" />
-    <node id="OFFICE FOR NATIONAL STATISTICS" />
     <node id="CRIME HARM INDEX" />
-    <node id="HM TREASURY" />
-    <node id="SCAM INTERCEPTORS" />
-    <node id="SERIOUS FRAUD OFFICE" />
-    <node id="NATIONAL FRAUD AUTHORITY" />
-    <node id="CIFAS" />
-    <node id="ENGLAND AND WALES" />
-    <node id="NORTHERN IRELAND" />
-    <node id="ENGLAND" />
+    <node id="SIR ANYAS MORSE" />
+    <node id="INTERPRETATION ON SEVERAL ISSUES CONCERNING THE SPECIFIC APPLICATION OF THE LAW IN HANDLING CRIMINAL CASES OF FRAUD" />
+    <node id="ARTICLE 266" />
     <node id="FRAUD ACT 2006" />
+    <node id="ONLINE FRAUD" />
+    <node id="GOVERNMENT OF THE UNITED KINGDOM" />
+    <node id="SCAM INTERCEPTORS" />
     <node id="WALES" />
-    <node id="ROYAL ASSENT" />
+    <node id="NORTHERN IRELAND" />
+    <node id="SCOTLAND" />
+    <node id="THEFT ACT 1978" />
+    <node id="FRAUD BY FALSE REPRESENTATION" />
+    <node id="FRAUD BY FAILING TO DISCLOSE INFORMATION" />
+    <node id="FRAUD BY ABUSE OF POSITION" />
     <node id="SUMMARY CONVICTION" />
     <node id="CONVICTION ON INDICTMENT" />
-    <node id="THEFT ACT 1978" />
+    <node id="SERIOUS FRAUD OFFICE" />
+    <node id="ATTORNEY GENERAL FOR ENGLAND AND WALES" />
+    <node id="NATIONAL FRAUD AUTHORITY" />
+    <node id="CIFAS" />
+    <node id="COMMON LAW FRAUD" />
+    <node id="STATUTORY FRAUD" />
     <node id="CANADA" />
-    <node id="NORTH AMERICA" />
+    <node id="CRIMINAL CODE" />
+    <node id="SUPREME COURT OF CANADA" />
+    <node id="SECTION 380(1) OF THE CRIMINAL CODE" />
+    <node id="PROHIBITION ORDER UNDER S. 380.2" />
+    <node id="RESTITUTION ORDER UNDER S. 380.3" />
+    <node id="CALIFORNIA" />
+    <node id="HIGH-VALUE FRAUD" />
+    <node id="FRAUD REVIEW 2006" />
+    <node id="INDUSTRIAL-SCALE SCAMMING CALL CENTRES IN ASIA" />
+    <node id="INDICTABLE OFFENCE" />
+    <node id="SUMMARY CONVICTION OFFENCE" />
+    <node id="DISHONEST ACT" />
+    <node id="DEPRIVATION" />
+    <node id="DEPRIVATION OF CONFIDENTIAL INFORMATION" />
+    <node id="FRAUD OFFENCES UNDER SCOTS LAW" />
     <node id="U.S. GOVERNMENT" />
-    <node id="U.S. SECURITIES AND EXCHANGE COMMISSION (SEC)" />
     <node id="BLUE SKY LAWS" />
-    <node id="FEDERAL BUREAU OF INVESTIGATION (FBI)" />
-    <node id="U.S. DEPARTMENT OF JUSTICE" />
+    <node id="U.S. SECURITIES AND EXCHANGE COMMISSION" />
+    <node id="WASHINGTON STATE" />
+    <node id="PENNSYLVANIA" />
+    <node id="UNITED NATIONS OFFICE ON DRUGS AND CRIME" />
     <node id="CIVIL FRAUD" />
-    <node id="ANTI-FRAUD PROVISIONING" />
+    <node id="18 U.S.C. &#167; 704" />
+    <node id="FEDERAL BUREAU OF INVESTIGATION" />
+    <node id="U.S. DEPARTMENT OF JUSTICE, CRIMINAL DIVISION" />
+    <node id="UNITED STATES CONGRESS" />
+    <node id="MONEY LAUNDERING" />
     <node id="US OFFICE OF THE COMPTROLLER OF THE CURRENCY" />
-    <node id="AL CAPONE" />
+    <node id="WAR ON DRUGS" />
     <node id="PATRIOT ACT" />
+    <node id="FINANCIAL ACTION TASK FORCE ON MONEY LAUNDERING" />
     <node id="HSBC" />
     <node id="BNP PARIBAS" />
+    <node id="AUSTRAC" />
+    <node id="CRYPTOCURRENCY" />
+    <node id="CHINESE ORGANIZED CRIMINAL GROUPS" />
+    <node id="DRUG TRAFFICKING" />
+    <node id="SEX WORK" />
+    <node id="TERRORISM" />
+    <node id="CORRUPTION" />
+    <node id="EMBEZZLEMENT" />
+    <node id="ORGANIZED CRIME" />
+    <node id="PRIVATE INDIVIDUALS" />
+    <node id="STATES" />
+    <node id="FINANCIAL INSTITUTIONS" />
+    <node id="TAX EVASION" />
+    <node id="FALSE ACCOUNTING" />
+    <node id="FINANCIAL INTELLIGENCE" />
+    <node id="INTERNATIONAL REGULATORS" />
+    <node id="GOVERNMENTS" />
+    <node id="DIGITAL ASSETS" />
     <node id="PROHIBITION" />
+    <node id="AL CAPONE" />
+    <node id="CIVIL ASSET FORFEITURE" />
+    <node id="CIVIL LIBERTIES ADVOCATES" />
+    <node id="LAW ENFORCEMENT AGENCIES" />
+    <node id="CIVIL FORFEITURE LAWS" />
+    <node id="REVERSE ONUS" />
+    <node id="SEPARATION OF POWERS" />
+    <node id="DUE PROCESS" />
     <node id="11 SEPTEMBER ATTACKS" />
     <node id="GROUP OF SEVEN (G7)" />
-    <node id="FINANCIAL ACTION TASK FORCE" />
-    <node id="AUSTRAC" />
-    <node id="AUSTRALIA" />
-    <node id="CHINESE ORGANIZED CRIMINAL GROUPS" />
+    <node id="US GOVERNMENT" />
+    <node id="CYBERCRIMINALS" />
+    <node id="CYBERCRIME" />
     <node id="MEXICO" />
     <node id="ITALY" />
+    <node id="MAFIA" />
+    <node id="DRUG DEALERS" />
+    <node id="CORRUPT OFFICIALS" />
+    <node id="AUSTRAC SYSTEM" />
     <node id="UNITED STATES TREASURY DEPARTMENT" />
-    <node id="MONEY LAUNDERING" />
-    <node id="ART MARKET" />
-    <node id="OFFSHORE BANK" />
     <node id="CASINOS" />
-    <node id="SHELL COMPANIES" />
-    <node id="TAX HAVENS" />
     <node id="STRUCTURING" />
     <node id="BULK CASH SMUGGLING" />
-    <node id="TRADE-BASED LAUNDERING" />
+    <node id="CASH-INTENSIVE BUSINESSES" />
+    <node id="SHELL COMPANIES AND TRUSTS" />
     <node id="ROUND-TRIPPING" />
     <node id="BANK CAPTURE" />
     <node id="INVOICE FRAUD" />
+    <node id="OTHER GAMBLING" />
+    <node id="BLACK SALARIES" />
+    <node id="TAX AMNESTIES" />
     <node id="TRANSACTION LAUNDERING" />
-    <node id="PLACEMENT" />
-    <node id="LAYERING" />
-    <node id="INTEGRATION" />
+    <node id="MONEY ORDERS" />
+    <node id="OFFSHORE BANKS" />
+    <node id="TRADE-BASED LAUNDERING" />
+    <node id="ART MARKET" />
+    <node id="HIGH-NET-WORTH INDIVIDUALS" />
+    <node id="TAX HAVENS" />
+    <node id="LAW FIRMS" />
+    <node id="CRIMINALS" />
+    <node id="COMPANIES" />
+    <node id="MERCHANTS" />
+    <node id="AUCTION HOUSES" />
     <node id="FREELANCER.COM" />
     <node id="FIVERR" />
-    <node id="CHAINALYSIS" />
-    <node id="NFTS" />
+    <node id="LATIN AMERICA" />
+    <node id="SOCCER CLUBS" />
+    <node id="SPORT PROFITS" />
+    <node id="DRUG TRAFFICKERS" />
+    <node id="NFT MARKETPLACES" />
+    <node id="NON-FUNGIBLE TOKENS" />
     <node id="TORNADO CASH" />
     <node id="LAZARUS GROUP" />
     <node id="OFFICE OF FOREIGN ASSETS CONTROL" />
-    <node id="FINCEN" />
-    <node id="ETHEREUM" />
     <node id="TREASURY DEPARTMENT" />
-    <node id="ESSEC ISIS" />
+    <node id="FINCEN" />
+    <node id="MIXERS" />
     <node id="JEAN-LOUP RICHET" />
-    <node id="UNITED NATIONS OFFICE ON DRUGS AND CRIME" />
+    <node id="ESSEC ISIS" />
     <node id="LIBERTY RESERVE" />
-    <node id="BITCOIN" />
-    <node id="EMMANUEL V. PASCUA" />
-    <node id="CHEE KUNG TONG" />
-    <node id="LELAND YEE" />
-    <node id="CALIFORNIA" />
-    <node id="FBI" />
-    <node id="ZCASH" />
-    <node id="MONERO" />
+    <node id="US AUTHORITIES" />
+    <node id="DIGITAL CURRENCY EXCHANGER SERVICE" />
+    <node id="LIBERTY RESERVE FOUNDER" />
     <node id="SECOND LIFE" />
     <node id="WORLD OF WARCRAFT" />
-    <node id="SOCCER CLUBS" />
-    <node id="LATIN AMERICA" />
-    <node id="RUSSIA" />
-    <node id="EURASIAN GROUP ON COMBATING MONEY LAUNDERING AND FINANCING OF TERRORISM (EAG)" />
+    <node id="BITCOIN" />
+    <node id="AUSTRALIAN ANTI-MONEY LAUNDERING LAWS" />
+    <node id="TOR" />
+    <node id="DIGITAL CURRENCY EXCHANGES" />
+    <node id="RANSOMWARE ATTACKERS" />
+    <node id="CYBER FRAUDSTERS" />
+    <node id="GUNRUNNERS" />
+    <node id="KYC FRAMEWORK" />
+    <node id="CHEE KUNG TONG" />
+    <node id="EMMANUEL V. PASCUA" />
+    <node id="CALIFORNIA STATE SENATOR LELAND YEE" />
+    <node id="REVERSE MONEY LAUNDERING" />
+    <node id="UNITED STATES DISTRICT COURT NORTHERN CALIFORNIA SAN FRANCISCO DIVISION" />
+    <node id="FBI" />
+    <node id="DIRTY MONEY" />
+    <node id="ONLINE JOB MARKETPLACES" />
+    <node id="PAYMENT ECOSYSTEM" />
+    <node id="MONEY LAUNDERER" />
+    <node id="DIGITAL ELECTRONIC MONEY" />
+    <node id="PRIVACY COINS" />
+    <node id="WASH TRADING" />
+    <node id="CRYPTOCURRENCY MIXERS" />
+    <node id="ASSOCIATE" />
+    <node id="LELAND YEE" />
+    <node id="UNITED STATES DISTRICT COURT, NORTHERN CALIFORNIA, SAN FRANCISCO DIVISION" />
     <node id="RUSSIAN FEDERATION" />
+    <node id="EURASIAN GROUP ON COMBATING MONEY LAUNDERING AND FINANCING OF TERRORISM (EAG)" />
+    <node id="BANK OF NEW YORK" />
+    <node id="GLOBAL LAUNDROMAT" />
+    <node id="SHADOW ECONOMY" />
     <node id="UKRAINE" />
     <node id="TURKEY" />
     <node id="SERBIA" />
@@ -222,259 +438,961 @@
     <node id="ARMENIA" />
     <node id="KAZAKHSTAN" />
     <node id="BANK OF CREDIT AND COMMERCE INTERNATIONAL" />
-    <node id="BANK OF NEW YORK" />
-    <node id="UNITED STATES DISTRICT COURT, NORTHERN CALIFORNIA, SAN FRANCISCO DIVISION" />
     <node id="BSI BANK" />
-    <node id="SINGAPORE" />
+    <node id="MONETARY AUTHORITY OF SINGAPORE" />
     <node id="BTA BANK" />
     <node id="MUKHTAR ABLYAZOV" />
     <node id="CHARTER HOUSE BANK" />
-    <node id="KENYA" />
+    <node id="CENTRAL BANK OF KENYA" />
     <node id="DANSKE BANK" />
-    <node id="SWEDBANK" />
-    <node id="DEUTSCHE BANK" />
     <node id="ESTONIA" />
+    <node id="SWEDBANK" />
+    <node id="FINANTSINSPEKTSIOON" />
+    <node id="DEUTSCHE BANK" />
     <node id="LATVIA" />
     <node id="CYPRUS" />
-    <node id="FINEXTRA" />
-    <node id="SAN FRANCISCO" />
-    <node id="NORTHERN CALIFORNIA" />
-    <node id="EUROPEAN UNION" />
-    <node id="GLOBAL LAUNDROMAT" />
+    <node id="IMF" />
+    <node id="FATF" />
+    <node id="MODERN ANTI-MONEY LAUNDERING LAWS" />
+    <node id="TERRORIST FINANCING" />
+    <node id="PERSONS" />
+    <node id="SANCTIONS" />
+    <node id="VESSELS" />
+    <node id="UNITED ARAB EMIRATES" />
     <node id="DUBAI ISLAMIC BANK" />
     <node id="STANDARD CHARTERED BANK" />
-    <node id="KHALID SHEIKH MOHAMMED" />
     <node id="SHARJAH" />
+    <node id="KHALID SHEIKH MOHAMMED" />
+    <node id="IRAN" />
+    <node id="INTERNATIONAL CONSORTIUM OF INVESTIGATIVE JOURNALISTS" />
     <node id="FINCEN FILES" />
     <node id="GUNES GENERAL TRADING" />
-    <node id="INTERNATIONAL CONSORTIUM OF INVESTIGATIVE JOURNALISTS" />
-    <node id="EPIC GAMES" />
+    <node id="DUBAI" />
     <node id="FORTNITE" />
-    <node id="STANDARD CHARTERED" />
+    <node id="SIXGILL" />
+    <node id="EPIC GAMES" />
     <node id="INSTITUTE FOR THE WORKS OF RELIGION" />
+    <node id="VATICAN" />
+    <node id="NAURU" />
+    <node id="RUSSIAN CAPITAL FLIGHT" />
     <node id="SANI ABACHA" />
+    <node id="LUXEMBOURG" />
+    <node id="JERSEY" />
     <node id="STANDARD BANK" />
+    <node id="PROCEEDS OF CRIME ACT" />
+    <node id="FERDINAND MARCOS" />
+    <node id="CORPORATE TRANSPARENCY ACT" />
     <node id="WESTPAC" />
+    <node id="SINGAPORE" />
+    <node id="CORRUPTION, DRUG TRAFFICKING AND OTHER SERIOUS CRIMES (CONFISCATION OF BENEFITS) ACT" />
+    <node id="FINANCIAL CONDUCT AUTHORITY" />
+    <node id="AUSTRALIAN TRANSACTION REPORTS AND ANALYSIS CENTRE" />
+    <node id="ANTI-MONEY LAUNDERING AND COUNTER-TERRORISM FINANCING ACT 2006" />
     <node id="JOSE FRANKLIN JURADO-RODRIGUEZ" />
     <node id="JOSE SANTACRUZ LONDONO" />
-    <node id="LUXEMBOURG" />
     <node id="NG LAP SENG" />
     <node id="JOHN WILLIAM ASHE" />
+    <node id="UNITED NATIONS OFFICE FOR SOUTH-SOUTH COOPERATION" />
     <node id="MACAU" />
-    <node id="FERDINAND MARCOS" />
-    <node id="VATICAN" />
-    <node id="NETHERLANDS ANTILLES" />
+    <node id="UNITED NATIONS" />
+    <node id="FOREIGN CORRUPT PRACTICES ACT" />
+    <node id="YIPING ZHOU" />
+    <node id="EUROPEAN UNION" />
+    <node id="CHANNEL ISLANDS" />
+    <node id="AUSTRIA" />
     <node id="PANAMA" />
+    <node id="NETHERLANDS ANTILLES" />
+    <node id="CAYMAN ISLANDS" />
+    <node id="VANUATU" />
+    <node id="HONG KONG" />
+    <node id="MONACO" />
+    <node id="BAHAMAS" />
     <node id="FINANCIAL CRIMES ENFORCEMENT NETWORK" />
     <node id="ANTI-MONEY LAUNDERING AND COUNTER-TERRORISM FINANCING ACT" />
-    <node id="DANSKE BANK MONEY LAUNDERING SCANDAL" />
-    <node id="BANK SECRECY ACT" />
-    <node id="WORLD BANK" />
-    <node id="INTERNATIONAL NARCOTICS CONTROL STRATEGY REPORT" />
-    <node id="CORRUPTION, DRUG TRAFFICKING AND OTHER SERIOUS CRIMES (CONFISCATION OF BENEFITS) ACT" />
     <node id="SWISS ANTI-MONEY LAUNDERING ACT" />
+    <node id="FINANCIAL ACTION TASK FORCE" />
+    <node id="DANSKE BANK MONEY LAUNDERING SCANDAL" />
+    <node id="SVEN STUMBAUER" />
+    <node id="BANK SECRECY ACT" />
+    <node id="UNITED STATES DEPARTMENT OF STATE" />
+    <node id="FINANCIAL MARKET INTEGRITY UNIT" />
+    <node id="WORLD BANK" />
+    <node id="BUREAU OF INTERNATIONAL NARCOTICS AND LAW ENFORCEMENT AFFAIRS" />
     <node id="JOSEPH T. WELLS" />
-    <node id="AUSTIN, TEXAS" />
-    <node id="CERTIFIED FRAUD EXAMINER" />
+    <node id="AUSTIN" />
+    <node id="ACFE FRAUD MUSEUM" />
     <node id="FRANKENSTEINS OF FRAUD" />
     <node id="ACFE ANNUAL FRAUD CONFERENCE" />
-    <node id="FEDERAL BUREAU OF INVESTIGATION" />
+    <node id="ACFE REPORT TO THE NATIONS" />
+    <node id="FRAUD MAGAZINE" />
+    <node id="CERTIFIED FRAUD EXAMINER" />
+    <node id="FRAUD PREVENTION" />
+    <node id="FRAUD STATISTICS REPORTS" />
+    <node id="SMALL BUSINESSES" />
+    <node id="LARGER COMPANIES" />
+    <node id="UNIVERSITY OF OKLAHOMA" />
     <node id="JOHN N. MITCHELL" />
     <node id="WATERGATE" />
-    <node id="UNIVERSITY OF OKLAHOMA" />
+    <node id="TEXAS" />
     <node id="STEVE COMISAR" />
-    <node id="ACFE FRAUD MUSEUM" />
-    <node id="AMERICA'S GUIDE TO FRAUD PREVENTION" />
-    <node id="FRANK WILSON" />
-    <node id="US INTERNAL REVENUE SERVICE" />
-    <node id="CERTIFIED FRAUD EXAMINERS" />
-    <node id="FORENSIC AUDITORS CERTIFICATION BOARD OF ENGLAND AND WALES" />
+    <node id="FORENSIC ACCOUNTING" />
+    <node id="PROCEEDS OF CRIME ACT 2002" />
+    <node id="SOX 404" />
     <node id="CERTIFIED FORENSIC ACCOUNTING PROFESSIONAL" />
+    <node id="CERTIFIED FRAUD EXAMINERS" />
+    <node id="INSTITUTE OF CHARTERED ACCOUNTANTS OF INDIA" />
     <node id="AMERICAN BOARD OF FORENSIC ACCOUNTING" />
     <node id="CERTIFIED PUBLIC ACCOUNTANTS" />
-    <node id="SOX 404" />
-    <node id="CHARTERED PROFESSIONAL ACCOUNTANTS" />
+    <node id="CHARTERED ACCOUNTANTS" />
     <node id="CERTIFIED MANAGEMENT ACCOUNTANTS" />
-    <node id="CERTIFIED IN FINANCIAL FORENSICS" />
+    <node id="CHARTERED PROFESSIONAL ACCOUNTANTS" />
+    <node id="CHARTERED CERTIFIED ACCOUNTANTS" />
+    <node id="CERTIFIED FORENSIC INVESTIGATION PROFESSIONALS" />
+    <node id="CERTIFIED FORENSIC ACCOUNTING PROFESSIONALS (INDIA)" />
+    <node id="CERTIFIED FRAUD EXAMINERS (CFE)" />
+    <node id="CHARTERED ACCOUNTANTS (CA)" />
+    <node id="CERTIFIED MANAGEMENT ACCOUNTANTS (CMA)" />
+    <node id="CHARTERED PROFESSIONAL ACCOUNTANTS (CPA CANADA)" />
+    <node id="CHARTERED CERTIFIED ACCOUNTANTS (CCA)" />
+    <node id="CERTIFIED FORENSIC INVESTIGATION PROFESSIONALS (CFIP)" />
+    <node id="FINANCIAL FORENSICS" />
+    <node id="FRANK WILSON" />
+    <node id="US INTERNAL REVENUE SERVICE" />
+    <node id="ALHAMIA PRISON" />
+    <node id="FORENSIC AUDITORS CERTIFICATION BOARD OF ENGLAND AND WALES" />
+    <node id="CERTIFIED FORENSIC ACCOUNTING PROFESSIONALS (CRFAC)" />
     <node id="AICPA" />
+    <node id="LARGE ACCOUNTING FIRMS" />
+    <node id="POLICE AND GOVERNMENT AGENCIES" />
+    <node id="FORENSIC ACCOUNTANTS" />
+    <node id="MEDIUM-SIZED AND BOUTIQUE FIRMS" />
+    <node id="POLICE AGENCIES" />
+    <node id="GOVERNMENT AGENCIES" />
+    <node id="CRIMINAL INVESTIGATIONS" />
+    <node id="LITIGATION SUPPORT SERVICES" />
+    <node id="INSURANCE CLAIMS" />
+    <node id="CORPORATE INVESTIGATIONS" />
+    <node id="ECONOMIC DAMAGES CALCULATIONS" />
+    <node id="POST-ACQUISITION DISPUTES" />
+    <node id="BANKRUPTCY, INSOLVENCY, AND REORGANIZATION" />
+    <node id="DIVORCE SETTLEMENT" />
+    <node id="FRAUD RISK ASSESSMENTS" />
+    <node id="COMPUTER FORENSICS/E-DISCOVERY" />
+    <node id="PROFESSIONAL NEGLIGENCE CLAIMS" />
+    <node id="MARITAL AND FAMILY LAW" />
+    <node id="CERTIFICATE COURSE ON FORENSIC ACCOUNTING AND FRAUD DETECTION (FAFD)" />
+    <node id="INSTITUTE OF CHARTERED ACCOUNTANTS OF INDIA (ICAI)" />
+    <node id="CERTIFIED IN FINANCIAL FORENSICS (CFF)" />
+    <node id="AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS (AICPA)" />
+    <node id="CERTIFIED PUBLIC ACCOUNTANTS (CPA)" />
+    <node id="INTERNATIONAL INSTITUTE OF FORENSIC INVESTIGATION PROFESSIONALS INC" />
+    <node id="CERTIFIED IN FINANCIAL FORENSICS" />
+    <node id="JURY" />
+    <node id="FRAUD AUDITORS" />
+    <node id="ORGANIZATIONAL BEHAVIOR" />
+    <node id="PUBLIC ORGANIZATIONS" />
+    <node id="CLIENTS" />
+    <node id="STAKEHOLDERS" />
+    <node id="FORGERS" />
+    <node id="SUSPECTS" />
+    <node id="WITNESSES" />
+    <node id="VICTIMS" />
+    <node id="BUSINESS PREMISES" />
+    <node id="PUBLIC RECORDS" />
+    <node id="FINANCIAL TRANSACTIONS" />
+    <node id="BUSINESS RECORDS" />
+    <node id="SURVEILLANCE" />
+    <node id="INTERROGATION" />
     <node id="DONALD CRESSEY" />
     <node id="FRAUD TRIANGLE" />
-    <node id="INTERNATIONAL INSTITUTE OF FORENSIC INVESTIGATION PROFESSIONALS INC" />
-    <node id="FORENSIC ACCOUNTANTS" />
-    <node id="FRAUD CYCLE" />
-    <node id="PUBLIC RECORDS" />
-    <node id="BENFORD'S LAW" />
-    <node id="FORENSIC ACCOUNTING" />
-    <node id="DATA ANALYTICS" />
-    <node id="FORENSIC ACCOUNTANT" />
     <node id="FORENSIC ACCOUNTING CERTIFICATIONS" />
     <node id="DUE DILIGENCE" />
+    <node id="ARAMARK" />
+    <node id="EASTERN UNITED STATES" />
     <node id="NORTH CAROLINA" />
     <node id="STATE V. WEAVER" />
-    <node id="ARAMARK" />
-    <node id="NORTH CAROLINA APPELLATE COURTS" />
-    <node id="PARLIAMENT" />
-    <node id="NORTH CAROLINA COLONY" />
-    <node id="EASTERN UNITED STATES" />
-    <node id="CASH REGISTERS" />
+    <node id="PARLIAMENT STATUTE 1528" />
+    <node id="LARCENY" />
+    <node id="NORTH CAROLINA COURTS" />
+    <node id="INDENTURED SERVANT" />
+    <node id="SLAVE" />
+    <node id="MASTER" />
+    <node id="EMPLOYEE" />
+    <node id="FALSIFICATION OF RECORDS" />
+    <node id="CHECKS" />
+    <node id="CHECK REGISTER" />
+    <node id="TRANSACTION LOG" />
+    <node id="EMBEZZLERS" />
+    <node id="INVESTORS" />
     <node id="MADOFF INVESTMENT SCANDAL" />
-    <node id="FINANCIAL INSTITUTIONS" />
-    <node id="PONZI SCHEME" />
+    <node id="EMPLOYEE FRAUD 2020" />
     <node id="LARCENY ACT 1916" />
     <node id="THEFT ACT 1968" />
+    <node id="MOVIE THEATRE" />
+    <node id="ADVISOR" />
+    <node id="FINANCIAL PROFESSIONALS" />
+    <node id="INTERNAL CONTROLS" />
+    <node id="AUDIT COMPANIES" />
+    <node id="SMALL-TIME EMBEZZLERS" />
+    <node id="PHANTOM EMPLOYEES" />
+    <node id="CASH REGISTERS" />
+    <node id="EMPLOYEE FRAUD" />
+    <node id="CHEQUE" />
     <node id="SARBANES-OXLEY ACT" />
     <node id="WASTE MANAGEMENT" />
-    <node id="U.S. CONGRESS" />
-    <node id="FRAUD DETERRENCE" />
     <node id="SAS 99" />
-    <node id="AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS (AICPA)" />
-    <node id="COMMITTEE OF SPONSORING ORGANIZATIONS OF THE TREADWAY COMMISSION (COSO)" />
-    <node id="INTERNAL CONTROL &#8211; INTEGRATED FRAMEWORK" />
-    <node id="CERTIFIED FORENSIC FINANCIAL ANALYST (CFFA)" />
+    <node id="PUBLIC COMPANIES" />
+    <node id="CORPORATE SCANDALS" />
     <node id="CERTIFIED FRAUD DETERRENCE ANALYST (CFD)" />
+    <node id="NACVA" />
+    <node id="CERTIFIED FORENSIC FINANCIAL ANALYST (CFFA)" />
     <node id="DONALD R. CRESSEY" />
     <node id="EDWIN SUTHERLAND" />
     <node id="STEVE ALBRECHT" />
     <node id="CENDROWSKI, MARTIN, PETRO" />
-    <node id="SAS 99 PRACTICE AID" />
+    <node id="THE HANDBOOK OF FRAUD DETERRENCE" />
+    <node id="FRAUD OR COMPROMISE TRIANGLE" />
+    <node id="FRAUD DETECTION" />
     <node id="COSO" />
-    <node id="ACFE" />
+    <node id="FRAUD DETERRENCE" />
+    <node id="INTERNAL CONTROL &#8211; INTEGRATED FRAMEWORK" />
+    <node id="INVESTOR CONFIDENCE" />
+    <node id="SAS NO. 99 IMPLEMENTATION GUIDE" />
+    <node id="AICPA PRACTICE AID SERIES" />
+    <node id="MOTIVE" />
+    <node id="RATIONALIZATION" />
+    <node id="OPPORTUNITY" />
+    <node id="GAAS AUDIT" />
+    <node id="SAS NO. 99" />
+    <node id="SAS 99 PRACTICE AID" />
+    <node id="MITIGATING CONTROLS" />
+    <node id="COSO MODEL" />
     <node id="CONTROL ENVIRONMENT" />
     <node id="RISK ASSESSMENT" />
     <node id="CONTROL ACTIVITIES" />
     <node id="INFORMATION &amp; COMMUNICATION" />
     <node id="MONITORING" />
     <node id="MIDLANDS STATE UNIVERSITY" />
-    <node id="INSTITUTE OF INTERNAL AUDITORS" />
-    <node id="LAWRENCE SAWYER" />
-    <node id="NEW YORK STATE" />
-    <node id="TEXAS" />
-    <node id="FLORIDA" />
-    <node id="INTERNAL AUDITING" />
-    <node id="CHIEF AUDIT EXECUTIVE" />
-    <node id="COSO INTERNAL CONTROL FRAMEWORK" />
+    <node id="ARENS, ELDER, BEASLEY" />
+    <node id="TOP MANAGEMENT" />
     <node id="BOARD OF DIRECTORS" />
-    <node id="SARBANES-OXLEY" />
-    <node id="IIA" />
-    <node id="ENTERPRISE RISK MANAGEMENT" />
-    <node id="MANAGEMENT" />
-    <node id="AUDIT COMMITTEE" />
+    <node id="OWNERS" />
+    <node id="HUMAN RESOURCE POLICIES AND PRACTICES" />
+    <node id="SEPARATION OF DUTIES" />
+    <node id="AUTHORIZATION OF TRANSACTIONS" />
+    <node id="DOCUMENTS AND RECORDS" />
+    <node id="PHYSICAL CONTROL OVER ASSETS AND RECORDS" />
+    <node id="INDEPENDENT CHECKS ON PERFORMANCE" />
+    <node id="THE INSTITUTE OF INTERNAL AUDITORS" />
+    <node id="INSTITUTE OF INTERNAL AUDITORS" />
+    <node id="INTERNATIONAL PROFESSIONAL PRACTICES FRAMEWORK" />
+    <node id="INTERNAL AUDITING" />
+    <node id="INTERNAL AUDIT PROFESSIONAL STANDARDS" />
+    <node id="CHIEF AUDIT EXECUTIVE" />
+    <node id="FRAUD INVESTIGATION PROFESSIONALS" />
+    <node id="GOVERNING BODIES" />
+    <node id="INTERNAL AUDITORS' EDUCATIONAL AND PROFESSIONAL BACKGROUNDS" />
+    <node id="INDEPENDENCE AND OBJECTIVITY" />
+    <node id="INTERNAL AUDIT CUSTOMER" />
+    <node id="CHIEF EXECUTIVE OFFICER" />
+    <node id="INTERNAL AUDIT DEPARTMENTS" />
+    <node id="INTERNAL AUDIT CHARTER" />
+    <node id="INTERNAL AUDIT PLAN" />
+    <node id="INTERNAL AUDIT BUDGET AND RESOURCE PLAN" />
+    <node id="SARBANES&#8211;OXLEY ACT OF 2002" />
+    <node id="NEW YORK STATE" />
+    <node id="FLORIDA" />
+    <node id="LAWRENCE SAWYER" />
+    <node id="INTERNAL AUDITING ACTIVITY" />
+    <node id="AUDIT TECHNIQUE" />
     <node id="RISK MANAGEMENT" />
+    <node id="CONTROL PROCESSES" />
+    <node id="GOVERNANCE PROCESSES" />
+    <node id="EFFICIENCY/EFFECTIVENESS OF OPERATIONS" />
+    <node id="RELIABILITY OF FINANCIAL AND MANAGEMENT REPORTING" />
+    <node id="COMPLIANCE WITH LAWS AND REGULATIONS" />
+    <node id="FRAUD AUDITS" />
+    <node id="POST INVESTIGATION FRAUD AUDITS" />
+    <node id="MANAGEMENT SCIENCE" />
+    <node id="QUALITY ASSURANCE" />
+    <node id="BANKING COMPLIANCE ACTIVITIES" />
+    <node id="COSO INTERNAL CONTROL FRAMEWORK" />
+    <node id="PUBLICLY TRADED COMPANIES" />
+    <node id="NON-PROFIT COMPANIES" />
+    <node id="PUBLIC ACCOUNTING FIRMS" />
+    <node id="ORGANIZATIONAL INDEPENDENCE" />
+    <node id="FUNCTIONAL REPORTING" />
+    <node id="ADMINISTRATIVE REPORTING" />
+    <node id="INTERNAL AUDIT FUNCTION" />
+    <node id="ENTERPRISE RISK MANAGEMENT (ERM)" />
+    <node id="SARBANES&#8211;OXLEY REGULATIONS" />
+    <node id="CHIEF AUDIT EXECUTIVE (CAE)" />
     <node id="FRAUD RISK ASSESSMENT" />
     <node id="CORPORATE GOVERNANCE" />
-    <node id="INTERNAL AUDIT" />
-    <node id="TOP MANAGEMENT" />
-    <node id="INFORMATION TECHNOLOGY AUDITORS" />
-    <node id="IIA STANDARDS" />
-    <node id="CAPAS" />
-    <node id="BALANCED SCORECARD" />
-    <node id="CONTINUOUS IMPROVEMENT" />
-    <node id="EXECUTIVE SUMMARY" />
-    <node id="INTERNAL AUDIT REPORT" />
-    <node id="CORRECTIVE ACTION" />
-    <node id="THREE LINES OF DEFENCE MODEL" />
+    <node id="THREE LINES OF DEFENCE" />
+    <node id="AUDIT PROJECT SELECTION" />
+    <node id="INTERNAL AUDIT ASSIGNMENT" />
+    <node id="FORWARD-LOOKING OPERATING MEASURES" />
+    <node id="POLICIES" />
+    <node id="PROCESSES" />
+    <node id="PRACTICES" />
+    <node id="SENIOR MANAGEMENT" />
+    <node id="STRATEGIC INITIATIVES" />
+    <node id="INSTITUTE OF INTERNAL AUDITORS (IIA)" />
     <node id="EXTERNAL AUDITOR" />
-    <node id="MICHAEL G. ALLES" />
-    <node id="DISRUPTIVE INNOVATION" />
+    <node id="COSO ENTERPRISE RISK MANAGEMENT (ERM) FRAMEWORK" />
+    <node id="CORPORATE LEGAL COUNSEL" />
+    <node id="INFORMATION AND COMMUNICATION" />
+    <node id="MONITORING ACTIVITIES" />
+    <node id="ANNUAL AUDIT PLAN" />
+    <node id="AUDIT CHECKLIST" />
+    <node id="BUSINESS AREA" />
+    <node id="INTERNAL AUDIT REPORT" />
+    <node id="INTERNAL AUDIT CHECKLIST" />
+    <node id="CAPAS" />
+    <node id="VENDORS" />
+    <node id="USERS" />
+    <node id="AUDIT BODIES" />
+    <node id="BUSINESS ACTIVITIES" />
+    <node id="KEY RISKS" />
+    <node id="FIVE COMPONENTS OF CONTROL" />
+    <node id="RISK-BASED SAMPLING AND TESTING" />
+    <node id="AUDIT ASSIGNMENT" />
+    <node id="GOVERNANCE, RISK AND CONTROL PROCESSES" />
+    <node id="TRANSACTION ASSERTIONS" />
+    <node id="INTERNAL AUDIT REPORT QUALITY" />
+    <node id="EXECUTIVE SUMMARY" />
+    <node id="FIVE C'S" />
+    <node id="INTERNAL AUDIT STRATEGIC PLAN" />
+    <node id="INFORMATION TECHNOLOGY AUDITORS" />
+    <node id="CUSTOMER SURVEYS" />
+    <node id="IIA STANDARDS" />
+    <node id="STRATEGIC PLANS" />
+    <node id="AUDIT ENGAGEMENTS" />
+    <node id="BALANCED SCORECARD APPROACH" />
+    <node id="PEER REVIEWS" />
+    <node id="MANAGEMENT TRAINING GROUND" />
+    <node id="TECHNOLOGY TOOLS" />
+    <node id="STRATEGIC MANAGEMENT CONCEPTS" />
+    <node id="PERFORMANCE MEASUREMENT PROCESS" />
+    <node id="INFORMATION TECHNOLOGY CONTROLS" />
+    <node id="PROFESSIONALISM" />
+    <node id="QUALITY OF COUNSEL" />
+    <node id="TIMELINESS OF WORK PRODUCT" />
+    <node id="UTILITY OF MEETINGS" />
+    <node id="QUALITY OF STATUS UPDATES" />
+    <node id="FOLLOW-UP DATABASE" />
+    <node id="QUALITY ISSUES" />
+    <node id="MANAGEMENT PRACTICES" />
+    <node id="INDEPENDENT PEER REVIEWS" />
+    <node id="MANAGER" />
+    <node id="AUDIT REPORTS" />
+    <node id="CRITICAL ISSUES" />
+    <node id="INTERNAL AUDIT" />
+    <node id="OPERATIONAL AUDITING" />
+    <node id="PERFORMANCE AUDITING" />
+    <node id="POSITIVE REINFORCEMENT" />
+    <node id="INTERPERSONAL DYNAMICS" />
+    <node id="THREE LINES OF DEFENCE MODEL" />
     <node id="COMPLIANCE" />
     <node id="OPERATIONAL RISK" />
-    <node id="CHARTERED INSTITUTE OF INTERNAL AUDITORS" />
-    <node id="INTERNATIONAL FINANCIAL REPORTING STANDARDS" />
-    <node id="INTERNATIONAL ACCOUNTING STANDARDS BOARD" />
-    <node id="WIKITABLES" />
+    <node id="CUSTOMER-FACING OPERATIONAL MANAGEMENT" />
+    <node id="MIDDLE OFFICE" />
+    <node id="FINANCIAL RISK MANAGEMENT" />
+    <node id="MICHAEL G. ALLES" />
+    <node id="BIG DATA" />
+    <node id="CHIEF FINANCIAL OFFICER" />
+    <node id="INFORMATION TECHNOLOGY" />
+    <node id="PURCHASING" />
+    <node id="WAREHOUSING AND DISTRIBUTION" />
+    <node id="HUMAN RESOURCES" />
+    <node id="FACILITIES MANAGEMENT" />
+    <node id="CUSTOMER SERVICE" />
+    <node id="FIELD OPERATIONS" />
+    <node id="PROGRAM MANAGEMENT" />
+    <node id="DISRUPTIVE INNOVATION" />
+    <node id="BOARD" />
+    <node id="QUALITY ASSURANCE PROCESS" />
+    <node id="AGILE PROCESSES" />
+    <node id="ROBOTIC PROCESS AUTOMATION" />
+    <node id="CONTINUOUS AUDITING" />
+    <node id="REGULATORY CHANGE" />
+    <node id="OPERATING STAFF" />
+    <node id="EXTERNAL INDEPENDENT BODIES" />
+    <node id="RISK CAPITAL" />
+    <node id="GOING CONCERN" />
+    <node id="REGULATORY CAPITAL" />
+    <node id="MANAGEMENT CHAIN" />
+    <node id="SECOND LINE OF DEFENCE" />
     <node id="GENERALLY ACCEPTED ACCOUNTING PRINCIPLES" />
     <node id="FINANCIAL ACCOUNTING" />
+    <node id="INTERNATIONAL FINANCIAL REPORTING STANDARDS" />
+    <node id="INTERNATIONAL ACCOUNTING STANDARDS BOARD" />
     <node id="EUROPEAN ACCOUNTING ASSOCIATION" />
-    <node id="CAPITAL MAINTENANCE" />
+    <node id="FINANCIAL REPORTING" />
     <node id="ELLEN" />
     <node id="TOM" />
-    <node id="CASH FLOW STATEMENT" />
+    <node id="STATEMENT OF CASH FLOWS" />
+    <node id="WIKITABLES" />
     <node id="STATEMENT OF FINANCIAL PERFORMANCE" />
     <node id="STATEMENT OF FINANCIAL POSITION" />
-    <node id="MANAGERIAL ACCOUNTING" />
-    <node id="BALANCE SHEET" />
-    <node id="NET INCOME" />
+    <node id="STOCKHOLDERS" />
+    <node id="BUSINESS OWNERS" />
+    <node id="OTHER STAKEHOLDERS" />
+    <node id="SALES" />
+    <node id="COST OF GOODS SOLD" />
+    <node id="SELLING GENERAL ADMINISTRATIVE EXPENSES" />
+    <node id="DEPRECIATION" />
+    <node id="EARNINGS BEFORE INTEREST AND TAXES" />
+    <node id="INTEREST AND TAX EXPENSES" />
+    <node id="IAS 29 FINANCIAL REPORTING IN HYPERINFLATIONARY ECONOMIES" />
     <node id="STATEMENT OF RETAINED EARNINGS" />
     <node id="RETAINED EARNINGS" />
+    <node id="PROFIT AND LOSS ACCOUNT" />
     <node id="HISTORICAL COST ACCOUNTING" />
+    <node id="DAILY CPI" />
+    <node id="FIXED ASSETS" />
+    <node id="NON-CURRENT ASSETS" />
+    <node id="COPYRIGHTS" />
+    <node id="TRADEMARKS" />
+    <node id="PATENTS" />
+    <node id="GOODWILL" />
+    <node id="CURRENT LIABILITIES" />
+    <node id="TRADE ACCOUNTS PAYABLE" />
+    <node id="DIVIDENDS PAYABLE" />
+    <node id="EMPLOYEE SALARIES PAYABLE" />
+    <node id="INTEREST PAYABLE" />
+    <node id="LONG TERM LIABILITIES" />
+    <node id="MORTGAGE NOTES PAYABLE" />
+    <node id="BONDS PAYABLE" />
+    <node id="OWNER'S EQUITY" />
+    <node id="COMMON STOCK" />
+    <node id="FINANCIAL ACCOUNTANTS" />
+    <node id="BUSINESS ENTITY" />
+    <node id="CERTIFIED PUBLIC ACCOUNTANT CPA" />
+    <node id="AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS AICPA" />
+    <node id="CHARTERED CERTIFIED ACCOUNTANT ACCA" />
+    <node id="ACCOUNTANT" />
+    <node id="COST ACCOUNTING" />
+    <node id="CONTRA-ACCOUNTS" />
+    <node id="ACCOUNTING EQUATION" />
+    <node id="DEBIT" />
+    <node id="CREDIT" />
+    <node id="TRIAL BALANCE" />
+    <node id="DOUBLE-ENTRY ACCOUNTING SYSTEM" />
+    <node id="BUSINESSMAN" />
+    <node id="FINANCIAL POSITION STATEMENT" />
     <node id="LIABILITIES" />
     <node id="ASSETS" />
-    <node id="EQUITY" />
-    <node id="DAVID ANNAND" />
+    <node id="OWNERS' EQUITY" />
+    <node id="PROFIT" />
+    <node id="LOSS" />
+    <node id="REVENUE" />
+    <node id="EXPENSES" />
+    <node id="DIVIDENDS" />
+    <node id="LIQUIDITY POSITION" />
+    <node id="SOLVENCY POSITION" />
+    <node id="SSAP" />
+    <node id="FRS" />
+    <node id="IFRS" />
+    <node id="ACCUMULATED DEPRECIATION" />
+    <node id="ALLOWANCES FOR BAD DEBT" />
+    <node id="OBSOLETE INVENTORY" />
+    <node id="SALES ALLOWANCES" />
+    <node id="TREASURY STOCK" />
+    <node id="BEGINNING RETAINED EARNINGS" />
     <node id="ATHABASCA UNIVERSITY" />
+    <node id="DAVID ANNAND" />
     <node id="JOHNNY JACKSON" />
     <node id="THOMAS EDISON STATE UNIVERSITY" />
-    <node id="ALEXANDER, D." />
-    <node id="BRITTON, A." />
-    <node id="JORISSEN, A." />
+    <node id="ALEXANDER" />
     <node id="INTERNATIONAL FINANCIAL REPORTING AND ANALYSIS" />
-    <edge source="US GENERALLY ACCEPTED ACCOUNTING PRINCIPLES (US GAAP)" target="INTERNATIONAL STANDARDS ON AUDITING (ISA)">
-      <data key="d0">5.0</data>
+    <node id="BRITTON" />
+    <node id="JORISSEN" />
+    <edge source="INTERNATIONAL STANDARDS ON AUDITING" target="INTERNATIONAL AUDITING AND ASSURANCE STANDARDS BOARD">
+      <data key="d0">10.0</data>
     </edge>
-    <edge source="INTERNATIONAL STANDARDS ON AUDITING (ISA)" target="INTERNATIONAL AUDITING AND ASSURANCE STANDARDS BOARD (IAASB)">
-      <data key="d0">9.0</data>
+    <edge source="INTERNATIONAL STANDARDS ON AUDITING" target="US GENERALLY ACCEPTED ACCOUNTING PRINCIPLES">
+      <data key="d0">7.0</data>
     </edge>
     <edge source="THE BIG FOUR" target="FTSE 100">
-      <data key="d0">8.0</data>
+      <data key="d0">9.0</data>
     </edge>
     <edge source="THE BIG FOUR" target="FTSE 250 INDEX">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="THE BIG FOUR" target="GREENWOOD ET AL.">
-      <data key="d0">4.0</data>
-    </edge>
-    <edge source="THE BIG FOUR" target="AUDIT FIRM">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="FTSE 100" target="LONDON STOCK EXCHANGE">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="FTSE 250 INDEX" target="LONDON STOCK EXCHANGE">
+    <edge source="THE BIG FOUR" target="BADER">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="AUDIT FIRM" target="EXTERNAL AUDITORS">
-      <data key="d0">1.0</data>
+    <edge source="FTSE 100" target="BIG FOUR">
+      <data key="d0">9.0</data>
     </edge>
-    <edge source="BADER" target="FINANCIAL AUDIT">
-      <data key="d0">6.0</data>
+    <edge source="FTSE 250 INDEX" target="BIG FOUR">
+      <data key="d0">8.0</data>
     </edge>
-    <edge source="FINANCIAL AUDIT" target="EU-MEMBER STATES">
+    <edge source="AUDITOR" target="FINANCIAL AUDIT">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUDITOR" target="CORPORATIONS ACT 2001">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="ASIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUDITOR" target="AUDITING FIRM">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="INFORMATION SYSTEMS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUDITOR" target="ARTIFICIAL INTELLIGENCE">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="INTERNAL AUDITORS" target="EXTERNAL AUDITORS">
+    <edge source="AUDITOR" target="BLOCKCHAIN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AUDITOR" target="DATA ANALYTICS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUDITOR" target="CLOUD COMPUTING">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AUDITOR" target="CLOUD STORAGE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AUDITOR" target="CERTIFIED INTERNAL AUDITOR">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="CERTIFIED GENERAL ACCOUNTANT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="CHARTERED CERTIFIED ACCOUNTANT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="CHARTERED ACCOUNTANT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="CERTIFIED PUBLIC ACCOUNTANT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="AUDIT REPORT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="AUDIT PLAN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="TEST OF CONTROL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="SUBSTANTIVE TEST OF TRANSACTIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="SUBSTANTIVE ANALYTICAL PROCEDURES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUDITOR" target="SUBSTANTIVE TESTS OF DETAIL OF BALANCES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUDITOR" target="HARD CLOSE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AUDITOR" target="ROLLFORWARD PROCEDURES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AUDITOR" target="INDEPENDENCE DECLARATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="ACCOUNTING STANDARDS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="AUDITING STANDARDS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="AUDIT EVIDENCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="ECONOMIC INCENTIVES">
       <data key="d0">6.0</data>
+    </edge>
+    <edge source="AUDITOR" target="INCENTIVE SYSTEMS TO PROMOTE CAPITAL MARKET GATEKEEPER EFFECTIVENESS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="AUDITOR" target="FINANCIAL STATEMENT INSURANCE">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="AUDITOR" target="AUDIT">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUDITOR" target="MATERIAL MISSTATEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="INHERENT RISK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="CONTROL RISK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="ACCEPTED AUDIT RISK (AAR)">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="OVERALL AUDIT PLAN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="ACCOUNT RECONCILIATIONS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUDITOR" target="SEGREGATION OF DUTIES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUDITOR" target="IT GENERAL CONTROLS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUDITOR" target="SUBSTANTIVE TESTING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="FINANCIAL STATEMENTS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUDITOR" target="AUDIT EVIDENCES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUDITOR" target="AUDIT METHODOLOGY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITOR" target="PROFESSIONAL BODIES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUDITOR" target="REGULATORS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FINANCIAL AUDIT" target="ACCOUNTING FIRMS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FINANCIAL AUDIT" target="AUDIT OPINION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FINANCIAL AUDIT" target="MANAGEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FINANCIAL AUDIT" target="SHAREHOLDERS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FINANCIAL AUDIT" target="TAX AUTHORITIES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FINANCIAL AUDIT" target="BANKS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FINANCIAL AUDIT" target="REGULATORS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FINANCIAL AUDIT" target="SUPPLIERS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="FINANCIAL AUDIT" target="CUSTOMERS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="FINANCIAL AUDIT" target="EMPLOYEES">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="FINANCIAL AUDIT" target="MATERIAL MISSTATEMENT">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FINANCIAL AUDIT" target="AUDIT EVIDENCE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FINANCIAL AUDIT" target="INFORMATION ASYMMETRY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FINANCIAL AUDIT" target="INFORMATION RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FINANCIAL AUDIT" target="ORIGINS OF FINANCIAL AUDIT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ACCOUNTING FIRMS" target="INTERNAL AUDITORS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ACCOUNTING FIRMS" target="EXTERNAL AUDITORS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="FORENSIC ACCOUNTANTS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="INTERNAL AUDITING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="BOARD OF DIRECTORS">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="CHIEF AUDIT EXECUTIVE">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="FRAUD INVESTIGATION PROFESSIONALS">
+      <data key="d0">7.0</data>
     </edge>
     <edge source="INTERNAL AUDITORS" target="MANAGEMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="GOVERNING BODIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="INTERNAL AUDITORS' EDUCATIONAL AND PROFESSIONAL BACKGROUNDS">
       <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="INDEPENDENCE AND OBJECTIVITY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="INTERNAL AUDIT CUSTOMER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="INTERNAL AUDIT FUNCTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="INTERNAL AUDIT REPORT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="TOP MANAGEMENT">
+      <data key="d0">8.0</data>
     </edge>
     <edge source="INTERNAL AUDITORS" target="AUDIT COMMITTEE">
-      <data key="d0">8.0</data>
+      <data key="d0">1.0</data>
     </edge>
-    <edge source="INTERNAL AUDITORS" target="RISK MANAGEMENT">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="INTERNAL AUDITORS" target="FRAUD RISK ASSESSMENT">
+    <edge source="INTERNAL AUDITORS" target="INTERNAL AUDIT CHECKLIST">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="INTERNAL AUDITORS" target="CORPORATE GOVERNANCE">
+    <edge source="INTERNAL AUDITORS" target="INTERNAL AUDIT DEPARTMENTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="CAPAS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="SUPPLIERS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="VENDORS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="USERS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="AUDIT BODIES">
       <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="BUSINESS ACTIVITIES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="KEY RISKS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="FIVE COMPONENTS OF CONTROL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="RISK-BASED SAMPLING AND TESTING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="AUDIT ASSIGNMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="GOVERNANCE, RISK AND CONTROL PROCESSES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="TRANSACTION ASSERTIONS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITORS" target="INTERNAL AUDIT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT OPINION" target="UNQUALIFIED AUDITOR'S OPINION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUDIT OPINION" target="QUALIFIED OPINION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUDIT OPINION" target="DISCLAIMER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUDIT OPINION" target="ADVERSE AUDIT OPINION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUDIT OPINION" target="INTERNATIONAL ACCOUNTING STANDARDS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MANAGEMENT" target="FORENSIC ACCOUNTANTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MANAGEMENT" target="FRAUD DETERRENCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MANAGEMENT" target="INTERNAL AUDIT FUNCTION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MANAGEMENT" target="POLICIES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MANAGEMENT" target="PROCESSES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MANAGEMENT" target="PRACTICES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MANAGEMENT" target="BUSINESS ENTITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MANAGEMENT" target="PROFIT AND LOSS ACCOUNT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MANAGEMENT" target="FINANCIAL ACCOUNTING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SHAREHOLDERS" target="STATEMENT OF RETAINED EARNINGS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BANKS" target="MONEY LAUNDERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BANKS" target="FINANCIAL ACCOUNTING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SUPPLIERS" target="FORENSIC ACCOUNTANTS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="SUPPLIERS" target="FINANCIAL ACCOUNTING">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="EMPLOYEES" target="FORENSIC ACCOUNTANTS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="EMPLOYEES" target="FINANCIAL ACCOUNTING">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="MATERIAL MISSTATEMENT" target="ISA 450">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUDIT EVIDENCE" target="POSTING CHECKING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT EVIDENCE" target="TESTING MANAGEMENT CONTROLS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT EVIDENCE" target="CASTING CHECKING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT EVIDENCE" target="PHYSICAL EXAMINATION AND COUNT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT EVIDENCE" target="CONFIRMATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT EVIDENCE" target="INQUIRY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT EVIDENCE" target="OBSERVATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT EVIDENCE" target="INSPECTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT EVIDENCE" target="YEAR-END SCRUTINY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT EVIDENCE" target="RE-COMPUTATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT EVIDENCE" target="TRACING IN SUBSEQUENT PERIOD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT EVIDENCE" target="BANK RECONCILIATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT EVIDENCE" target="VOUCHING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT EVIDENCE" target="VERIFICATION OF ASSETS AND LIABILITIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="REASONABLE ASSURANCE" target="AUDIT PROCESS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT PROCESS" target="ACCOUNTING STANDARDS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT PROCESS" target="AUDITORS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ACCOUNTING STANDARDS" target="FINANCIAL ACCOUNTANTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ACCOUNTING STANDARDS" target="FINANCIAL STATEMENTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ACCOUNTING STANDARDS" target="SSAP">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ACCOUNTING STANDARDS" target="FRS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ACCOUNTING STANDARDS" target="IFRS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ORGANIZATION" target="FINANCIAL STATEMENTS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ORGANIZATION" target="PUBLIC STOCK EXCHANGES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ORGANIZATION" target="EMPLOYEE">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="FINANCIAL STATEMENTS" target="AUDITORS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FINANCIAL STATEMENTS" target="ACCOUNTING EQUATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FINANCIAL STATEMENTS" target="TRIAL BALANCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PUBLIC STOCK EXCHANGES" target="EU-MEMBER STATES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AUDITORS" target="BLOCKCHAIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUDITORS" target="DATA ANALYTICS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUDITORS" target="CLOUD COMPUTING">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AUDITORS" target="ARTIFICIAL INTELLIGENCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUDITORS" target="FORENSIC ACCOUNTANTS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AUDITORS" target="AUDIT COMPANIES">
+      <data key="d0">9.0</data>
     </edge>
     <edge source="BIG FOUR" target="KPMG">
-      <data key="d0">9.0</data>
+      <data key="d0">10.0</data>
     </edge>
-    <edge source="BIG FOUR" target="DELOITTE TOUCH&#201; TOHMATSU">
-      <data key="d0">9.0</data>
+    <edge source="BIG FOUR" target="DELOITTE TOUCHE TOHMATSU">
+      <data key="d0">10.0</data>
     </edge>
     <edge source="BIG FOUR" target="PRICEWATERHOUSECOOPERS">
-      <data key="d0">9.0</data>
+      <data key="d0">10.0</data>
     </edge>
     <edge source="BIG FOUR" target="ERNST &amp; YOUNG">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="BIG FOUR" target="BIG FIVE">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="KPMG" target="UNITED KINGDOM">
+    <edge source="KPMG" target="GERMANY">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="KPMG" target="GERMANY">
+    <edge source="KPMG" target="UNITED KINGDOM">
       <data key="d0">7.0</data>
     </edge>
     <edge source="KPMG" target="SWITZERLAND">
@@ -483,422 +1401,857 @@
     <edge source="KPMG" target="LIECHTENSTEIN">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="PRICEWATERHOUSECOOPERS" target="DELOITTE">
+    <edge source="KPMG" target="CPA FIRM">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="PRICEWATERHOUSECOOPERS" target="HALO">
+    <edge source="KPMG" target="AI TOOLS">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="PRICEWATERHOUSECOOPERS" target="BLOCKCHAIN">
-      <data key="d0">1.0</data>
+    <edge source="DELOITTE TOUCHE TOHMATSU" target="CPA FIRM">
+      <data key="d0">7.0</data>
     </edge>
-    <edge source="PRICEWATERHOUSECOOPERS" target="CLOUD COMPUTING">
-      <data key="d0">6.0</data>
+    <edge source="DELOITTE TOUCHE TOHMATSU" target="AI TOOLS">
+      <data key="d0">8.0</data>
     </edge>
-    <edge source="PRICEWATERHOUSECOOPERS" target="CLOUD STORAGE">
-      <data key="d0">1.0</data>
+    <edge source="PRICEWATERHOUSECOOPERS" target="CPA FIRM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="PRICEWATERHOUSECOOPERS" target="AI TOOLS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PRICEWATERHOUSECOOPERS" target="HALO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PRICEWATERHOUSECOOPERS" target="FINANCIAL AUDITING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ERNST &amp; YOUNG" target="AMERICAS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ERNST &amp; YOUNG" target="EMEIA">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ERNST &amp; YOUNG" target="ASIA-PACIFIC">
+      <data key="d0">7.0</data>
     </edge>
     <edge source="ERNST &amp; YOUNG" target="JAPAN">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="ERNST &amp; YOUNG" target="CPA FIRM">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="UNITED KINGDOM" target="UNITED KINGDOM FRAUD STUDY 2017">
+    <edge source="ERNST &amp; YOUNG" target="AI TOOLS">
       <data key="d0">8.0</data>
     </edge>
+    <edge source="BIG FIVE" target="BIG SIX">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="UNITED KINGDOM" target="ACCA">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="UNITED KINGDOM" target="ICAEW">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="UNITED KINGDOM" target="ICAS">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="UNITED KINGDOM" target="ICAI">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="UNITED KINGDOM" target="FINANCIAL TIMES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="UNITED KINGDOM" target="BDO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="UNITED KINGDOM" target="CROWE CLARK WHITEHILL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="UNITED KINGDOM" target="EXPERIAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="UNITED KINGDOM" target="CENTRE FOR COUNTER FRAUD STUDIES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="UNITED KINGDOM" target="FRAUD ADVISORY PANEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="UNITED KINGDOM" target="ACTION FRAUD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="UNITED KINGDOM" target="CITY OF LONDON POLICE">
+      <data key="d0">9.0</data>
+    </edge>
     <edge source="UNITED KINGDOM" target="NATIONAL CRIME AGENCY">
-      <data key="d0">1.0</data>
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="UNITED KINGDOM" target="CRIME SURVEY OF ENGLAND AND WALES">
+      <data key="d0">8.0</data>
     </edge>
     <edge source="UNITED KINGDOM" target="OFFICE FOR NATIONAL STATISTICS">
       <data key="d0">8.0</data>
     </edge>
+    <edge source="UNITED KINGDOM" target="NATIONAL AUDIT OFFICE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="UNITED KINGDOM" target="ROMANIA">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="UNITED KINGDOM" target="QATAR">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="UNITED KINGDOM" target="HUNGARY">
+      <data key="d0">5.0</data>
+    </edge>
     <edge source="UNITED KINGDOM" target="HM TREASURY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="UNITED KINGDOM" target="ANNUAL FRAUD INDICATOR 2017">
       <data key="d0">8.0</data>
-    </edge>
-    <edge source="UNITED KINGDOM" target="SCAM INTERCEPTORS">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="UNITED KINGDOM" target="SERIOUS FRAUD OFFICE">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="UNITED KINGDOM" target="NATIONAL FRAUD AUTHORITY">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="UNITED KINGDOM" target="CIFAS">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="UNITED KINGDOM" target="SCOTLAND">
-      <data key="d0">18.0</data>
     </edge>
     <edge source="UNITED KINGDOM" target="ENGLAND AND WALES">
-      <data key="d0">27.0</data>
+      <data key="d0">1.0</data>
     </edge>
-    <edge source="UNITED KINGDOM" target="ASIA">
-      <data key="d0">18.0</data>
+    <edge source="UNITED KINGDOM" target="SCAM INTERCEPTORS">
+      <data key="d0">1.0</data>
     </edge>
-    <edge source="UNITED KINGDOM" target="NORTHERN IRELAND">
-      <data key="d0">9.0</data>
+    <edge source="UNITED KINGDOM" target="INDUSTRIAL-SCALE SCAMMING CALL CENTRES IN ASIA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="UNITED KINGDOM" target="MONEY LAUNDERING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="UNITED KINGDOM" target="SANI ABACHA">
+      <data key="d0">16.0</data>
     </edge>
     <edge source="UNITED KINGDOM" target="STANDARD BANK">
       <data key="d0">7.0</data>
     </edge>
+    <edge source="UNITED KINGDOM" target="PROCEEDS OF CRIME ACT">
+      <data key="d0">10.0</data>
+    </edge>
     <edge source="SWITZERLAND" target="SANI ABACHA">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="SWITZERLAND" target="FERDINAND MARCOS">
-      <data key="d0">2.0</data>
-    </edge>
-    <edge source="SWITZERLAND" target="SWISS ANTI-MONEY LAUNDERING ACT">
       <data key="d0">1.0</data>
     </edge>
+    <edge source="SWITZERLAND" target="FERDINAND MARCOS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SWITZERLAND" target="SWISS ANTI-MONEY LAUNDERING ACT">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="SWITZERLAND" target="UNITED NATIONS OFFICE ON DRUGS AND CRIME">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="LIECHTENSTEIN" target="FERDINAND MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CPA FIRM" target="AUDIT COMMITTEE">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CPA FIRM" target="AUDIT FEES">
+      <data key="d0">7.0</data>
+    </edge>
     <edge source="ARTHUR ANDERSEN" target="ENRON SCANDAL">
-      <data key="d0">10.0</data>
+      <data key="d0">18.0</data>
     </edge>
     <edge source="ARTHUR ANDERSEN" target="ENRON">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="NATIONAL AUDIT OFFICE" target="WILLIAM EWART GLADSTONE">
-      <data key="d0">5.0</data>
-    </edge>
-    <edge source="NATIONAL AUDIT OFFICE" target="BANK OF ENGLAND">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="NATIONAL AUDIT OFFICE" target="SIR ANYAS MORSE">
+    <edge source="ENRON SCANDAL" target="AUDITING FAILURES">
       <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENRON SCANDAL" target="INTERNAL CONTROL PROCEDURES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="QUEEN ELIZABETH I" target="AUDITORS OF THE IMPRESA">
+      <data key="d0">8.0</data>
     </edge>
     <edge source="COMPTROLLER OF THE EXCHEQUER" target="COMMISSIONERS FOR AUDITING THE PUBLIC ACCOUNTS">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="COMPTROLLER AND AUDITOR GENERAL" target="EXCHEQUER AND AUDIT DEPARTMENT">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="AUDITOR OF THE EXCHEQUER" target="AUDITORS OF THE IMPRESA">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="ARTHUR YOUNG" target="EDWIN GUTHRIE">
-      <data key="d0">5.0</data>
-    </edge>
-    <edge source="ARTHUR YOUNG" target="JAMES T. ANYON">
-      <data key="d0">5.0</data>
-    </edge>
-    <edge source="EDWIN GUTHRIE" target="JAMES T. ANYON">
-      <data key="d0">5.0</data>
-    </edge>
-    <edge source="FEDERAL TRADE COMMISSION" target="FEDERAL RESERVE BOARD">
+    <edge source="COMMISSIONERS FOR AUDITING THE PUBLIC ACCOUNTS" target="EXCHEQUER">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="SECURITIES AND EXCHANGE COMMISSION" target="FRANKLIN D. ROOSEVELT">
+    <edge source="WILLIAM EWART GLADSTONE" target="COMPTROLLER AND AUDITOR GENERAL">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="SECURITIES AND EXCHANGE COMMISSION" target="CERTIFIED PUBLIC ACCOUNTANT">
+    <edge source="COMPTROLLER AND AUDITOR GENERAL" target="EXCHEQUER AND AUDIT DEPARTMENT">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="COMPTROLLER AND AUDITOR GENERAL" target="NATIONAL AUDIT OFFICE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="COMPTROLLER AND AUDITOR GENERAL" target="BANK OF ENGLAND">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="FRANKLIN D. ROOSEVELT" target="U.S. SECURITIES AND EXCHANGE COMMISSION (SEC)">
+    <edge source="COMPTROLLER AND AUDITOR GENERAL" target="PARLIAMENT">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="CERTIFIED PUBLIC ACCOUNTANT" target="CERTIFIED INTERNAL AUDITOR">
-      <data key="d0">5.0</data>
-    </edge>
-    <edge source="CERTIFIED PUBLIC ACCOUNTANT" target="CERTIFIED GENERAL ACCOUNTANT">
-      <data key="d0">5.0</data>
-    </edge>
-    <edge source="CERTIFIED PUBLIC ACCOUNTANT" target="CHARTERED CERTIFIED ACCOUNTANT">
-      <data key="d0">5.0</data>
-    </edge>
-    <edge source="CERTIFIED PUBLIC ACCOUNTANT" target="CHARTERED ACCOUNTANT">
-      <data key="d0">5.0</data>
-    </edge>
-    <edge source="ENRON" target="WORLDCOM">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="ENRON" target="SARBANES-OXLEY ACT">
+    <edge source="NATIONAL AUDIT OFFICE" target="AUDIT OF GOVERNMENT EXPENDITURE">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="WORLDCOM" target="SARBANES-OXLEY ACT">
+    <edge source="NATIONAL AUDIT OFFICE" target="SIR ANYAS MORSE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUSTRALIAN NATIONAL AUDIT OFFICE" target="AUSTRALIAN GOVERNMENT">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="PUBLIC COMPANY ACCOUNTING OVERSIGHT BOARD" target="SARBANES&#8211;OXLEY ACT">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="SARBANES&#8211;OXLEY ACT" target="INSTITUTE OF INTERNAL AUDITORS">
+    <edge source="AUSTRALIAN GOVERNMENT" target="BITCOIN">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="SARBANES&#8211;OXLEY ACT" target="UNITED STATES">
+    <edge source="CERTIFIED PUBLIC ACCOUNTANT" target="UNITED STATES">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="BRITAIN" target="UNITED STATES">
+    <edge source="UNITED STATES" target="BRITISH INVESTORS">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="SCOTTISH INVESTORS">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="CHARTERED ACCOUNTANT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="ARTHUR YOUNG">
       <data key="d0">6.0</data>
     </edge>
-    <edge source="UNITED STATES" target="SCOTLAND">
+    <edge source="UNITED STATES" target="EDWIN GUTHRIE">
       <data key="d0">6.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="JAMES T. ANYON">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="NEW YORK STOCK EXCHANGE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="SECURITIES AND EXCHANGE COMMISSION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="CPA">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="ENRON">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="WORLDCOM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="ACCOUNTING PRACTICES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="CERTIFIED PUBLIC ACCOUNTANT (CPA) LICENSE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="CALIFORNIA">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="HIGH-VALUE FRAUD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="FRAUD REVIEW 2006">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="U.S. SECURITIES AND EXCHANGE COMMISSION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="BLUE SKY LAWS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="WASHINGTON STATE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="PENNSYLVANIA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="UNITED NATIONS OFFICE ON DRUGS AND CRIME">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="CIVIL FRAUD">
+      <data key="d0">9.0</data>
     </edge>
     <edge source="UNITED STATES" target="FRAUD">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="UNITED STATES" target="NORTH AMERICA">
-      <data key="d0">2.0</data>
-    </edge>
-    <edge source="UNITED STATES" target="U.S. SECURITIES AND EXCHANGE COMMISSION (SEC)">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="UNITED STATES" target="BLUE SKY LAWS">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="UNITED STATES" target="CIVIL FRAUD">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="UNITED STATES" target="ANTI-FRAUD PROVISIONING">
+    <edge source="UNITED STATES" target="18 U.S.C. &#167; 704">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="UNITED STATES" target="US OFFICE OF THE COMPTROLLER OF THE CURRENCY">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="UNITED STATES" target="AL CAPONE">
+    <edge source="UNITED STATES" target="MONEY LAUNDERING">
       <data key="d0">9.0</data>
-    </edge>
-    <edge source="UNITED STATES" target="PATRIOT ACT">
-      <data key="d0">9.0</data>
-    </edge>
-    <edge source="UNITED STATES" target="HSBC">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="UNITED STATES" target="BNP PARIBAS">
-      <data key="d0">7.0</data>
     </edge>
     <edge source="UNITED STATES" target="PROHIBITION">
-      <data key="d0">9.0</data>
+      <data key="d0">7.0</data>
     </edge>
-    <edge source="UNITED STATES" target="11 SEPTEMBER ATTACKS">
-      <data key="d0">9.0</data>
+    <edge source="UNITED STATES" target="US AUTHORITIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="BNP PARIBAS">
+      <data key="d0">18.0</data>
     </edge>
     <edge source="UNITED STATES" target="LIBERTY RESERVE">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="UNITED STATES" target="NG LAP SENG">
+    <edge source="UNITED STATES" target="FERDINAND MARCOS">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="UNITED STATES" target="JOHN WILLIAM ASHE">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="UNITED STATES" target="NORTH CAROLINA">
-      <data key="d0">9.0</data>
-    </edge>
-    <edge source="UNITED STATES" target="EASTERN UNITED STATES">
-      <data key="d0">1.0</data>
+    <edge source="UNITED STATES" target="CORPORATE TRANSPARENCY ACT">
+      <data key="d0">10.0</data>
     </edge>
     <edge source="UNITED STATES" target="ARAMARK">
       <data key="d0">7.0</data>
     </edge>
     <edge source="UNITED STATES" target="MADOFF INVESTMENT SCANDAL">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="UNITED STATES" target="INTERNAL AUDITING">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="UNITED STATES" target="SARBANES-OXLEY">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="UNITED STATES" target="CHIEF AUDIT EXECUTIVE">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="SECURITIES ACT OF 1933" target="SECURITIES EXCHANGE ACT OF 1934">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="INSTITUTE OF CHARTERED ACCOUNTANTS AUSTRALIA" target="CPA AUSTRALIA">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="INSTITUTE OF CHARTERED ACCOUNTANTS AUSTRALIA" target="NATIONAL INSTITUTE OF ACCOUNTANTS">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="CPA AUSTRALIA" target="NATIONAL INSTITUTE OF ACCOUNTANTS">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="ACCA" target="ICAEW">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="ACCA" target="ICAS">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="ACCA" target="ICAI">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="ICAEW" target="ICAS">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="ICAEW" target="ICAI">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="ICAS" target="ICAI">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="INSTITUTE OF CHARTERED ACCOUNTANTS IN ENGLAND AND WALES" target="INSTITUTE OF CHARTERED ACCOUNTANTS OF SCOTLAND">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="INSTITUTE OF CHARTERED ACCOUNTANTS IN ENGLAND AND WALES" target="INSTITUTE OF CHARTERED ACCOUNTANTS IN IRELAND">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="INSTITUTE OF CHARTERED ACCOUNTANTS OF SCOTLAND" target="INSTITUTE OF CHARTERED ACCOUNTANTS IN IRELAND">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="CORPORATIONS ACT 2001" target="ASIC">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="CERTIFIED INTERNAL AUDITOR" target="CERTIFIED GENERAL ACCOUNTANT">
-      <data key="d0">5.0</data>
-    </edge>
-    <edge source="CERTIFIED INTERNAL AUDITOR" target="CHARTERED CERTIFIED ACCOUNTANT">
-      <data key="d0">5.0</data>
-    </edge>
-    <edge source="CERTIFIED INTERNAL AUDITOR" target="CHARTERED ACCOUNTANT">
-      <data key="d0">5.0</data>
-    </edge>
-    <edge source="CERTIFIED GENERAL ACCOUNTANT" target="CHARTERED CERTIFIED ACCOUNTANT">
-      <data key="d0">5.0</data>
-    </edge>
-    <edge source="CERTIFIED GENERAL ACCOUNTANT" target="CHARTERED ACCOUNTANT">
-      <data key="d0">5.0</data>
-    </edge>
-    <edge source="CHARTERED CERTIFIED ACCOUNTANT" target="CHARTERED ACCOUNTANT">
-      <data key="d0">5.0</data>
-    </edge>
-    <edge source="INCENTIVE SYSTEMS TO PROMOTE CAPITAL MARKET GATEKEEPER EFFECTIVENESS" target="FINANCIAL STATEMENT INSURANCE">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="FINANCIAL STATEMENT INSURANCE" target="AUDITOR">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="AUDITOR" target="AUDIT">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="AUDITOR" target="CLIENT">
-      <data key="d0">9.0</data>
-    </edge>
-    <edge source="AUDITOR" target="CPA">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="AUDITOR" target="AUDITING STANDARDS">
-      <data key="d0">9.0</data>
-    </edge>
-    <edge source="AUDITOR" target="INDEPENDENCE DECLARATION">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="AUDIT" target="INTERNAL CONTROL">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="AUDIT" target="SUBSTANTIVE TEST">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="AUDIT" target="PHASE I">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="AUDIT" target="PHASE II">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="AUDIT" target="PHASE III">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="AUDIT" target="PHASE IV">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="AUDIT" target="AUDIT REPORT">
-      <data key="d0">9.0</data>
-    </edge>
-    <edge source="AUDIT" target="FINANCIAL STATEMENTS">
+    <edge source="UNITED STATES" target="EMPLOYEE FRAUD 2020">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="AUDIT" target="SARBANES-OXLEY ACT">
+    <edge source="UNITED STATES" target="COMPANIES">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="CLIENT" target="AUDITING FIRM">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="FINANCIAL STATEMENTS" target="HISTORICAL COST ACCOUNTING">
+    <edge source="UNITED STATES" target="EMPLOYEE">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="DELOITTE" target="ARGUS">
-      <data key="d0">8.0</data>
+    <edge source="UNITED STATES" target="SARBANES&#8211;OXLEY ACT OF 2002">
+      <data key="d0">19.0</data>
     </edge>
-    <edge source="DELOITTE" target="BLOCKCHAIN">
+    <edge source="UNITED STATES" target="NEW YORK STATE">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="TEXAS">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="UNITED STATES" target="FLORIDA">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="CHARTERED ACCOUNTANT" target="CHARTERED CERTIFIED ACCOUNTANT ACCA">
       <data key="d0">6.0</data>
     </edge>
-    <edge source="DELOITTE" target="CLOUD COMPUTING">
-      <data key="d0">6.0</data>
+    <edge source="CHARTERED ACCOUNTANT" target="FINANCIAL ACCOUNTING">
+      <data key="d0">8.0</data>
     </edge>
-    <edge source="DELOITTE" target="CLOUD STORAGE">
-      <data key="d0">6.0</data>
+    <edge source="BIG SIX" target="BIG EIGHT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLAND" target="CORPORATION FORMATION 1845">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLAND" target="AUDITOR PROFESSION STANDARDIZATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLAND" target="FRAUD ACT 2006">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="AUDIT COMMITTEE" target="AUDIT FEES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AUDIT COMMITTEE" target="CONTROL ENVIRONMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT COMMITTEE" target="CHIEF AUDIT EXECUTIVE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT COMMITTEE" target="INTERNAL AUDIT CHARTER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT COMMITTEE" target="INTERNAL AUDIT PLAN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT COMMITTEE" target="INTERNAL AUDIT BUDGET AND RESOURCE PLAN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT COMMITTEE" target="INTERNAL AUDIT CUSTOMER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUDIT COMMITTEE" target="INTERNAL AUDIT FUNCTION">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="AUDIT COMMITTEE" target="BOARD OF DIRECTORS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT COMMITTEE" target="CHIEF AUDIT EXECUTIVE (CAE)">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUDIT COMMITTEE" target="INSTITUTE OF INTERNAL AUDITORS (IIA)">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AUDIT COMMITTEE" target="EXTERNAL AUDITOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUDIT COMMITTEE" target="SENIOR MANAGEMENT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AUDIT COMMITTEE" target="INDEPENDENT PEER REVIEWS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUDIT COMMITTEE" target="PERFORMANCE MEASUREMENT PROCESS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUDIT FEES" target="AUDIT QUALITY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NEW YORK STOCK EXCHANGE" target="FINANCIAL AUDITS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SECURITIES AND EXCHANGE COMMISSION" target="SECURITIES EXCHANGE ACT OF 1934">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SECURITIES AND EXCHANGE COMMISSION" target="U.S. CONGRESS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SECURITIES AND EXCHANGE COMMISSION" target="ACCOUNTING INDUSTRY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENRON" target="SARBANES-OXLEY ACT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="WORLDCOM" target="INTERNAL CONTROL PROCEDURES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="WORLDCOM" target="SARBANES-OXLEY ACT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ACCOUNTING PRACTICES" target="ALEXANDER SMITH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FEDERAL TRADE COMMISSION" target="INSTITUTE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FEDERAL TRADE COMMISSION" target="TECHNICAL MEMORANDUM">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INSTITUTE" target="FEDERAL RESERVE BOARD">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="INSTITUTE" target="AUDITING STANDARDS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="TECHNICAL MEMORANDUM" target="FEDERAL RESERVE BOARD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="TECHNICAL MEMORANDUM" target="AUDITING PROCEDURES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="TECHNICAL MEMORANDUM" target="PROFIT AND LOSS STATEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="TECHNICAL MEMORANDUM" target="BALANCE SHEET">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITING STANDARDS" target="GENERALLY ACCEPTED AUDITING STANDARDS (GAAS)">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SECURITIES ACT OF 1933" target="FRANKLIN D. ROOSEVELT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FRANKLIN D. ROOSEVELT" target="SECURITIES EXCHANGE ACT OF 1934">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FRANKLIN D. ROOSEVELT" target="U.S. SECURITIES AND EXCHANGE COMMISSION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="U.S. CONGRESS" target="SARBANES-OXLEY ACT">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ACCOUNTING INDUSTRY" target="AUDITING FIRMS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ACCOUNTING INDUSTRY" target="TECHNOLOGY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SARBANES&#8211;OXLEY ACT" target="PUBLIC COMPANY ACCOUNTING OVERSIGHT BOARD">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="PUBLIC COMPANY ACCOUNTING OVERSIGHT BOARD" target="SEC LISTED COMPANIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ACCA" target="AUDITING GUIDELINES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITING GUIDELINES" target="ICAEW">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITING GUIDELINES" target="ICAS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITING GUIDELINES" target="ICAI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITING GUIDELINES" target="INSTITUTE OF CHARTERED ACCOUNTANTS AUSTRALIA">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITING GUIDELINES" target="CPA AUSTRALIA">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDITING GUIDELINES" target="NATIONAL INSTITUTE OF ACCOUNTANTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INSTITUTE OF CHARTERED ACCOUNTANTS AUSTRALIA" target="AUSTRALIA">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="AUSTRALIA" target="CPA AUSTRALIA">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="AUSTRALIA" target="NATIONAL INSTITUTE OF ACCOUNTANTS">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="AUSTRALIA" target="AUSTRAC">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUSTRALIA" target="BITCOIN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AUSTRALIA" target="AUSTRALIAN ANTI-MONEY LAUNDERING LAWS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUSTRALIA" target="WESTPAC">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUSTRALIA" target="ANTI-MONEY LAUNDERING AND COUNTER-TERRORISM FINANCING ACT">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="GENERALLY ACCEPTED AUDITING STANDARDS (GAAS)" target="THIRD-PARTY QUALITY REVIEW">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PHASE I: PLANNING OF AUDIT AND DESIGN AN AUDIT APPROACH" target="AUDIT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT" target="PHASE II: PERFORM TEST OF CONTROLS AND SUBSTANTIVE TEST OF TRANSACTIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT" target="AUDIT OBJECTIVES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIT" target="PUBLIC COMPANIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BALANCE SHEET" target="FINANCIAL ACCOUNTING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BALANCE SHEET" target="LIQUIDITY POSITION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BALANCE SHEET" target="SOLVENCY POSITION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CORPORATIONS ACT 2001" target="AUDITING FIRM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUDITING FIRM" target="ASIC">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUDITING FIRM" target="INFORMATION SYSTEMS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AUDITING FIRM" target="CLIENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUDITING FIRM" target="COMMERCIAL RELATIONSHIP">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ARTIFICIAL INTELLIGENCE" target="MACHINE LEARNING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ARTIFICIAL INTELLIGENCE" target="DEEP LEARNING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ARTIFICIAL INTELLIGENCE" target="DISRUPTIVE INNOVATION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BLOCKCHAIN" target="FINANCIAL AUDITING">
+      <data key="d0">8.0</data>
     </edge>
     <edge source="BLOCKCHAIN" target="CYBER SECURITY">
-      <data key="d0">1.0</data>
+      <data key="d0">2.0</data>
     </edge>
-    <edge source="CLOUD COMPUTING" target="CLOUD STORAGE">
+    <edge source="BLOCKCHAIN" target="FINANCIAL ORGANIZATIONS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DATA ANALYTICS" target="MACHINE LEARNING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DATA ANALYTICS" target="FORENSIC ACCOUNTANTS">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="MACHINE LEARNING" target="ARTIFICIAL INTELLIGENCE">
+    <edge source="DATA ANALYTICS" target="DISRUPTIVE INNOVATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CLOUD COMPUTING" target="CLOUD STORAGE">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="FRAUD" target="MORTGAGE FRAUD">
+    <edge source="CLOUD COMPUTING" target="DISRUPTIVE INNOVATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TEST OF CONTROL" target="INTERNAL CONTROL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SUBSTANTIVE TEST OF TRANSACTIONS" target="UNIT SELLING PRICE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SUBSTANTIVE TEST OF TRANSACTIONS" target="DUPLICATE SALES INVOICES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SUBSTANTIVE TEST OF TRANSACTIONS" target="ELECTRONIC FILE OF APPROVED PRICES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SUBSTANTIVE ANALYTICAL PROCEDURES" target="INTERNAL CONTROL">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="FRAUD" target="FORGERY">
+    <edge source="SUBSTANTIVE TESTS OF DETAIL OF BALANCES" target="INTERNAL CONTROL">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="FRAUD" target="INTERNET FRAUD">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="FRAUD" target="INTERNAL FRAUD">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="FRAUD" target="COMMODITIES FRAUD">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="FRAUD" target="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS">
+    <edge source="HARD CLOSE" target="ROLLFORWARD PROCEDURES">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="FRAUD" target="BANK FRAUD">
+    <edge source="OVERALL AUDIT PLAN" target="AUDIT PROGRAM">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL CONTROL" target="COSO INTERNAL CONTROL FRAMEWORK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL CONTROL" target="INTERNAL AUDIT FUNCTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL CONTROL" target="CONTROL ENVIRONMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL CONTROL" target="RISK ASSESSMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL CONTROL" target="CONTROL ACTIVITIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL CONTROL" target="INFORMATION AND COMMUNICATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL CONTROL" target="MONITORING ACTIVITIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL CONTROL" target="OPERATING STAFF">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DELOITTE" target="ARGUS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DELOITTE" target="FINANCIAL AUDITING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FINANCIAL AUDITING" target="CYBER SECURITY">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="FRAUD" target="INSURANCE FRAUD">
-      <data key="d0">7.0</data>
+    <edge source="FINANCIAL AUDITING" target="INTERNAL AUDITING">
+      <data key="d0">8.0</data>
     </edge>
-    <edge source="FRAUD" target="TAX FRAUD">
-      <data key="d0">7.0</data>
+    <edge source="FINANCIAL AUDITING" target="PUBLIC ACCOUNTING FIRMS">
+      <data key="d0">9.0</data>
     </edge>
-    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="2010 FRAUD SURVEY">
+    <edge source="CYBER SECURITY" target="FINANCIAL ORGANIZATIONS">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="U.S. DEPARTMENT OF JUSTICE">
+    <edge source="BUSINESSES" target="TECHNOLOGY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BUSINESSES" target="MONEY LAUNDERING">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="BUSINESSES" target="CASH-INTENSIVE BUSINESSES">
       <data key="d0">1.0</data>
+    </edge>
+    <edge source="TECHNOLOGY" target="DATA MANAGEMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TECHNOLOGY" target="AUDITING INDUSTRY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="FRAUD">
+      <data key="d0">25.0</data>
+    </edge>
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="BANKING">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="MANUFACTURING">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="GOVERNMENT">
+      <data key="d0">6.0</data>
     </edge>
     <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="JOSEPH T. WELLS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="AUSTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="ACFE FRAUD MUSEUM">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="AUSTIN, TEXAS">
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="FRANKENSTEINS OF FRAUD">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="FRAUD ADVISORY PANEL">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="ACFE ANNUAL FRAUD CONFERENCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="ACFE REPORT TO THE NATIONS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="FRAUD MAGAZINE">
       <data key="d0">1.0</data>
     </edge>
     <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="CERTIFIED FRAUD EXAMINER">
-      <data key="d0">24.0</data>
+      <data key="d0">27.0</data>
     </edge>
-    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="FRANKENSTEINS OF FRAUD">
-      <data key="d0">5.0</data>
-    </edge>
-    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="ACFE ANNUAL FRAUD CONFERENCE">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="FRAUD ADVISORY PANEL">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="FORENSIC ACCOUNTANT">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="CRIMINAL LAW OF THE PEOPLE'S REPUBLIC OF CHINA" target="CHINA">
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="FRAUD PREVENTION">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="CHINA" target="ASIA">
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="FRAUD STATISTICS REPORTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="COMPANIES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="SMALL BUSINESSES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="LARGER COMPANIES">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="CHINA" target="CRIME OF FRAUD">
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="FORENSIC ACCOUNTANTS">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="CERTIFIED IN FINANCIAL FORENSICS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="BENFORD'S LAW">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="FORENSIC ACCOUNTING CERTIFICATIONS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="DUE DILIGENCE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ASSOCIATION OF CERTIFIED FRAUD EXAMINERS" target="COSO MODEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FRAUD" target="CHINA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FRAUD" target="INTERNAL FRAUD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FRAUD" target="COMMODITIES FRAUD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FRAUD" target="COURT OF LAW">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="SUPREME PEOPLE'S COURT" target="SUPREME PEOPLE'S PROCURATORATE">
+    <edge source="FRAUD" target="JURISDICTIONS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FRAUD" target="COMMON LAW JURISDICTIONS">
       <data key="d0">8.0</data>
+    </edge>
+    <edge source="FRAUD" target="BANKING INDUSTRY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FRAUD" target="MANUFACTURING INDUSTRY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FRAUD" target="GOVERNMENT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FRAUD" target="MORTGAGE FRAUD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FRAUD" target="THEFT BY FALSE PRETENSE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FRAUD" target="BANK FRAUD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FRAUD" target="INSURANCE FRAUD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FRAUD" target="FORGERY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FRAUD" target="COUNTERFEITING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FRAUD" target="INTERNET FRAUD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FRAUD" target="MAIL FRAUD">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FRAUD" target="WIRE FRAUD">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FRAUD" target="HOAX">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FRAUD" target="FRAUD ACT 2006">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FRAUD" target="SECTION 380(1) OF THE CRIMINAL CODE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FRAUD" target="FRAUD OFFENCES UNDER SCOTS LAW">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FRAUD" target="FEDERAL BUREAU OF INVESTIGATION">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FRAUD" target="U.S. DEPARTMENT OF JUSTICE, CRIMINAL DIVISION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FRAUD" target="STEVE COMISAR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FRAUD" target="FRAUD STATISTICS REPORTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FRAUD" target="FRAUD DETERRENCE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CHINA" target="PEOPLE'S REPUBLIC OF CHINA">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CHINA" target="CRIMINAL LAW OF THE PEOPLE'S REPUBLIC OF CHINA">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CHINA" target="SUPREME PEOPLE'S COURT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CHINA" target="SUPREME PEOPLE'S PROCURATORATE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CHINA" target="CRIME OF FRAUD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="VICTIM" target="FRAUD PERPETRATOR">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FRAUD PERPETRATOR" target="GOVERNMENTAL AUTHORITIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BENFORD'S LAW" target="FORENSIC ANALYTICS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BENFORD'S LAW" target="FORENSIC ACCOUNTANTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FORENSIC ANALYTICS" target="PREDICTIVE ANALYTICS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CRIMINAL LAW OF THE PEOPLE'S REPUBLIC OF CHINA" target="ARTICLE 266">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SUPREME PEOPLE'S COURT" target="INTERPRETATION ON SEVERAL ISSUES CONCERNING THE SPECIFIC APPLICATION OF THE LAW IN HANDLING CRIMINAL CASES OF FRAUD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SUPREME PEOPLE'S PROCURATORATE" target="INTERPRETATION ON SEVERAL ISSUES CONCERNING THE SPECIFIC APPLICATION OF THE LAW IN HANDLING CRIMINAL CASES OF FRAUD">
+      <data key="d0">9.0</data>
     </edge>
     <edge source="INDIA" target="INDIAN PENAL CODE">
       <data key="d0">9.0</data>
@@ -909,698 +2262,1802 @@
     <edge source="INDIA" target="INDIAN EVIDENCE ACT">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="NATIONAL CRIME AGENCY" target="DONALD TOON">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="NATIONAL CRIME AGENCY" target="ART MARKET">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="FINANCIAL TIMES" target="BDO">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="CROWE CLARK WHITEHILL" target="EXPERIAN">
-      <data key="d0">6.0</data>
-    </edge>
-    <edge source="CROWE CLARK WHITEHILL" target="CENTRE FOR COUNTER FRAUD STUDIES">
-      <data key="d0">6.0</data>
-    </edge>
-    <edge source="EXPERIAN" target="CENTRE FOR COUNTER FRAUD STUDIES">
-      <data key="d0">6.0</data>
-    </edge>
     <edge source="FRAUD ADVISORY PANEL" target="ACTION FRAUD">
-      <data key="d0">5.0</data>
-    </edge>
-    <edge source="CITY OF LONDON POLICE" target="ADRIAN LEPPARD">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="OFFICE FOR NATIONAL STATISTICS" target="CRIME HARM INDEX">
-      <data key="d0">21.0</data>
-    </edge>
-    <edge source="ENGLAND AND WALES" target="LARCENY ACT 1916">
-      <data key="d0">5.0</data>
-    </edge>
-    <edge source="ENGLAND AND WALES" target="THEFT ACT 1968">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="NORTHERN IRELAND" target="FRAUD ACT 2006">
+    <edge source="FRAUD ADVISORY PANEL" target="UK ANTI-FRAUD CHARITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ACTION FRAUD" target="NATIONAL FRAUD AND CYBERCRIME REPORTING CENTRE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CITY OF LONDON POLICE" target="ADRIAN LEPPARD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NATIONAL CRIME AGENCY" target="DONALD TOON">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NATIONAL CRIME AGENCY" target="TRADE-BASED LAUNDERING">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="ENGLAND" target="FRAUD ACT 2006">
+    <edge source="OFFICE FOR NATIONAL STATISTICS" target="CRIME HARM INDEX">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="OFFICE FOR NATIONAL STATISTICS" target="FRAUD ACT 2006">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="HM TREASURY" target="GOVERNMENT OF THE UNITED KINGDOM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLAND AND WALES" target="LARCENY ACT 1916">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLAND AND WALES" target="THEFT ACT 1968">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SIR ANYAS MORSE" target="ONLINE FRAUD">
       <data key="d0">8.0</data>
     </edge>
     <edge source="FRAUD ACT 2006" target="WALES">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="FRAUD ACT 2006" target="ROYAL ASSENT">
-      <data key="d0">24.0</data>
-    </edge>
-    <edge source="FRAUD ACT 2006" target="SUMMARY CONVICTION">
-      <data key="d0">21.0</data>
-    </edge>
-    <edge source="FRAUD ACT 2006" target="CONVICTION ON INDICTMENT">
-      <data key="d0">21.0</data>
-    </edge>
-    <edge source="FRAUD ACT 2006" target="THEFT ACT 1978">
-      <data key="d0">10.0</data>
-    </edge>
-    <edge source="CANADA" target="NORTH AMERICA">
       <data key="d0">18.0</data>
     </edge>
-    <edge source="U.S. GOVERNMENT" target="U.S. SECURITIES AND EXCHANGE COMMISSION (SEC)">
-      <data key="d0">1.0</data>
+    <edge source="FRAUD ACT 2006" target="NORTHERN IRELAND">
+      <data key="d0">18.0</data>
     </edge>
-    <edge source="FEDERAL BUREAU OF INVESTIGATION (FBI)" target="U.S. DEPARTMENT OF JUSTICE">
+    <edge source="FRAUD ACT 2006" target="SCOTLAND">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="AL CAPONE" target="FRANK WILSON">
+    <edge source="FRAUD ACT 2006" target="THEFT ACT 1978">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="AL CAPONE" target="US INTERNAL REVENUE SERVICE">
-      <data key="d0">1.0</data>
+    <edge source="FRAUD ACT 2006" target="FRAUD BY FALSE REPRESENTATION">
+      <data key="d0">10.0</data>
     </edge>
-    <edge source="HSBC" target="STANDARD CHARTERED">
+    <edge source="FRAUD ACT 2006" target="FRAUD BY FAILING TO DISCLOSE INFORMATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FRAUD ACT 2006" target="FRAUD BY ABUSE OF POSITION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FRAUD ACT 2006" target="SUMMARY CONVICTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FRAUD ACT 2006" target="CONVICTION ON INDICTMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="GOVERNMENT OF THE UNITED KINGDOM" target="SERIOUS FRAUD OFFICE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="GOVERNMENT OF THE UNITED KINGDOM" target="NATIONAL FRAUD AUTHORITY">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="BNP PARIBAS" target="UNITED STATES DISTRICT COURT, NORTHERN CALIFORNIA, SAN FRANCISCO DIVISION">
+    <edge source="GOVERNMENT OF THE UNITED KINGDOM" target="CIFAS">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="GROUP OF SEVEN (G7)" target="FINANCIAL ACTION TASK FORCE">
+    <edge source="SCOTLAND" target="COMMON LAW FRAUD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SCOTLAND" target="STATUTORY FRAUD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SERIOUS FRAUD OFFICE" target="ATTORNEY GENERAL FOR ENGLAND AND WALES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CANADA" target="CRIMINAL CODE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CANADA" target="SUPREME COURT OF CANADA">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CANADA" target="SECTION 380(1) OF THE CRIMINAL CODE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CANADA" target="PROHIBITION ORDER UNDER S. 380.2">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="FINANCIAL ACTION TASK FORCE" target="FINANCIAL CRIMES ENFORCEMENT NETWORK">
+    <edge source="CANADA" target="RESTITUTION ORDER UNDER S. 380.3">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SECTION 380(1) OF THE CRIMINAL CODE" target="INDICTABLE OFFENCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SECTION 380(1) OF THE CRIMINAL CODE" target="SUMMARY CONVICTION OFFENCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SECTION 380(1) OF THE CRIMINAL CODE" target="DISHONEST ACT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SECTION 380(1) OF THE CRIMINAL CODE" target="DEPRIVATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SECTION 380(1) OF THE CRIMINAL CODE" target="DEPRIVATION OF CONFIDENTIAL INFORMATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CALIFORNIA" target="HIGH-VALUE FRAUD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CALIFORNIA" target="LELAND YEE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CALIFORNIA" target="JOSE FRANKLIN JURADO-RODRIGUEZ">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FRAUD REVIEW 2006" target="U.S. GOVERNMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="U.S. GOVERNMENT" target="BLUE SKY LAWS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="UNITED NATIONS OFFICE ON DRUGS AND CRIME" target="JEAN-LOUP RICHET">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="UNITED NATIONS OFFICE ON DRUGS AND CRIME" target="MONEY LAUNDERING">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="18 U.S.C. &#167; 704" target="UNITED STATES CONGRESS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FEDERAL BUREAU OF INVESTIGATION" target="JOSEPH T. WELLS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="US OFFICE OF THE COMPTROLLER OF THE CURRENCY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="WAR ON DRUGS">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="PATRIOT ACT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="FINANCIAL ACTION TASK FORCE ON MONEY LAUNDERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="HSBC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="BNP PARIBAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="AUSTRAC">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="CRYPTOCURRENCY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="CHINESE ORGANIZED CRIMINAL GROUPS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="DRUG TRAFFICKING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="SEX WORK">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="TERRORISM">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="CORRUPTION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="EMBEZZLEMENT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="ORGANIZED CRIME">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="PRIVATE INDIVIDUALS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="STATES">
       <data key="d0">6.0</data>
     </edge>
-    <edge source="AUSTRAC" target="AUSTRALIA">
-      <data key="d0">9.0</data>
+    <edge source="MONEY LAUNDERING" target="FINANCIAL INSTITUTIONS">
+      <data key="d0">36.0</data>
     </edge>
-    <edge source="AUSTRALIA" target="BITCOIN">
-      <data key="d0">12.0</data>
-    </edge>
-    <edge source="AUSTRALIA" target="WESTPAC">
-      <data key="d0">9.0</data>
-    </edge>
-    <edge source="AUSTRALIA" target="ANTI-MONEY LAUNDERING AND COUNTER-TERRORISM FINANCING ACT">
-      <data key="d0">9.0</data>
-    </edge>
-    <edge source="CHINESE ORGANIZED CRIMINAL GROUPS" target="MEXICO">
-      <data key="d0">12.0</data>
-    </edge>
-    <edge source="CHINESE ORGANIZED CRIMINAL GROUPS" target="ITALY">
-      <data key="d0">2.0</data>
-    </edge>
-    <edge source="ITALY" target="INSTITUTE FOR THE WORKS OF RELIGION">
+    <edge source="MONEY LAUNDERING" target="TAX EVASION">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="UNITED STATES TREASURY DEPARTMENT" target="MONEY LAUNDERING">
+    <edge source="MONEY LAUNDERING" target="FALSE ACCOUNTING">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="FINANCIAL INTELLIGENCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="INTERNATIONAL REGULATORS">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="MONEY LAUNDERING" target="OFFSHORE BANK">
+    <edge source="MONEY LAUNDERING" target="GOVERNMENTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="DIGITAL ASSETS">
       <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="UNITED STATES TREASURY DEPARTMENT">
+      <data key="d0">9.0</data>
     </edge>
     <edge source="MONEY LAUNDERING" target="CASINOS">
       <data key="d0">7.0</data>
-    </edge>
-    <edge source="MONEY LAUNDERING" target="SHELL COMPANIES">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="MONEY LAUNDERING" target="TAX HAVENS">
-      <data key="d0">1.0</data>
     </edge>
     <edge source="MONEY LAUNDERING" target="STRUCTURING">
       <data key="d0">8.0</data>
     </edge>
     <edge source="MONEY LAUNDERING" target="BULK CASH SMUGGLING">
-      <data key="d0">8.0</data>
+      <data key="d0">7.0</data>
     </edge>
-    <edge source="MONEY LAUNDERING" target="TRADE-BASED LAUNDERING">
+    <edge source="MONEY LAUNDERING" target="CASH-INTENSIVE BUSINESSES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="SHELL COMPANIES AND TRUSTS">
       <data key="d0">8.0</data>
     </edge>
     <edge source="MONEY LAUNDERING" target="ROUND-TRIPPING">
-      <data key="d0">8.0</data>
+      <data key="d0">7.0</data>
     </edge>
     <edge source="MONEY LAUNDERING" target="BANK CAPTURE">
-      <data key="d0">8.0</data>
+      <data key="d0">7.0</data>
     </edge>
     <edge source="MONEY LAUNDERING" target="INVOICE FRAUD">
-      <data key="d0">8.0</data>
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="OTHER GAMBLING">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="BLACK SALARIES">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="TAX AMNESTIES">
+      <data key="d0">5.0</data>
     </edge>
     <edge source="MONEY LAUNDERING" target="TRANSACTION LAUNDERING">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="BANK OF CREDIT AND COMMERCE INTERNATIONAL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="IMF">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="FATF">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="WAR ON DRUGS" target="CIVIL ASSET FORFEITURE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="WAR ON DRUGS" target="MODERN ANTI-MONEY LAUNDERING LAWS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PATRIOT ACT" target="11 SEPTEMBER ATTACKS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FINANCIAL ACTION TASK FORCE ON MONEY LAUNDERING" target="GROUP OF SEVEN (G7)">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HSBC" target="US GOVERNMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HSBC" target="IRAN">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="BNP PARIBAS" target="US GOVERNMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CRYPTOCURRENCY" target="CYBERCRIMINALS">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="MONEY LAUNDERING" target="PLACEMENT">
+    <edge source="CRYPTOCURRENCY" target="CYBERCRIME">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CHINESE ORGANIZED CRIMINAL GROUPS" target="MEXICO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CHINESE ORGANIZED CRIMINAL GROUPS" target="ITALY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="EMBEZZLEMENT" target="STATE V. WEAVER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="EMBEZZLEMENT" target="EMPLOYEE">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="MONEY LAUNDERING" target="LAYERING">
+    <edge source="EMBEZZLEMENT" target="FALSIFICATION OF RECORDS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="EMBEZZLEMENT" target="CHECKS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="EMBEZZLEMENT" target="CHECK REGISTER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="EMBEZZLEMENT" target="TRANSACTION LOG">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ORGANIZED CRIME" target="MAFIA">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="MONEY LAUNDERING" target="INTEGRATION">
+    <edge source="PRIVATE INDIVIDUALS" target="DRUG DEALERS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PRIVATE INDIVIDUALS" target="CORRUPT OFFICIALS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FINANCIAL INSTITUTIONS" target="AUSTRAC SYSTEM">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="GOVERNMENTS" target="SANCTIONS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PROHIBITION" target="AL CAPONE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AL CAPONE" target="FRANK WILSON">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AL CAPONE" target="US INTERNAL REVENUE SERVICE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AL CAPONE" target="ALHAMIA PRISON">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CIVIL ASSET FORFEITURE" target="CIVIL LIBERTIES ADVOCATES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CIVIL ASSET FORFEITURE" target="LAW ENFORCEMENT AGENCIES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CIVIL ASSET FORFEITURE" target="CIVIL FORFEITURE LAWS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CIVIL ASSET FORFEITURE" target="REVERSE ONUS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CIVIL ASSET FORFEITURE" target="SEPARATION OF POWERS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CIVIL ASSET FORFEITURE" target="DUE PROCESS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ITALY" target="INSTITUTE FOR THE WORKS OF RELIGION">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="UNITED STATES TREASURY DEPARTMENT" target="TORNADO CASH">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="STRUCTURING" target="MONEY ORDERS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="BULK CASH SMUGGLING" target="OFFSHORE BANKS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ROUND-TRIPPING" target="OFFSHORE BANKS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ROUND-TRIPPING" target="TAX HAVENS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ROUND-TRIPPING" target="LAW FIRMS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="BANK CAPTURE" target="CRIMINALS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INVOICE FRAUD" target="CRIMINALS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INVOICE FRAUD" target="COMPANIES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="TRANSACTION LAUNDERING" target="MERCHANTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TRANSACTION LAUNDERING" target="ONLINE JOB MARKETPLACES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TRANSACTION LAUNDERING" target="PAYMENT ECOSYSTEM">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="TRADE-BASED LAUNDERING" target="ART MARKET">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TRADE-BASED LAUNDERING" target="HIGH-NET-WORTH INDIVIDUALS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ART MARKET" target="AUCTION HOUSES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TAX HAVENS" target="DIRTY MONEY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CRIMINALS" target="BITCOIN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COMPANIES" target="FORENSIC ACCOUNTANTS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="COMPANIES" target="EMPLOYEE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="COMPANIES" target="ADVISOR">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="COMPANIES" target="FINANCIAL PROFESSIONALS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="COMPANIES" target="INTERNAL CONTROLS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COMPANIES" target="AUDIT COMPANIES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="COMPANIES" target="SMALL-TIME EMBEZZLERS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="COMPANIES" target="PHANTOM EMPLOYEES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="COMPANIES" target="CASH REGISTERS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="COMPANIES" target="EMPLOYEE FRAUD">
       <data key="d0">1.0</data>
     </edge>
     <edge source="FREELANCER.COM" target="FIVERR">
-      <data key="d0">5.0</data>
+      <data key="d0">8.0</data>
     </edge>
-    <edge source="CHAINALYSIS" target="NFTS">
-      <data key="d0">7.0</data>
+    <edge source="LATIN AMERICA" target="SOCCER CLUBS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SOCCER CLUBS" target="SPORT PROFITS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SOCCER CLUBS" target="DRUG TRAFFICKERS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NFT MARKETPLACES" target="NON-FUNGIBLE TOKENS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NON-FUNGIBLE TOKENS" target="WASH TRADING">
+      <data key="d0">1.0</data>
     </edge>
     <edge source="TORNADO CASH" target="LAZARUS GROUP">
-      <data key="d0">8.0</data>
+      <data key="d0">9.0</data>
     </edge>
     <edge source="TORNADO CASH" target="OFFICE OF FOREIGN ASSETS CONTROL">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="TORNADO CASH" target="FINCEN">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="TORNADO CASH" target="ETHEREUM">
-      <data key="d0">7.0</data>
-    </edge>
     <edge source="TORNADO CASH" target="TREASURY DEPARTMENT">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="TORNADO CASH" target="FINCEN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TORNADO CASH" target="MIXERS">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="ESSEC ISIS" target="JEAN-LOUP RICHET">
-      <data key="d0">6.0</data>
+    <edge source="MIXERS" target="CRYPTOCURRENCY MIXERS">
+      <data key="d0">9.0</data>
     </edge>
-    <edge source="JEAN-LOUP RICHET" target="UNITED NATIONS OFFICE ON DRUGS AND CRIME">
-      <data key="d0">7.0</data>
+    <edge source="JEAN-LOUP RICHET" target="ESSEC ISIS">
+      <data key="d0">9.0</data>
     </edge>
-    <edge source="UNITED NATIONS OFFICE ON DRUGS AND CRIME" target="FINANCIAL CRIMES ENFORCEMENT NETWORK">
-      <data key="d0">6.0</data>
+    <edge source="LIBERTY RESERVE" target="US AUTHORITIES">
+      <data key="d0">9.0</data>
     </edge>
-    <edge source="EMMANUEL V. PASCUA" target="CHEE KUNG TONG">
-      <data key="d0">15.0</data>
+    <edge source="LIBERTY RESERVE" target="DIGITAL CURRENCY EXCHANGER SERVICE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LIBERTY RESERVE" target="LIBERTY RESERVE FOUNDER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SECOND LIFE" target="WORLD OF WARCRAFT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BITCOIN" target="TOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BITCOIN" target="DIGITAL CURRENCY EXCHANGES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BITCOIN" target="RANSOMWARE ATTACKERS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BITCOIN" target="CYBER FRAUDSTERS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BITCOIN" target="GUNRUNNERS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DIGITAL CURRENCY EXCHANGES" target="KYC FRAMEWORK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CHEE KUNG TONG" target="EMMANUEL V. PASCUA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CHEE KUNG TONG" target="CALIFORNIA STATE SENATOR LELAND YEE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CHEE KUNG TONG" target="REVERSE MONEY LAUNDERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="EMMANUEL V. PASCUA" target="CALIFORNIA STATE SENATOR LELAND YEE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="EMMANUEL V. PASCUA" target="UNITED STATES DISTRICT COURT NORTHERN CALIFORNIA SAN FRANCISCO DIVISION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="EMMANUEL V. PASCUA" target="FBI">
+      <data key="d0">9.0</data>
     </edge>
     <edge source="EMMANUEL V. PASCUA" target="LELAND YEE">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="EMMANUEL V. PASCUA" target="CALIFORNIA">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="EMMANUEL V. PASCUA" target="FBI">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="CHEE KUNG TONG" target="LELAND YEE">
-      <data key="d0">6.0</data>
-    </edge>
-    <edge source="ZCASH" target="MONERO">
-      <data key="d0">6.0</data>
-    </edge>
-    <edge source="SECOND LIFE" target="WORLD OF WARCRAFT">
-      <data key="d0">5.0</data>
-    </edge>
-    <edge source="SOCCER CLUBS" target="LATIN AMERICA">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="RUSSIA" target="EURASIAN GROUP ON COMBATING MONEY LAUNDERING AND FINANCING OF TERRORISM (EAG)">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="RUSSIA" target="GLOBAL LAUNDROMAT">
+    <edge source="EMMANUEL V. PASCUA" target="UNITED STATES DISTRICT COURT, NORTHERN CALIFORNIA, SAN FRANCISCO DIVISION">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="EURASIAN GROUP ON COMBATING MONEY LAUNDERING AND FINANCING OF TERRORISM (EAG)" target="RUSSIAN FEDERATION">
+    <edge source="CALIFORNIA STATE SENATOR LELAND YEE" target="REVERSE MONEY LAUNDERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DIRTY MONEY" target="ONLINE JOB MARKETPLACES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ONLINE JOB MARKETPLACES" target="MONEY LAUNDERER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERER" target="ASSOCIATE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DIGITAL ELECTRONIC MONEY" target="PRIVACY COINS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RUSSIAN FEDERATION" target="EURASIAN GROUP ON COMBATING MONEY LAUNDERING AND FINANCING OF TERRORISM (EAG)">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="RUSSIAN FEDERATION" target="BANK OF NEW YORK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RUSSIAN FEDERATION" target="GLOBAL LAUNDROMAT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RUSSIAN FEDERATION" target="SHADOW ECONOMY">
       <data key="d0">8.0</data>
     </edge>
     <edge source="EURASIAN GROUP ON COMBATING MONEY LAUNDERING AND FINANCING OF TERRORISM (EAG)" target="UKRAINE">
-      <data key="d0">8.0</data>
+      <data key="d0">7.0</data>
     </edge>
     <edge source="EURASIAN GROUP ON COMBATING MONEY LAUNDERING AND FINANCING OF TERRORISM (EAG)" target="TURKEY">
-      <data key="d0">8.0</data>
+      <data key="d0">7.0</data>
     </edge>
     <edge source="EURASIAN GROUP ON COMBATING MONEY LAUNDERING AND FINANCING OF TERRORISM (EAG)" target="SERBIA">
-      <data key="d0">8.0</data>
+      <data key="d0">7.0</data>
     </edge>
     <edge source="EURASIAN GROUP ON COMBATING MONEY LAUNDERING AND FINANCING OF TERRORISM (EAG)" target="KYRGYZSTAN">
-      <data key="d0">8.0</data>
+      <data key="d0">7.0</data>
     </edge>
     <edge source="EURASIAN GROUP ON COMBATING MONEY LAUNDERING AND FINANCING OF TERRORISM (EAG)" target="UZBEKISTAN">
-      <data key="d0">8.0</data>
+      <data key="d0">7.0</data>
     </edge>
     <edge source="EURASIAN GROUP ON COMBATING MONEY LAUNDERING AND FINANCING OF TERRORISM (EAG)" target="ARMENIA">
-      <data key="d0">8.0</data>
+      <data key="d0">7.0</data>
     </edge>
     <edge source="EURASIAN GROUP ON COMBATING MONEY LAUNDERING AND FINANCING OF TERRORISM (EAG)" target="KAZAKHSTAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GLOBAL LAUNDROMAT" target="ESTONIA">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="BANK OF CREDIT AND COMMERCE INTERNATIONAL" target="BANK OF NEW YORK">
-      <data key="d0">5.0</data>
+    <edge source="GLOBAL LAUNDROMAT" target="DEUTSCHE BANK">
+      <data key="d0">18.0</data>
     </edge>
-    <edge source="UNITED STATES DISTRICT COURT, NORTHERN CALIFORNIA, SAN FRANCISCO DIVISION" target="FINEXTRA">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="UNITED STATES DISTRICT COURT, NORTHERN CALIFORNIA, SAN FRANCISCO DIVISION" target="SAN FRANCISCO">
-      <data key="d0">9.0</data>
-    </edge>
-    <edge source="UNITED STATES DISTRICT COURT, NORTHERN CALIFORNIA, SAN FRANCISCO DIVISION" target="NORTHERN CALIFORNIA">
-      <data key="d0">9.0</data>
-    </edge>
-    <edge source="BSI BANK" target="SINGAPORE">
+    <edge source="GLOBAL LAUNDROMAT" target="LATVIA">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="SINGAPORE" target="FERDINAND MARCOS">
-      <data key="d0">6.0</data>
+    <edge source="GLOBAL LAUNDROMAT" target="CYPRUS">
+      <data key="d0">8.0</data>
     </edge>
-    <edge source="SINGAPORE" target="CORRUPTION, DRUG TRAFFICKING AND OTHER SERIOUS CRIMES (CONFISCATION OF BENEFITS) ACT">
+    <edge source="SHADOW ECONOMY" target="UKRAINE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SHADOW ECONOMY" target="TURKEY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SHADOW ECONOMY" target="SERBIA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SHADOW ECONOMY" target="KYRGYZSTAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SHADOW ECONOMY" target="UZBEKISTAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SHADOW ECONOMY" target="ARMENIA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SHADOW ECONOMY" target="KAZAKHSTAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BSI BANK" target="MONETARY AUTHORITY OF SINGAPORE">
       <data key="d0">9.0</data>
     </edge>
     <edge source="BTA BANK" target="MUKHTAR ABLYAZOV">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="CHARTER HOUSE BANK" target="KENYA">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="DANSKE BANK" target="SWEDBANK">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="DANSKE BANK" target="DEUTSCHE BANK">
-      <data key="d0">8.0</data>
+    <edge source="CHARTER HOUSE BANK" target="CENTRAL BANK OF KENYA">
+      <data key="d0">9.0</data>
     </edge>
     <edge source="DANSKE BANK" target="ESTONIA">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="DANSKE BANK" target="EUROPEAN UNION">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="DEUTSCHE BANK" target="LATVIA">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="DEUTSCHE BANK" target="CYPRUS">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="DEUTSCHE BANK" target="GLOBAL LAUNDROMAT">
+    <edge source="DANSKE BANK" target="SWEDBANK">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="DUBAI ISLAMIC BANK" target="STANDARD CHARTERED BANK">
+    <edge source="DANSKE BANK" target="FINANTSINSPEKTSIOON">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DANSKE BANK" target="DEUTSCHE BANK">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DANSKE BANK" target="FINANCIAL ACTION TASK FORCE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="DANSKE BANK" target="SVEN STUMBAUER">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="DANSKE BANK" target="DANSKE BANK MONEY LAUNDERING SCANDAL">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MODERN ANTI-MONEY LAUNDERING LAWS" target="TERRORIST FINANCING">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="DUBAI ISLAMIC BANK" target="KHALID SHEIKH MOHAMMED">
+    <edge source="PERSONS" target="SANCTIONS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="SANCTIONS" target="VESSELS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="UNITED ARAB EMIRATES" target="DUBAI ISLAMIC BANK">
       <data key="d0">9.0</data>
     </edge>
     <edge source="STANDARD CHARTERED BANK" target="SHARJAH">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="FINCEN FILES" target="GUNES GENERAL TRADING">
-      <data key="d0">6.0</data>
-    </edge>
-    <edge source="FINCEN FILES" target="INTERNATIONAL CONSORTIUM OF INVESTIGATIVE JOURNALISTS">
+    <edge source="STANDARD CHARTERED BANK" target="KHALID SHEIKH MOHAMMED">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="EPIC GAMES" target="FORTNITE">
-      <data key="d0">5.0</data>
+    <edge source="STANDARD CHARTERED BANK" target="IRAN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNATIONAL CONSORTIUM OF INVESTIGATIVE JOURNALISTS" target="FINCEN FILES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="GUNES GENERAL TRADING" target="DUBAI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FORTNITE" target="SIXGILL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FORTNITE" target="EPIC GAMES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INSTITUTE FOR THE WORKS OF RELIGION" target="VATICAN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="VATICAN" target="FERDINAND MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NAURU" target="RUSSIAN CAPITAL FLIGHT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SANI ABACHA" target="LUXEMBOURG">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SANI ABACHA" target="JERSEY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUXEMBOURG" target="JOSE FRANKLIN JURADO-RODRIGUEZ">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="STANDARD BANK" target="FINANCIAL CONDUCT AUTHORITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FERDINAND MARCOS" target="SINGAPORE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FERDINAND MARCOS" target="EUROPEAN UNION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FERDINAND MARCOS" target="CHANNEL ISLANDS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FERDINAND MARCOS" target="AUSTRIA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FERDINAND MARCOS" target="PANAMA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FERDINAND MARCOS" target="NETHERLANDS ANTILLES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FERDINAND MARCOS" target="CAYMAN ISLANDS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FERDINAND MARCOS" target="VANUATU">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FERDINAND MARCOS" target="HONG KONG">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FERDINAND MARCOS" target="MONACO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FERDINAND MARCOS" target="BAHAMAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="WESTPAC" target="AUSTRALIAN TRANSACTION REPORTS AND ANALYSIS CENTRE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="WESTPAC" target="ANTI-MONEY LAUNDERING AND COUNTER-TERRORISM FINANCING ACT 2006">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SINGAPORE" target="CORRUPTION, DRUG TRAFFICKING AND OTHER SERIOUS CRIMES (CONFISCATION OF BENEFITS) ACT">
+      <data key="d0">19.0</data>
     </edge>
     <edge source="JOSE FRANKLIN JURADO-RODRIGUEZ" target="JOSE SANTACRUZ LONDONO">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="JOSE FRANKLIN JURADO-RODRIGUEZ" target="LUXEMBOURG">
-      <data key="d0">8.0</data>
-    </edge>
     <edge source="NG LAP SENG" target="JOHN WILLIAM ASHE">
-      <data key="d0">8.0</data>
+      <data key="d0">9.0</data>
     </edge>
-    <edge source="NG LAP SENG" target="MACAU">
+    <edge source="NG LAP SENG" target="UNITED NATIONS OFFICE FOR SOUTH-SOUTH COOPERATION">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="FERDINAND MARCOS" target="VATICAN">
-      <data key="d0">6.0</data>
+    <edge source="NG LAP SENG" target="MACAU">
+      <data key="d0">9.0</data>
     </edge>
-    <edge source="FERDINAND MARCOS" target="NETHERLANDS ANTILLES">
-      <data key="d0">6.0</data>
+    <edge source="NG LAP SENG" target="UNITED NATIONS">
+      <data key="d0">9.0</data>
     </edge>
-    <edge source="FERDINAND MARCOS" target="PANAMA">
-      <data key="d0">1.0</data>
+    <edge source="NG LAP SENG" target="FOREIGN CORRUPT PRACTICES ACT">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="JOHN WILLIAM ASHE" target="UNITED NATIONS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="UNITED NATIONS OFFICE FOR SOUTH-SOUTH COOPERATION" target="YIPING ZHOU">
+      <data key="d0">10.0</data>
     </edge>
     <edge source="FINANCIAL CRIMES ENFORCEMENT NETWORK" target="ANTI-MONEY LAUNDERING AND COUNTER-TERRORISM FINANCING ACT">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="FINANCIAL CRIMES ENFORCEMENT NETWORK" target="DANSKE BANK MONEY LAUNDERING SCANDAL">
-      <data key="d0">5.0</data>
+    <edge source="FINANCIAL ACTION TASK FORCE" target="DANSKE BANK MONEY LAUNDERING SCANDAL">
+      <data key="d0">7.0</data>
     </edge>
-    <edge source="FINANCIAL CRIMES ENFORCEMENT NETWORK" target="BANK SECRECY ACT">
+    <edge source="DANSKE BANK MONEY LAUNDERING SCANDAL" target="SVEN STUMBAUER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BANK SECRECY ACT" target="UNITED STATES DEPARTMENT OF STATE">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="FINANCIAL CRIMES ENFORCEMENT NETWORK" target="WORLD BANK">
-      <data key="d0">5.0</data>
+    <edge source="UNITED STATES DEPARTMENT OF STATE" target="BUREAU OF INTERNATIONAL NARCOTICS AND LAW ENFORCEMENT AFFAIRS">
+      <data key="d0">18.0</data>
     </edge>
-    <edge source="FINANCIAL CRIMES ENFORCEMENT NETWORK" target="INTERNATIONAL NARCOTICS CONTROL STRATEGY REPORT">
-      <data key="d0">1.0</data>
+    <edge source="FINANCIAL MARKET INTEGRITY UNIT" target="WORLD BANK">
+      <data key="d0">17.0</data>
     </edge>
-    <edge source="JOSEPH T. WELLS" target="FEDERAL BUREAU OF INVESTIGATION">
+    <edge source="JOSEPH T. WELLS" target="UNIVERSITY OF OKLAHOMA">
       <data key="d0">7.0</data>
     </edge>
     <edge source="JOSEPH T. WELLS" target="JOHN N. MITCHELL">
       <data key="d0">8.0</data>
     </edge>
     <edge source="JOSEPH T. WELLS" target="WATERGATE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUSTIN" target="TEXAS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ACFE FRAUD MUSEUM" target="STEVE COMISAR">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="JOSEPH T. WELLS" target="UNIVERSITY OF OKLAHOMA">
-      <data key="d0">6.0</data>
+    <edge source="JOHN N. MITCHELL" target="WATERGATE">
+      <data key="d0">9.0</data>
     </edge>
-    <edge source="CERTIFIED FRAUD EXAMINER" target="FORENSIC ACCOUNTANT">
-      <data key="d0">1.0</data>
+    <edge source="TEXAS" target="INTERNAL AUDIT PROFESSIONAL STANDARDS">
+      <data key="d0">9.0</data>
     </edge>
-    <edge source="STEVE COMISAR" target="ACFE FRAUD MUSEUM">
-      <data key="d0">6.0</data>
+    <edge source="FORENSIC ACCOUNTING" target="PROCEEDS OF CRIME ACT 2002">
+      <data key="d0">7.0</data>
     </edge>
-    <edge source="STEVE COMISAR" target="AMERICA'S GUIDE TO FRAUD PREVENTION">
-      <data key="d0">6.0</data>
+    <edge source="FORENSIC ACCOUNTING" target="SOX 404">
+      <data key="d0">7.0</data>
     </edge>
-    <edge source="FRANK WILSON" target="US INTERNAL REVENUE SERVICE">
+    <edge source="FORENSIC ACCOUNTING" target="CERTIFIED FORENSIC ACCOUNTING PROFESSIONAL">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="US INTERNAL REVENUE SERVICE" target="CERTIFIED FRAUD EXAMINERS">
+    <edge source="FORENSIC ACCOUNTING" target="CERTIFIED FRAUD EXAMINERS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTING" target="INSTITUTE OF CHARTERED ACCOUNTANTS OF INDIA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTING" target="AMERICAN BOARD OF FORENSIC ACCOUNTING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTING" target="CERTIFIED PUBLIC ACCOUNTANTS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTING" target="CHARTERED ACCOUNTANTS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTING" target="CERTIFIED MANAGEMENT ACCOUNTANTS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTING" target="CHARTERED PROFESSIONAL ACCOUNTANTS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTING" target="CHARTERED CERTIFIED ACCOUNTANTS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTING" target="CERTIFIED FORENSIC INVESTIGATION PROFESSIONALS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTING" target="CERTIFIED FORENSIC ACCOUNTING PROFESSIONALS (INDIA)">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="FORENSIC AUDITORS CERTIFICATION BOARD OF ENGLAND AND WALES" target="CERTIFIED FORENSIC ACCOUNTING PROFESSIONAL">
-      <data key="d0">8.0</data>
+    <edge source="FORENSIC ACCOUNTING" target="CERTIFIED FRAUD EXAMINERS (CFE)">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTING" target="CHARTERED ACCOUNTANTS (CA)">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTING" target="CERTIFIED MANAGEMENT ACCOUNTANTS (CMA)">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTING" target="CHARTERED PROFESSIONAL ACCOUNTANTS (CPA CANADA)">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTING" target="CHARTERED CERTIFIED ACCOUNTANTS (CCA)">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTING" target="CERTIFIED FORENSIC INVESTIGATION PROFESSIONALS (CFIP)">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTING" target="FINANCIAL FORENSICS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CERTIFIED FORENSIC ACCOUNTING PROFESSIONAL" target="FORENSIC AUDITORS CERTIFICATION BOARD OF ENGLAND AND WALES">
+      <data key="d0">9.0</data>
     </edge>
     <edge source="AMERICAN BOARD OF FORENSIC ACCOUNTING" target="CERTIFIED PUBLIC ACCOUNTANTS">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="CERTIFIED PUBLIC ACCOUNTANTS" target="SOX 404">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="CHARTERED PROFESSIONAL ACCOUNTANTS" target="CERTIFIED MANAGEMENT ACCOUNTANTS">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="CERTIFIED IN FINANCIAL FORENSICS" target="AICPA">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="CERTIFIED IN FINANCIAL FORENSICS" target="INTERNATIONAL INSTITUTE OF FORENSIC INVESTIGATION PROFESSIONALS INC">
-      <data key="d0">7.0</data>
+    <edge source="AMERICAN BOARD OF FORENSIC ACCOUNTING" target="CERTIFIED FORENSIC ACCOUNTING PROFESSIONALS (CRFAC)">
+      <data key="d0">9.0</data>
     </edge>
-    <edge source="CERTIFIED IN FINANCIAL FORENSICS" target="FORENSIC ACCOUNTANT">
-      <data key="d0">7.0</data>
+    <edge source="CERTIFIED PUBLIC ACCOUNTANTS" target="AICPA">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FRANK WILSON" target="US INTERNAL REVENUE SERVICE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AICPA" target="SAS 99">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AICPA" target="SAS NO. 99">
+      <data key="d0">9.0</data>
     </edge>
     <edge source="AICPA" target="SAS 99 PRACTICE AID">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AICPA" target="MITIGATING CONTROLS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LARGE ACCOUNTING FIRMS" target="POLICE AND GOVERNMENT AGENCIES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LARGE ACCOUNTING FIRMS" target="FORENSIC ACCOUNTANTS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="MEDIUM-SIZED AND BOUTIQUE FIRMS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="POLICE AGENCIES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="GOVERNMENT AGENCIES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="CRIMINAL INVESTIGATIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="LITIGATION SUPPORT SERVICES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="INSURANCE CLAIMS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="CORPORATE INVESTIGATIONS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="ECONOMIC DAMAGES CALCULATIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="POST-ACQUISITION DISPUTES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="BANKRUPTCY, INSOLVENCY, AND REORGANIZATION">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="DIVORCE SETTLEMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="FRAUD RISK ASSESSMENTS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="COMPUTER FORENSICS/E-DISCOVERY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="PROFESSIONAL NEGLIGENCE CLAIMS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="MARITAL AND FAMILY LAW">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="INTERNATIONAL INSTITUTE OF FORENSIC INVESTIGATION PROFESSIONALS INC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="CERTIFIED IN FINANCIAL FORENSICS">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="JURY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="FRAUD AUDITORS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="ORGANIZATIONAL BEHAVIOR">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="PUBLIC ORGANIZATIONS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="CLIENTS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="STAKEHOLDERS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="FORGERS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="SUSPECTS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="WITNESSES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="VICTIMS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="BUSINESS PREMISES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="PUBLIC RECORDS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="FINANCIAL TRANSACTIONS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="BUSINESS RECORDS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="SURVEILLANCE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="INTERROGATION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="FORENSIC ACCOUNTING CERTIFICATIONS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FORENSIC ACCOUNTANTS" target="DUE DILIGENCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GOVERNMENT AGENCIES" target="INTERNAL AUDIT DEPARTMENTS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GOVERNMENT AGENCIES" target="FINANCIAL ACCOUNTING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CERTIFICATE COURSE ON FORENSIC ACCOUNTING AND FRAUD DETECTION (FAFD)" target="INSTITUTE OF CHARTERED ACCOUNTANTS OF INDIA (ICAI)">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CERTIFIED IN FINANCIAL FORENSICS (CFF)" target="AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS (AICPA)">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS (AICPA)" target="CERTIFIED PUBLIC ACCOUNTANTS (CPA)">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CLIENTS" target="EMBEZZLERS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="STAKEHOLDERS" target="FINANCIAL ACCOUNTING">
       <data key="d0">8.0</data>
     </edge>
     <edge source="DONALD CRESSEY" target="FRAUD TRIANGLE">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="FRAUD TRIANGLE" target="FORENSIC ACCOUNTANTS">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="FRAUD TRIANGLE" target="FRAUD CYCLE">
-      <data key="d0">1.0</data>
-    </edge>
     <edge source="FRAUD TRIANGLE" target="DONALD R. CRESSEY">
-      <data key="d0">7.0</data>
+      <data key="d0">8.0</data>
     </edge>
     <edge source="FRAUD TRIANGLE" target="EDWIN SUTHERLAND">
-      <data key="d0">7.0</data>
+      <data key="d0">8.0</data>
     </edge>
     <edge source="FRAUD TRIANGLE" target="STEVE ALBRECHT">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="FRAUD TRIANGLE" target="CENDROWSKI, MARTIN, PETRO">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="FRAUD TRIANGLE" target="FRAUD DETERRENCE">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="INTERNATIONAL INSTITUTE OF FORENSIC INVESTIGATION PROFESSIONALS INC" target="FORENSIC ACCOUNTANTS">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="FORENSIC ACCOUNTANTS" target="PUBLIC RECORDS">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="FORENSIC ACCOUNTANTS" target="BENFORD'S LAW">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="FORENSIC ACCOUNTANTS" target="FORENSIC ACCOUNTING">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="FORENSIC ACCOUNTANTS" target="DATA ANALYTICS">
+    <edge source="FRAUD TRIANGLE" target="CENDROWSKI, MARTIN, PETRO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FRAUD TRIANGLE" target="THE HANDBOOK OF FRAUD DETERRENCE">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="FORENSIC ACCOUNTANT" target="FORENSIC ACCOUNTING CERTIFICATIONS">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="FORENSIC ACCOUNTANT" target="DUE DILIGENCE">
-      <data key="d0">6.0</data>
-    </edge>
-    <edge source="NORTH CAROLINA" target="STATE V. WEAVER">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="NORTH CAROLINA" target="ARAMARK">
+    <edge source="FRAUD TRIANGLE" target="FRAUD OR COMPROMISE TRIANGLE">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="NORTH CAROLINA" target="NORTH CAROLINA APPELLATE COURTS">
+    <edge source="FRAUD TRIANGLE" target="COSO MODEL">
       <data key="d0">8.0</data>
-    </edge>
-    <edge source="NORTH CAROLINA" target="PARLIAMENT">
-      <data key="d0">6.0</data>
-    </edge>
-    <edge source="NORTH CAROLINA" target="NORTH CAROLINA COLONY">
-      <data key="d0">7.0</data>
     </edge>
     <edge source="ARAMARK" target="EASTERN UNITED STATES">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="ARAMARK" target="CASH REGISTERS">
-      <data key="d0">4.0</data>
+    <edge source="NORTH CAROLINA" target="STATE V. WEAVER">
+      <data key="d0">9.0</data>
     </edge>
-    <edge source="MADOFF INVESTMENT SCANDAL" target="FINANCIAL INSTITUTIONS">
+    <edge source="NORTH CAROLINA" target="PARLIAMENT STATUTE 1528">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="STATE V. WEAVER" target="LARCENY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PARLIAMENT STATUTE 1528" target="NORTH CAROLINA COURTS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="PARLIAMENT STATUTE 1528" target="INDENTURED SERVANT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="PARLIAMENT STATUTE 1528" target="SLAVE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="PARLIAMENT STATUTE 1528" target="MASTER">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="MADOFF INVESTMENT SCANDAL" target="PONZI SCHEME">
-      <data key="d0">1.0</data>
+    <edge source="LARCENY" target="EMPLOYEE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INDENTURED SERVANT" target="MASTER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SLAVE" target="MASTER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MASTER" target="EMPLOYEE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="EMPLOYEE" target="MOVIE THEATRE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FALSIFICATION OF RECORDS" target="EMBEZZLERS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="EMBEZZLERS" target="INVESTORS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL CONTROLS" target="SARBANES-OXLEY ACT">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="INTERNAL CONTROLS" target="OPPORTUNITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SMALL-TIME EMBEZZLERS" target="CHEQUE">
+      <data key="d0">6.0</data>
     </edge>
     <edge source="SARBANES-OXLEY ACT" target="WASTE MANAGEMENT">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="SARBANES-OXLEY ACT" target="U.S. CONGRESS">
-      <data key="d0">9.0</data>
-    </edge>
-    <edge source="SARBANES-OXLEY ACT" target="FRAUD DETERRENCE">
-      <data key="d0">7.0</data>
-    </edge>
     <edge source="SARBANES-OXLEY ACT" target="SAS 99">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="FRAUD DETERRENCE" target="SAS 99">
-      <data key="d0">1.0</data>
+    <edge source="SARBANES-OXLEY ACT" target="PUBLIC COMPANIES">
+      <data key="d0">10.0</data>
     </edge>
-    <edge source="SAS 99" target="AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS (AICPA)">
+    <edge source="SARBANES-OXLEY ACT" target="CORPORATE SCANDALS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SAS 99" target="FRAUD DETECTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CERTIFIED FRAUD DETERRENCE ANALYST (CFD)" target="NACVA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CERTIFIED FRAUD DETERRENCE ANALYST (CFD)" target="CERTIFIED FORENSIC FINANCIAL ANALYST (CFFA)">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CENDROWSKI, MARTIN, PETRO" target="RISK ASSESSMENT">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="COMMITTEE OF SPONSORING ORGANIZATIONS OF THE TREADWAY COMMISSION (COSO)" target="INTERNAL CONTROL &#8211; INTEGRATED FRAMEWORK">
+    <edge source="CENDROWSKI, MARTIN, PETRO" target="CONTROL ACTIVITIES">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="COMMITTEE OF SPONSORING ORGANIZATIONS OF THE TREADWAY COMMISSION (COSO)" target="INTERNAL AUDIT">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="CERTIFIED FORENSIC FINANCIAL ANALYST (CFFA)" target="CERTIFIED FRAUD DETERRENCE ANALYST (CFD)">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="COSO" target="ACFE">
-      <data key="d0">6.0</data>
-    </edge>
-    <edge source="COSO" target="CONTROL ENVIRONMENT">
-      <data key="d0">9.0</data>
-    </edge>
-    <edge source="COSO" target="RISK ASSESSMENT">
-      <data key="d0">9.0</data>
-    </edge>
-    <edge source="COSO" target="CONTROL ACTIVITIES">
-      <data key="d0">9.0</data>
-    </edge>
-    <edge source="COSO" target="INFORMATION &amp; COMMUNICATION">
-      <data key="d0">9.0</data>
-    </edge>
-    <edge source="COSO" target="MONITORING">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="COSO" target="SARBANES-OXLEY">
+    <edge source="CENDROWSKI, MARTIN, PETRO" target="INFORMATION &amp; COMMUNICATION">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="COSO" target="IIA">
-      <data key="d0">6.0</data>
+    <edge source="CENDROWSKI, MARTIN, PETRO" target="MONITORING">
+      <data key="d0">7.0</data>
     </edge>
-    <edge source="COSO" target="ENTERPRISE RISK MANAGEMENT">
+    <edge source="FRAUD OR COMPROMISE TRIANGLE" target="MOTIVE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FRAUD OR COMPROMISE TRIANGLE" target="RATIONALIZATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FRAUD OR COMPROMISE TRIANGLE" target="OPPORTUNITY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FRAUD DETECTION" target="GAAS AUDIT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COSO" target="FRAUD DETERRENCE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="COSO" target="INTERNAL CONTROL &#8211; INTEGRATED FRAMEWORK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FRAUD DETERRENCE" target="INVESTOR CONFIDENCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SAS NO. 99 IMPLEMENTATION GUIDE" target="AICPA PRACTICE AID SERIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COSO MODEL" target="CONTROL ENVIRONMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COSO MODEL" target="RISK ASSESSMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COSO MODEL" target="CONTROL ACTIVITIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COSO MODEL" target="INFORMATION &amp; COMMUNICATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COSO MODEL" target="MONITORING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CONTROL ENVIRONMENT" target="ARENS, ELDER, BEASLEY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CONTROL ENVIRONMENT" target="TOP MANAGEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CONTROL ENVIRONMENT" target="BOARD OF DIRECTORS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CONTROL ENVIRONMENT" target="OWNERS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CONTROL ENVIRONMENT" target="HUMAN RESOURCE POLICIES AND PRACTICES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CONTROL ACTIVITIES" target="ARENS, ELDER, BEASLEY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CONTROL ACTIVITIES" target="SEPARATION OF DUTIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CONTROL ACTIVITIES" target="AUTHORIZATION OF TRANSACTIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CONTROL ACTIVITIES" target="DOCUMENTS AND RECORDS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CONTROL ACTIVITIES" target="PHYSICAL CONTROL OVER ASSETS AND RECORDS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CONTROL ACTIVITIES" target="INDEPENDENT CHECKS ON PERFORMANCE">
       <data key="d0">1.0</data>
     </edge>
     <edge source="MONITORING" target="MIDLANDS STATE UNIVERSITY">
-      <data key="d0">3.0</data>
-    </edge>
-    <edge source="INSTITUTE OF INTERNAL AUDITORS" target="LAWRENCE SAWYER">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="INSTITUTE OF INTERNAL AUDITORS" target="NEW YORK STATE">
-      <data key="d0">6.0</data>
-    </edge>
-    <edge source="INSTITUTE OF INTERNAL AUDITORS" target="TEXAS">
-      <data key="d0">6.0</data>
-    </edge>
-    <edge source="INSTITUTE OF INTERNAL AUDITORS" target="FLORIDA">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="INSTITUTE OF INTERNAL AUDITORS" target="INTERNAL AUDITING">
-      <data key="d0">9.0</data>
-    </edge>
-    <edge source="INSTITUTE OF INTERNAL AUDITORS" target="INTERNAL AUDIT">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="LAWRENCE SAWYER" target="CHIEF AUDIT EXECUTIVE">
+    <edge source="MONITORING" target="ARENS, ELDER, BEASLEY">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="INTERNAL AUDITING" target="CHIEF AUDIT EXECUTIVE">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="INTERNAL AUDITING" target="COSO INTERNAL CONTROL FRAMEWORK">
+    <edge source="MONITORING" target="THE INSTITUTE OF INTERNAL AUDITORS">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="INTERNAL AUDITING" target="BOARD OF DIRECTORS">
+    <edge source="TOP MANAGEMENT" target="INTERNAL AUDIT FUNCTION">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="CHIEF AUDIT EXECUTIVE" target="IIA">
-      <data key="d0">5.0</data>
+    <edge source="BOARD OF DIRECTORS" target="CHIEF AUDIT EXECUTIVE">
+      <data key="d0">9.0</data>
     </edge>
-    <edge source="CHIEF AUDIT EXECUTIVE" target="AUDIT COMMITTEE">
-      <data key="d0">8.0</data>
+    <edge source="BOARD OF DIRECTORS" target="INTERNAL AUDITING">
+      <data key="d0">2.0</data>
     </edge>
-    <edge source="BOARD OF DIRECTORS" target="MANAGEMENT">
-      <data key="d0">8.0</data>
-    </edge>
-    <edge source="BOARD OF DIRECTORS" target="CORPORATE GOVERNANCE">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="BOARD OF DIRECTORS" target="AUDIT COMMITTEE">
-      <data key="d0">6.0</data>
-    </edge>
-    <edge source="BOARD OF DIRECTORS" target="THREE LINES OF DEFENCE MODEL">
-      <data key="d0">5.0</data>
+    <edge source="BOARD OF DIRECTORS" target="INTERNAL AUDIT FUNCTION">
+      <data key="d0">9.0</data>
     </edge>
     <edge source="BOARD OF DIRECTORS" target="INTERNAL AUDIT">
-      <data key="d0">8.0</data>
+      <data key="d0">10.0</data>
     </edge>
     <edge source="BOARD OF DIRECTORS" target="EXTERNAL AUDITOR">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="ENTERPRISE RISK MANAGEMENT" target="MANAGEMENT">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="AUDIT COMMITTEE" target="CORPORATE GOVERNANCE">
-      <data key="d0">9.0</data>
+    <edge source="INSTITUTE OF INTERNAL AUDITORS" target="INTERNATIONAL PROFESSIONAL PRACTICES FRAMEWORK">
+      <data key="d0">19.0</data>
     </edge>
-    <edge source="AUDIT COMMITTEE" target="INTERNAL AUDIT">
-      <data key="d0">9.0</data>
+    <edge source="INSTITUTE OF INTERNAL AUDITORS" target="INTERNAL AUDITING">
+      <data key="d0">10.0</data>
     </edge>
-    <edge source="RISK MANAGEMENT" target="INTERNAL AUDIT">
-      <data key="d0">7.0</data>
+    <edge source="INSTITUTE OF INTERNAL AUDITORS" target="INTERNAL AUDIT PROFESSIONAL STANDARDS">
+      <data key="d0">10.0</data>
     </edge>
-    <edge source="INTERNAL AUDIT" target="TOP MANAGEMENT">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="INTERNAL AUDIT" target="INFORMATION TECHNOLOGY AUDITORS">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="INTERNAL AUDIT" target="IIA STANDARDS">
-      <data key="d0">9.0</data>
-    </edge>
-    <edge source="INTERNAL AUDIT" target="CAPAS">
-      <data key="d0">6.0</data>
-    </edge>
-    <edge source="INTERNAL AUDIT" target="BALANCED SCORECARD">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="INTERNAL AUDIT" target="CONTINUOUS IMPROVEMENT">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="INTERNAL AUDIT" target="COMPLIANCE">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="INTERNAL AUDIT" target="OPERATIONAL RISK">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="INTERNAL AUDIT" target="CHARTERED INSTITUTE OF INTERNAL AUDITORS">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="EXECUTIVE SUMMARY" target="INTERNAL AUDIT REPORT">
+    <edge source="INSTITUTE OF INTERNAL AUDITORS" target="INTERNAL AUDIT FUNCTION">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="INTERNAL AUDIT REPORT" target="CORRECTIVE ACTION">
+    <edge source="INTERNATIONAL PROFESSIONAL PRACTICES FRAMEWORK" target="LAWRENCE SAWYER">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITING" target="LAWRENCE SAWYER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITING" target="SARBANES&#8211;OXLEY ACT OF 2002">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITING" target="INTERNAL AUDITING ACTIVITY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITING" target="AUDIT TECHNIQUE">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITING" target="RISK MANAGEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITING" target="CONTROL PROCESSES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITING" target="GOVERNANCE PROCESSES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITING" target="EFFICIENCY/EFFECTIVENESS OF OPERATIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITING" target="RELIABILITY OF FINANCIAL AND MANAGEMENT REPORTING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITING" target="COMPLIANCE WITH LAWS AND REGULATIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITING" target="FRAUD AUDITS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITING" target="POST INVESTIGATION FRAUD AUDITS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITING" target="MANAGEMENT SCIENCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDITING" target="QUALITY ASSURANCE">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="MICHAEL G. ALLES" target="DISRUPTIVE INNOVATION">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="INTERNATIONAL FINANCIAL REPORTING STANDARDS" target="INTERNATIONAL ACCOUNTING STANDARDS BOARD">
-      <data key="d0">18.0</data>
-    </edge>
-    <edge source="INTERNATIONAL FINANCIAL REPORTING STANDARDS" target="WIKITABLES">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="INTERNATIONAL FINANCIAL REPORTING STANDARDS" target="GENERALLY ACCEPTED ACCOUNTING PRINCIPLES">
-      <data key="d0">5.0</data>
-    </edge>
-    <edge source="INTERNATIONAL FINANCIAL REPORTING STANDARDS" target="FINANCIAL ACCOUNTING">
+    <edge source="INTERNAL AUDITING" target="BANKING COMPLIANCE ACTIVITIES">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="WIKITABLES" target="CASH FLOW STATEMENT">
+    <edge source="INTERNAL AUDIT PROFESSIONAL STANDARDS" target="NEW YORK STATE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT PROFESSIONAL STANDARDS" target="FLORIDA">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CHIEF AUDIT EXECUTIVE" target="CHIEF EXECUTIVE OFFICER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CHIEF AUDIT EXECUTIVE" target="INTERNAL AUDIT DEPARTMENTS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CHIEF AUDIT EXECUTIVE" target="MANAGER">
       <data key="d0">6.0</data>
+    </edge>
+    <edge source="CHIEF AUDIT EXECUTIVE" target="AUDIT REPORTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CHIEF AUDIT EXECUTIVE" target="CRITICAL ISSUES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT DEPARTMENTS" target="PUBLICLY TRADED COMPANIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT DEPARTMENTS" target="NON-PROFIT COMPANIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT DEPARTMENTS" target="FOLLOW-UP DATABASE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LAWRENCE SAWYER" target="INTERNAL AUDIT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LAWRENCE SAWYER" target="OPERATIONAL AUDITING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LAWRENCE SAWYER" target="PERFORMANCE AUDITING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LAWRENCE SAWYER" target="POSITIVE REINFORCEMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LAWRENCE SAWYER" target="INTERPERSONAL DYNAMICS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT" target="INTERNAL AUDIT FUNCTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT" target="CORPORATE LEGAL COUNSEL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT" target="THREE LINES OF DEFENCE MODEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ORGANIZATIONAL INDEPENDENCE" target="FUNCTIONAL REPORTING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ORGANIZATIONAL INDEPENDENCE" target="ADMINISTRATIVE REPORTING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="ENTERPRISE RISK MANAGEMENT (ERM)">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="SARBANES&#8211;OXLEY REGULATIONS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="CHIEF AUDIT EXECUTIVE (CAE)">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="FRAUD RISK ASSESSMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="CORPORATE GOVERNANCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="THREE LINES OF DEFENCE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="AUDIT PROJECT SELECTION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="INTERNAL AUDIT ASSIGNMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="FORWARD-LOOKING OPERATING MEASURES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="INTERNAL AUDIT STRATEGIC PLAN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="INFORMATION TECHNOLOGY AUDITORS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="CUSTOMER SURVEYS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="IIA STANDARDS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="STRATEGIC PLANS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="AUDIT ENGAGEMENTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="BALANCED SCORECARD APPROACH">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="PEER REVIEWS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="MANAGEMENT TRAINING GROUND">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="TECHNOLOGY TOOLS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="STRATEGIC MANAGEMENT CONCEPTS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="PERFORMANCE MEASUREMENT PROCESS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENTERPRISE RISK MANAGEMENT (ERM)" target="COSO ENTERPRISE RISK MANAGEMENT (ERM) FRAMEWORK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CHIEF AUDIT EXECUTIVE (CAE)" target="SENIOR MANAGEMENT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CHIEF AUDIT EXECUTIVE (CAE)" target="STRATEGIC INITIATIVES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUDIT PROJECT SELECTION" target="ANNUAL AUDIT PLAN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT ASSIGNMENT" target="AUDIT CHECKLIST">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT ASSIGNMENT" target="BUSINESS AREA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT REPORT" target="INTERNAL AUDIT REPORT QUALITY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT REPORT" target="EXECUTIVE SUMMARY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT REPORT" target="FIVE C'S">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CAPAS" target="QUALITY ISSUES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="KEY RISKS" target="MANAGEMENT PRACTICES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INFORMATION TECHNOLOGY AUDITORS" target="INFORMATION TECHNOLOGY CONTROLS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CUSTOMER SURVEYS" target="AUDIT ENGAGEMENTS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CUSTOMER SURVEYS" target="PERFORMANCE MEASUREMENT PROCESS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CUSTOMER SURVEYS" target="PROFESSIONALISM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CUSTOMER SURVEYS" target="QUALITY OF COUNSEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CUSTOMER SURVEYS" target="TIMELINESS OF WORK PRODUCT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CUSTOMER SURVEYS" target="UTILITY OF MEETINGS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CUSTOMER SURVEYS" target="QUALITY OF STATUS UPDATES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PERFORMANCE MEASUREMENT PROCESS" target="QUALITY OF COUNSEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="PERFORMANCE MEASUREMENT PROCESS" target="TIMELINESS OF WORK PRODUCT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="PERFORMANCE MEASUREMENT PROCESS" target="UTILITY OF MEETINGS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="PERFORMANCE MEASUREMENT PROCESS" target="QUALITY OF STATUS UPDATES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INDEPENDENT PEER REVIEWS" target="QUALITY ASSURANCE PROCESS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT" target="THREE LINES OF DEFENCE MODEL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT" target="MICHAEL G. ALLES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT" target="BIG DATA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT" target="CHIEF FINANCIAL OFFICER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT" target="INFORMATION TECHNOLOGY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT" target="PURCHASING">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT" target="WAREHOUSING AND DISTRIBUTION">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT" target="HUMAN RESOURCES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT" target="FACILITIES MANAGEMENT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT" target="CUSTOMER SERVICE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT" target="FIELD OPERATIONS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT" target="PROGRAM MANAGEMENT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT" target="DISRUPTIVE INNOVATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT" target="BOARD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="THREE LINES OF DEFENCE MODEL" target="COMPLIANCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THREE LINES OF DEFENCE MODEL" target="OPERATIONAL RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THREE LINES OF DEFENCE MODEL" target="CUSTOMER-FACING OPERATIONAL MANAGEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="THREE LINES OF DEFENCE MODEL" target="MIDDLE OFFICE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="THREE LINES OF DEFENCE MODEL" target="FINANCIAL RISK MANAGEMENT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DISRUPTIVE INNOVATION" target="AGILE PROCESSES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DISRUPTIVE INNOVATION" target="ROBOTIC PROCESS AUTOMATION">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DISRUPTIVE INNOVATION" target="CONTINUOUS AUDITING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DISRUPTIVE INNOVATION" target="REGULATORY CHANGE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="BOARD" target="EXTERNAL INDEPENDENT BODIES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK CAPITAL" target="GOING CONCERN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GOING CONCERN" target="REGULATORY CAPITAL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MANAGEMENT CHAIN" target="SECOND LINE OF DEFENCE">
+      <data key="d0">1.0</data>
     </edge>
     <edge source="GENERALLY ACCEPTED ACCOUNTING PRINCIPLES" target="FINANCIAL ACCOUNTING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GENERALLY ACCEPTED ACCOUNTING PRINCIPLES" target="STATEMENT OF FINANCIAL POSITION">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="FINANCIAL ACCOUNTING" target="MANAGERIAL ACCOUNTING">
-      <data key="d0">6.0</data>
+    <edge source="FINANCIAL ACCOUNTING" target="INTERNATIONAL FINANCIAL REPORTING STANDARDS">
+      <data key="d0">8.0</data>
     </edge>
-    <edge source="FINANCIAL ACCOUNTING" target="DAVID ANNAND">
-      <data key="d0">6.0</data>
+    <edge source="FINANCIAL ACCOUNTING" target="WIKITABLES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FINANCIAL ACCOUNTING" target="FINANCIAL REPORTING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FINANCIAL ACCOUNTING" target="STATEMENT OF CASH FLOWS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FINANCIAL ACCOUNTING" target="STATEMENT OF FINANCIAL PERFORMANCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FINANCIAL ACCOUNTING" target="STATEMENT OF FINANCIAL POSITION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FINANCIAL ACCOUNTING" target="STOCKHOLDERS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FINANCIAL ACCOUNTING" target="BUSINESS OWNERS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FINANCIAL ACCOUNTING" target="OTHER STAKEHOLDERS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FINANCIAL ACCOUNTING" target="CERTIFIED PUBLIC ACCOUNTANT CPA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FINANCIAL ACCOUNTING" target="CHARTERED CERTIFIED ACCOUNTANT ACCA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FINANCIAL ACCOUNTING" target="ACCOUNTANT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FINANCIAL ACCOUNTING" target="COST ACCOUNTING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FINANCIAL ACCOUNTING" target="PROFIT AND LOSS ACCOUNT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FINANCIAL ACCOUNTING" target="CONTRA-ACCOUNTS">
+      <data key="d0">8.0</data>
     </edge>
     <edge source="FINANCIAL ACCOUNTING" target="JOHNNY JACKSON">
-      <data key="d0">6.0</data>
-    </edge>
-    <edge source="EUROPEAN ACCOUNTING ASSOCIATION" target="CAPITAL MAINTENANCE">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="ELLEN" target="TOM">
+    <edge source="FINANCIAL ACCOUNTING" target="DAVID ANNAND">
       <data key="d0">5.0</data>
     </edge>
-    <edge source="STATEMENT OF FINANCIAL PERFORMANCE" target="STATEMENT OF FINANCIAL POSITION">
-      <data key="d0">1.0</data>
+    <edge source="INTERNATIONAL FINANCIAL REPORTING STANDARDS" target="INTERNATIONAL ACCOUNTING STANDARDS BOARD">
+      <data key="d0">20.0</data>
     </edge>
-    <edge source="BALANCE SHEET" target="NET INCOME">
+    <edge source="INTERNATIONAL FINANCIAL REPORTING STANDARDS" target="IAS 29 FINANCIAL REPORTING IN HYPERINFLATIONARY ECONOMIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNATIONAL FINANCIAL REPORTING STANDARDS" target="STATEMENT OF FINANCIAL POSITION">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="BALANCE SHEET" target="STATEMENT OF RETAINED EARNINGS">
-      <data key="d0">8.0</data>
+    <edge source="EUROPEAN ACCOUNTING ASSOCIATION" target="FINANCIAL REPORTING">
+      <data key="d0">7.0</data>
     </edge>
-    <edge source="STATEMENT OF RETAINED EARNINGS" target="RETAINED EARNINGS">
+    <edge source="ELLEN" target="TOM">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="ELLEN" target="STATEMENT OF CASH FLOWS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="STATEMENT OF CASH FLOWS" target="WIKITABLES">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="RETAINED EARNINGS" target="EQUITY">
+    <edge source="STATEMENT OF FINANCIAL PERFORMANCE" target="SALES">
       <data key="d0">8.0</data>
+    </edge>
+    <edge source="STATEMENT OF FINANCIAL PERFORMANCE" target="COST OF GOODS SOLD">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="STATEMENT OF FINANCIAL PERFORMANCE" target="SELLING GENERAL ADMINISTRATIVE EXPENSES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="STATEMENT OF FINANCIAL PERFORMANCE" target="DEPRECIATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="STATEMENT OF FINANCIAL PERFORMANCE" target="EARNINGS BEFORE INTEREST AND TAXES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="STATEMENT OF FINANCIAL PERFORMANCE" target="INTEREST AND TAX EXPENSES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="STATEMENT OF FINANCIAL POSITION" target="STATEMENT OF RETAINED EARNINGS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="STATEMENT OF RETAINED EARNINGS" target="RETAINED EARNINGS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="STATEMENT OF RETAINED EARNINGS" target="PROFIT AND LOSS ACCOUNT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RETAINED EARNINGS" target="OWNER'S EQUITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RETAINED EARNINGS" target="OWNERS' EQUITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RETAINED EARNINGS" target="BEGINNING RETAINED EARNINGS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PROFIT AND LOSS ACCOUNT" target="PROFIT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PROFIT AND LOSS ACCOUNT" target="LOSS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PROFIT AND LOSS ACCOUNT" target="REVENUE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PROFIT AND LOSS ACCOUNT" target="EXPENSES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PROFIT AND LOSS ACCOUNT" target="DIVIDENDS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HISTORICAL COST ACCOUNTING" target="DAILY CPI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FIXED ASSETS" target="NON-CURRENT ASSETS">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="NON-CURRENT ASSETS" target="COPYRIGHTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NON-CURRENT ASSETS" target="TRADEMARKS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NON-CURRENT ASSETS" target="PATENTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NON-CURRENT ASSETS" target="GOODWILL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CURRENT LIABILITIES" target="TRADE ACCOUNTS PAYABLE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CURRENT LIABILITIES" target="DIVIDENDS PAYABLE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CURRENT LIABILITIES" target="EMPLOYEE SALARIES PAYABLE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CURRENT LIABILITIES" target="INTEREST PAYABLE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="LONG TERM LIABILITIES" target="MORTGAGE NOTES PAYABLE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="LONG TERM LIABILITIES" target="BONDS PAYABLE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="OWNER'S EQUITY" target="COMMON STOCK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COMMON STOCK" target="OWNERS' EQUITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FINANCIAL ACCOUNTANTS" target="BUSINESS ENTITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CERTIFIED PUBLIC ACCOUNTANT CPA" target="AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS AICPA">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ACCOUNTANT" target="BUSINESSMAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ACCOUNTANT" target="FINANCIAL POSITION STATEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CONTRA-ACCOUNTS" target="ACCUMULATED DEPRECIATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CONTRA-ACCOUNTS" target="ALLOWANCES FOR BAD DEBT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CONTRA-ACCOUNTS" target="OBSOLETE INVENTORY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CONTRA-ACCOUNTS" target="SALES ALLOWANCES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CONTRA-ACCOUNTS" target="TREASURY STOCK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ACCOUNTING EQUATION" target="DEBIT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ACCOUNTING EQUATION" target="CREDIT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="TRIAL BALANCE" target="DOUBLE-ENTRY ACCOUNTING SYSTEM">
+      <data key="d0">9.0</data>
     </edge>
     <edge source="LIABILITIES" target="ASSETS">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="ASSETS" target="EQUITY">
+    <edge source="LIABILITIES" target="OWNERS' EQUITY">
       <data key="d0">9.0</data>
     </edge>
-    <edge source="DAVID ANNAND" target="ATHABASCA UNIVERSITY">
-      <data key="d0">7.0</data>
+    <edge source="ASSETS" target="OWNERS' EQUITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ATHABASCA UNIVERSITY" target="DAVID ANNAND">
+      <data key="d0">8.0</data>
     </edge>
     <edge source="JOHNNY JACKSON" target="THOMAS EDISON STATE UNIVERSITY">
       <data key="d0">7.0</data>
     </edge>
-    <edge source="ALEXANDER, D." target="BRITTON, A.">
+    <edge source="ALEXANDER" target="INTERNATIONAL FINANCIAL REPORTING AND ANALYSIS">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="ALEXANDER, D." target="JORISSEN, A.">
+    <edge source="INTERNATIONAL FINANCIAL REPORTING AND ANALYSIS" target="BRITTON">
       <data key="d0">8.0</data>
     </edge>
-    <edge source="ALEXANDER, D." target="INTERNATIONAL FINANCIAL REPORTING AND ANALYSIS">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="BRITTON, A." target="JORISSEN, A.">
-      <data key="d0">1.0</data>
-    </edge>
-    <edge source="BRITTON, A." target="INTERNATIONAL FINANCIAL REPORTING AND ANALYSIS">
-      <data key="d0">7.0</data>
-    </edge>
-    <edge source="JORISSEN, A." target="INTERNATIONAL FINANCIAL REPORTING AND ANALYSIS">
-      <data key="d0">1.0</data>
+    <edge source="INTERNATIONAL FINANCIAL REPORTING AND ANALYSIS" target="JORISSEN">
+      <data key="d0">8.0</data>
     </edge>
   </graph>
 </graphml>
