@@ -1,6 +1,8 @@
 # GraphRAG Demo
 
-This demo was prepared in May 2025 as a Tech Community blog article companion. It is recommended to refine your GraphRAG use case using base GraphRAG library and then to move to the GraphRAG Accelerator solution for industrialization.
+This repository was initially created as a companion to a Microsoft Tech Community blog article (publication pending). See [LINK TO BE ADDED ON PUBLICATION].
+
+See the below links for more information about GraphRAG:
 
 |   |   |
 |---|---|
