@@ -1,0 +1,8 @@
+# Required libraries
+ipykernel==6.29.4
+python-dotenv==1.0.0
+openai==1.76.2
+azure-core==1.29.5
+pydantic==2.11.4
+wikipedia==1.4.0
+graphrag==2.2.1

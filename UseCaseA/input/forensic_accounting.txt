@@ -1,0 +1,65 @@
+Forensic accounting, forensic accountancy or financial forensics is the specialty practice area of accounting that investigates whether firms engage in financial reporting misconduct, or financial misconduct within the workplace by employees, officers or directors of the organization. Forensic accountants apply a range of skills and methods to determine whether there has been financial misconduct by the firm or its employees.
+
+
+== History ==
+Forensic accounting was not formally defined until the 1940s. Originally Frank Wilson is credited with the birth of forensic accounting in the 1930s.
+When Wilson was working as a CPA for the US Internal Revenue Service, he was assigned to investigate the transactions of the infamous gangster Al Capone. Capone was known for his involvement in illegal activities, including violent crimes. However it was Capone's federal income tax fraud that was discovered by forensic accountants. Wilson's diligent analysis of the financial records of Al Capone resulted in his indictment for federal income tax evasion. Capone owed the government $215,080.48 from illegal gambling profits and was found guilty of tax evasion for which he was sentenced to 10 years in federal prison. This case established the significance of forensic accounting.
+
+
+== Application area ==
+Forensic accountants are necessary for a variety of reasons. They can be useful for criminal investigations, litigation support, insurance claims, and corporate investigations. 
+Financial forensic engagements may fall into several categories. For example:
+
+Economic damages calculations, whether suffered through tort or breach of contract;
+Post-acquisition disputes such as earnouts or breaches of warranties;
+Bankruptcy, insolvency, and reorganization;
+Divorce settlement
+Securities fraud;
+Tax fraud;
+Money laundering;
+Business valuation;
+Credit card fraud;
+Skimming;
+Computer forensics/e-discovery; and
+Fraud risk assessments under SOX 404 or otherwise.
+
+
+== Forensic accountants ==
+
+Forensic accountants, investigative accountants or expert accountants may be involved in recovering proceeds of serious crime, and provide evidence to confiscation proceedings concerning actual or assumed proceeds of crime or money laundering. In the United Kingdom, relevant legislation is contained in the Proceeds of Crime Act 2002. Forensic accountants typically hold the following qualifications; Certified Forensic Accounting Professional [Certified Forensic Auditors] (CFA - England & Wales) granted by the Forensic Auditors Certification Board of England and Wales (FACB), Certified Fraud Examiners (CFE - US / International), Certificate Course on Forensic Accounting and Fraud Detection (FAFD) by Institute of Chartered Accountants of India (ICAI), Certified Public Accountants (CPA - US) with AICPA's [Certified in Financial Forensics est. 2008] (CFF) Credentials, Chartered Accountants (CA - Canada), Certified Management Accountants (CMA - Canada), Chartered Professional Accountants (CPA - Canada), Chartered Certified Accountants (CCA - UK), or Certified Forensic Investigation Professionals (CFIP). In India there is a separate breed of forensic accountants called Certified Forensic Accounting Professionals.
+The Certified Forensic Accountant (CRFAC) program from the American Board of Forensic Accounting assesses Certified Public Accountants (CPAs) knowledge and competence in professional forensic accounting services in a multitude of areas. Forensic accountants may be involved in both litigation support (providing assistance on a given case, primarily related to the calculation or estimation of economic damages and related issues) and investigative accounting (looking into illegal activities). The American Board of Forensic Accounting was established in 1993.
+Large accounting firms often have a forensic accounting department. All of the larger accounting firms, as well as many medium-sized and boutique firms and various police and government agencies have specialist forensic accounting departments. Within these groups, there may be further sub-specializations: some forensic accountants may, for example, specialize in insurance claims, personal injury claims, fraud, anti-money-laundering, construction, or royalty audits. Forensic accounting used in large companies is sometimes called financial forensics.
+The role of the forensic accountants differ from what auditors do. Forensic accountants are involved with investigating and analyzing the factual information brought about by the crime, whereas auditors handle the gross financial statements. Auditors detect financial deficiencies that need to be corrected, and they give suggestions to investors, based on their professional opinion, on the reliance of financial statements. Forensic accountants examine evidence of criminal offences and through this evidence, make efforts to improve the processes adopted by those affected. Though audits and forensic accounting investigations have their differences, they share a couple similarities; both require knowledge of the practices and processes possessed by the business and the general accounting principles concerned with the particular situation, and they both require the ability to interpret financial documents and be objective and impartial. 
+Forensic accountants combine knowledge of the law with their accounting skills.  They can assess companies, and help companies resolve issues.  This can help companies prevent corruption, fraud, embezzlement, etc. As with all accounting professionals, forensic accountants performing an audit of a company should remain neutral.  Large companies mainly use forensic accountants when performing audits; however, there are other uses for forensic accountants in companies. Forensic accountants often assist in professional negligence claims where they are assessing and commenting on the work of other professionals. Forensic accountants are also engaged in marital and family law, analyzing lifestyle for spousal support purposes, determining income available for child support, and equitable distribution of marital assets.
+Forensic accounting and fraud investigation methodologies are different than internal auditing. Thus forensic accounting services and practice should be handled by forensic accounting experts, not by internal auditing experts. Forensic accountants may appear on the crime scene a little later than fraud auditors; their major contribution is in translating complex financial transactions and numerical data into terms that ordinary laypersons can understand, because if the fraud comes to trial, the jury will be made up of ordinary laypersons. On the other hand, internal auditors investigate using checklists and techniques that may not surface the types of evidence that the jury or regulatory bodies look for in proving fraud. Forensic investigation fieldwork may carry legal risks and consultant malpractice risks if internal auditing checklists are used, rather than the specialized skills of forensic accounting.
+The fraud cycle describes the process which is taken by those in order to conduct a fraud. It begins with planning the actions of the fraud, which is then followed by the actual commitment of the act, ending with the conversion of the assets to cash. The main goal of Forensic accountants is to determine whether financial crime has been committed, and if so, to what extent. They are often used as expert witnesses to assist the judge or jury in forming the verdict. It is important that forensic accountants possess skills such as microeconomics, cost-center accounting systems, coming up with conclusions with little data, report writing, research skills and interview skills.
+This process can employ one or more of the following techniques: review of Public records; background investigations; interviews of knowledgeable parties; analysis of Real evidence to identify possible Forgery and/or document alterations; Surveillance and inspection of business premises; analysis of individual Financial transactions or statements; review of Business records to identify fictitious vendors, employees, and/or business activities, or interrogation of suspects, questioning of witnesses or victims.
+Forensic accountants are also increasingly playing more proactive risk reduction roles by designing and performing extended procedures as part of the statutory audit, acting as advisers to audit committees, fraud deterrence engagements, and assisting in investment analyst research.
+
+
+== Methods ==
+Forensic accounting combines the work of an auditor and a public or private investigator. Unlike auditors whose goal is focused on finding and preventing errors, the role of a forensic accountant is to detect instances of fraud, as well as identify the suspected perpetrator of the fraud. Some of the most common types of fraud schemes include overstating revenues, understating liabilities, inventory manipulation, asset misappropriation, and bribery/corruption. To discover these, forensic accountants apply a variety of techniques.
+Forensic accounting methods can be classified into quantitative and qualitative. The qualitative approach studies the personal characteristics of the individuals behind financial fraud schemes. A popular theory of fraud revolves around the fraud triangle, which classifies the three elements of fraud as perceived opportunity, perceived need (pressures), and rationalization. This theoretical construct was first articulated by behavioral scientist Donald Cressey.  More recently, forensic accountants have gone beyond incentive effects and focused on behavioral characteristics, a branch of accounting known as accounting, behavior and organizations, or organizational behavior. Certain predictive factors, like being labeled as “narcissistic” or committing adultery, are common traits among fraud perpetrators. These characteristics are often not conclusive enough on their own to identify the culprit, but can help forensic accountants to narrow down a suspect list, sometimes based on behavioral or demographic factors.
+The quantitative approach focuses on financial data information and searches for abnormalities or patterns predictive of misconduct. Today, forensic accountants work closely with data analytics to dig through complex financial records. Data collection is an important aspect of forensic accounting because proper analysis requires data that is sufficient and reliable. Once a forensic accountant has access to the relevant data, analytic techniques are applied. Predictive modeling can detect potentially fraudulent activities, entity resolution algorithms and social network analytics can identify hidden relationships, and text mining allows forensic accountants to parse through large amounts of unstructured data quickly. Another common quantitative forensic accounting method is the application of Benford's law. Benford's law predicts patterns in an observed set of accounting data, and the more the data deviates from the pattern, the more likely that the data has been manipulated and falsified.
+
+
+== Analytical techniques ==
+Forensic accountants utilize an understanding of economic theories, business information, financial reporting systems, accounting and auditing standards and procedures, data management & electronic discovery, data analysis techniques for fraud detection, evidence gathering and investigative techniques, and litigation processes and procedures to perform their work.
+When detecting fraud in public organizations accountants will look in areas such as billing, corruption, cash and non-cash asset misappropriation, refunds and issues in the payroll department. To detect fraud, companies may undergo management reviews, audits (both internally and externally) and inspection of documents. Forensic accountants will often try to prevent fraud before it happens but searching for errors and in-precise operations as well as poorly documented transactions.
+The process begins with the forensic accountant gathering as much information as possible from clients, suppliers, stakeholders and anyone else involved in the company. Next, they will analyze financial statements in order to try and find errors or mistakes in the reporting of those financial statements as well as they will analyze any background information provided. The next step involves interviewing employees in order to try and find where the fraud may be occurring. Investigators will look at company values, performance reviews, management styles and the overall structure of the company. After this is complete the forensic accountant will try to draw conclusions from their findings.
+
+
+== See also ==
+Benford's law
+Certified Fraud Examiner
+Association of Certified Fraud Examiners
+
+
+== References ==
+
+
+== External links ==
+International Institute of Forensic Investigation Professionals Inc
+Association of Certified Fraud Examiners
+Certified in Financial Forensics
+Forensic Accountants, Forensic Accounting Certifications, and Due Diligence
