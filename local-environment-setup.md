@@ -41,7 +41,7 @@ Use the following steps as an informal guide to setting up VS Code to run python
 
 1. In the **Explorer** panel (```Ctrl + Shift + E```), hover over the workspace header and click the **New File** icon to create a file. Name the new file `requirements.txt` and click **Enter**.
 1. Add this text to line 1 in the file: `ipykernel==6.29.4`. Then, save the file (`Ctrl + S`).
-1. In the **Terminal** window, you should have a cmd terminal that is showing the `(.venv)` prefix. Within this terminal, type `pip install -r ./vscode_python/requirements.txt` and press **Enter**.
+1. In the **Terminal** window, you should have a cmd terminal that is showing the `(.venv)` prefix. Within this terminal, type `pip install -r ./requirements.txt` and press **Enter**.
     - It is finished when a new line appears prefixed with `(.venv)`.
 
 ## Test python files
