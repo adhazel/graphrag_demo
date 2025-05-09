@@ -1,6 +1,6 @@
 # GraphRAG Demo
 
-This repository was initially created as a companion to a Microsoft Tech Community blog article (publication pending). See [LINK TO BE ADDED ON PUBLICATION].
+This repository was initially created as a companion to a Microsoft Tech Community blog article: [Your First GraphRAG Demo - A Video Walkthrough](https://techcommunity.microsoft.com/blog/aiplatformblog/your-first-graphrag-demo---a-video-walkthrough/4410246).
 
 See the below links for more information about GraphRAG:
 
